@@ -1,0 +1,114 @@
+Timestamp,PID,RES_KB,VSZ_KB,CPU%,Command
+2025-08-05 05:33:45,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:33:46,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:33:47,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:33:49,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:33:50,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:33:51,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:33:52,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:33:53,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:33:54,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:33:55,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:33:57,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:33:58,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:33:59,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:00,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:01,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:02,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:03,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:04,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:06,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:07,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:08,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:09,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:10,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:11,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:12,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:13,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:15,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:16,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:17,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:18,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:19,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:20,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:21,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:23,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:24,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:25,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:26,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:27,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:28,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:29,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:30,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:32,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:33,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:34,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:35,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:36,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:37,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:38,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:39,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:40,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:42,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:43,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:44,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:45,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:46,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:47,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:48,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:50,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:51,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:52,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:53,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:54,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:55,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:55,  16250 183896 2069364 100 /usr/bin/gnome-text-editor /home/stephan/python3.res.txt
+2025-08-05 05:34:56,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:56,  16250 184536 2057396 50.2 /usr/bin/gnome-text-editor /home/stephan/python3.res.txt
+2025-08-05 05:34:57,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:57,  16250 184664 2057528 34.3 /usr/bin/gnome-text-editor /home/stephan/python3.res.txt
+2025-08-05 05:34:59,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:34:59,  16250 185048 2058056 27.2 /usr/bin/gnome-text-editor /home/stephan/python3.res.txt
+2025-08-05 05:35:00,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:00,  16250 185688 2058516 23.1 /usr/bin/gnome-text-editor /home/stephan/python3.res.txt
+2025-08-05 05:35:01,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:01,  16250 185688 2060564 23.1 /usr/bin/gnome-text-editor /home/stephan/python3.res.txt
+2025-08-05 05:35:02,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:03,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:04,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:05,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:06,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:08,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:09,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:10,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:11,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:12,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:13,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:14,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:15,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:17,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:18,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:19,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:20,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:21,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:22,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:23,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:25,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:26,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:27,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:28,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:29,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:30,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:31,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:32,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:34,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:35,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:36,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:37,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:37,  17778 11008  21216  105 python3 quicksort.py
+2025-08-05 05:35:38,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:38,  17778 12480  22644  100 python3 quicksort.py
+2025-08-05 05:35:39,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:39,  17778 17712  28080  100 python3 quicksort.py
+2025-08-05 05:35:40,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
+2025-08-05 05:35:41,  10600 19328  32264  0.0 /usr/bin/python3 /usr/bin/gnome-terminal --wait
