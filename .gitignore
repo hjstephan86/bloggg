@@ -1,5 +1,6 @@
 __pycache__/
 .vscode/
+venv/
 rsvg-convert.txt
 *.bin
 *.aux
