@@ -117,3 +117,5 @@ Es darf nicht sein, dass einem Menschen der Finger abgehackt wird und dieser fü
 Die Zufriedenheit des Benutzers mit der Web Applikation wird bestimmt durch JavaScript und CSS. Die Benutzererfahrung während der Benutzung der Web Applikation wird maßgeblich durch JavaScript Lösungen und CSS beeinflusst.
 
 Verwende für statische Berechnungen 10% mehr Gewicht pro Person und 10% mehr Gewicht pro Liter Wasser. Das heißt, nutze z.B. 110kg als Referenz für statische Berechnungen für das Gewicht einer Person. Durch diese sicherere Auslegung kann der Sicherheitsfaktor der gesamten Statik mit herkömmlicher Referenz des Gewichtes pro Person von 100kg etwas reduziert und dadurch Material eingespart werden.
+
+Der Trainer der U19 wechselt nach einem Jahr in die U21 und bleibt für zwei Jahre Trainer der U21. Die Trainer der U19 und U21 wechseln sich ab. Dadurch begleiten sie die Spieler maximal lange und tauschen sich aus.
