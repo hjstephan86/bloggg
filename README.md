@@ -125,3 +125,5 @@ Nur der Trainer entscheidet darüber, welche Spieler für die Mannschaft verpfli
 Der Benutzer kann Regeln für ein Girokonto definieren: Regeln für Eingänge und Regeln für Ausgänge, die als unterschiedliche Leistungen angeboten werden.
 
 Viermal im Jahr werden alle automatisierten Aufsichtsbeschwerden in einem Ranking einer jeden Bank veröffentlicht. Eine automatisierte Aufsichtsbeschwerde wird ausgelöst, wenn die Bank nicht dem einfachen kirchhoffschen Prinzip folgt. Dabei sind ausgeschlossen das Verbuchen von Leistungen oder Zinsen.
+
+Der Mensch sucht das immer wieder Entweichende und doch Wiederkehrende. Der Mensch muss glauben. Jeder Mensch glaubt, auch heute.
