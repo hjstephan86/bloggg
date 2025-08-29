@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lebenslauf - Stephan Epp</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+            font-size: 16pt;
+            /* Deutlichere Schriftgröße für bessere Lesbarkeit */
+        }
+
+        @page {
+            size: A4;
+            margin: 25mm;
+        }
+
+        .header {
+            margin-bottom: 30px;
+            border-bottom: 2px solid #4a90e2;
+            padding-bottom: 20px;
+        }
+
+        .header h1 {
+            text-align: center;
+            color: #4a90e2;
+            font-size: 2.2em;
+            margin-bottom: 60px;
+        }
+
+        .contact-info {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+        }
+
+        @media (max-width: 600px) {
+            .contact-info {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .section {
+            margin-bottom: 25px;
+        }
+
+        .section h2 {
+            background-color: #4a90e2;
+            color: white;
+            padding: 8px 12px;
+            margin: 0 0 10px 0;
+            font-size: 1.1em;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 10px;
+        }
+
+        table td {
+            padding: 8px;
+            vertical-align: top;
+        }
+
+        .date-col {
+            width: 30%;
+            font-weight: bold;
+            color: #4a90e2;
+        }
+
+        .content-col {
+            width: 70%;
+        }
+
+        .company {
+            font-weight: bold;
+            color: #4a90e2;
+        }
+
+        .position {
+            font-style: italic;
+            margin-bottom: 3px;
+        }
+
+        .tech-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 10px;
+        }
+
+        .tech-category {
+            background-color: #f8f9fa;
+            padding: 12px;
+            border-radius: 5px;
+            border-left: 4px solid #4a90e2;
+        }
+
+        .tech-category h4 {
+            margin: 0 0 8px 0;
+            color: #4a90e2;
+            font-size: 0.9em;
+        }
+
+        .tech-list {
+            font-size: 0.85em;
+            line-height: 1.4;
+        }
+
+        .preferred {
+            background-color: #e8f5e8;
+            border-left-color: #28a745;
+        }
+
+        .preferred h4 {
+            color: #28a745;
+        }
+
+        @media print {
+            body {
+                font-size: 12pt;
+                max-width: none;
+                margin: 0;
+                padding: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h1>Stephan Epp</h1>
+        <div class="contact-info">
+            <div><strong>Adresse:</strong> Viktoriastraße 10, 33602 Bielefeld</div>
+            <div><strong>Geboren:</strong> 29.08.1986, Bielefeld</div>
+            <div><strong>Telefon:</strong> 0163 8140605</div>
+            <div><strong>Familienstand:</strong> Verheiratet, fünf Kinder</div>
+            <div><strong>E-Mail:</strong> Stephan_Epp@web.de, hjstephan86@gmail.com</div>
+            <div><strong>Website:</strong> <a href="https://www.123-bibel.de">https://www.123-bibel.de</a></div>
+            <div><strong>GitHub:</strong> <a href="https://github.com/hjstephan86">https://github.com/hjstephan86</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Beruflicher Werdegang</h2>
+        <table>
+            <tr>
+                <td class="date-col">11/2023 – 03/2024</td>
+                <td class="content-col">
+                    <div class="company">Peter Berghaus GmbH, Bielefeld</div>
+                    <div class="position">Senior Software Entwickler, Verkehrstechnik</div>
+                    <div>Anforderungsanalyse, Implementieren von Anforderungen, Integrationstests, Inbetriebnahme</div>
+                </td>
+            </tr>
+            <tr>
+                <td class="date-col">07/2023 – 09/2023</td>
+                <td class="content-col">
+                    <div class="company">SALZ Automation GmbH, Bad Salzuflen</div>
+                    <div class="position">Qualitätssicherung, Automatisierung</div>
+                    <div>Automatisieren von Softwaretests</div>
+                </td>
+            </tr>
+            <tr>
+                <td class="date-col">12/2022 – 05/2023</td>
+                <td class="content-col">
+                    <div class="company">Rechenzentrum der Finanzverwaltung NRW, Paderborn</div>
+                    <div class="position">Technische Produktbetreuung, Finanzverwaltung</div>
+                    <div>Konfiguration, Test und Deployment der RM-Software</div>
+                </td>
+            </tr>
+            <tr>
+                <td class="date-col">04/2017 – 04/2019</td>
+                <td class="content-col">
+                    <div class="company">Hella GmbH & Co. KGaA, Lippstadt</div>
+                    <div class="position">Software Entwickler, Software Architekt, Automotive</div>
+                    <div>Anforderungsanalyse, Implementieren von Anforderungen, Schnittstellen definieren, Fehlersuche,
+                        Inbetriebnahme</div>
+                </td>
+            </tr>
+            <tr>
+                <td class="date-col">05/2016 – 03/2017</td>
+                <td class="content-col">
+                    <div class="company">Deutsche Post Adress GmbH & Co. KG, Gütersloh</div>
+                    <div class="position">Software Entwickler, Adress-Recherche</div>
+                    <div>Anforderungsanalyse, Implementieren von Anforderungen, Unit Tests, Integrationstests,
+                        Inbetriebnahme, Support</div>
+                </td>
+            </tr>
+            <tr>
+                <td class="date-col">04/2013 – 11/2015</td>
+                <td class="content-col">
+                    <div class="company">dSpace GmbH, Paderborn</div>
+                    <div class="position">Software Entwickler, Automotive/Luft- und Raumfahrt</div>
+                    <div>Anforderungsanalyse, Implementieren von Anforderungen, Verantwortung von Common Components,
+                        Unit Tests, 2nd Level Support</div>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="section">
+        <h2>Technologie-Stack</h2>
+        <div class="tech-grid">
+            <div class="tech-category preferred">
+                <h4>Bevorzugte Technologien</h4>
+                <div class="tech-list">
+                    <strong>Python</strong> (FastAPI bevorzugt)<br>
+                    <strong>JavaScript/NodeJS</strong><br>
+                    <strong>Capacitor</strong> (Android Apps)
+                </div>
+            </div>
+            <div class="tech-category">
+                <h4>Backend Frameworks</h4>
+                <div class="tech-list">
+                    FastAPI (Python), Spring Boot (Java), Entity Framework (C#), JPA (Java ORM), REST-API
+                </div>
+            </div>
+            <div class="tech-category">
+                <h4>Programmiersprachen</h4>
+                <div class="tech-list">
+                    Java, C#, Python, JavaScript, C (MISRA), PHP
+                </div>
+            </div>
+            <div class="tech-category">
+                <h4>Frontend & Mobile</h4>
+                <div class="tech-list">
+                    HTML, CSS, JavaScript, NodeJS, npm, Capacitor (Android)
+                </div>
+            </div>
+            <div class="tech-category">
+                <h4>Datenbanken</h4>
+                <div class="tech-list">
+                    PostgreSQL, Microsoft SQL, Oracle SQL, MySQL, MariaDB
+                </div>
+            </div>
+            <div class="tech-category">
+                <h4>Development Tools</h4>
+                <div class="tech-list">
+                    Visual Studio Code, Visual Studio, Eclipse, Git, Maven, LDRA tool suite, Jenkins,
+                </div>
+            </div>
+            <div class="tech-category">
+                <h4>Qualität</h4>
+                <div class="tech-list">
+                    Clean Code, TDD, Unit Tests, JUnit, NUnit, Integrationstests (nach zyklomatischer Komplexität),
+                    Code Coverage, Black/White-Box Testing
+                </div>
+            </div>
+            <div class="tech-category">
+                <h4>Requirements & Modeling</h4>
+                <div class="tech-list">
+                    Atlassian Jira, IBM Rational DOORS, Visure Requirements, UML, UML-Profiles, MDD, IBM Rational
+                    Rhapsody, Visual Paradigm, Enterprise Architect
+                </div>
+            </div>
+            <div class="tech-category">
+                <h4>Development Processes</h4>
+                <div class="tech-list">
+                    Wasserfall, Agil, V-Modell
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Studium und Schulbildung</h2>
+        <table>
+            <tr>
+                <td class="date-col">04/2011 – 04/2013</td>
+                <td class="content-col">
+                    <div class="company">Universität Paderborn</div>
+                    <div class="position">Master of Science, Informatik (Note 1,6), Englisch</div>
+                    <div>Schwerpunkt Softwaretechnik, Nebenfach Elektrotechnik<br>
+                        Masterarbeit: "Learning M-DNF in Boolean Circuits"</div>
+                </td>
+            </tr>
+            <tr>
+                <td class="date-col">10/2005 – 03/2011</td>
+                <td class="content-col">
+                    <div class="company">Universität Paderborn</div>
+                    <div class="position">Bachelor of Science, Informatik (Note 2,6)</div>
+                    <div>Nebenfach Elektrotechnik<br>
+                        Bachelorarbeit: "Aufgabenverteilung in Multiagentensystemen"</div>
+                </td>
+            </tr>
+            <tr>
+                <td class="date-col">06/2005</td>
+                <td class="content-col">
+                    <div class="company">Carl-Severing Berufskolleg, Bielefeld</div>
+                    <div class="position">Fachhochschulreife (Note 2,0)</div>
+                </td>
+            </tr>
+            <tr>
+                <td class="date-col">05/2002</td>
+                <td class="content-col">
+                    <div class="company">Kuhlo-Realschule, Bielefeld</div>
+                    <div class="position">Fachoberschulreife</div>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="section">
+        <h2>Ausbildung</h2>
+        <table>
+            <tr>
+                <td class="date-col">06/2005</td>
+                <td class="content-col">
+                    <div class="company">Carl-Severing-Berufskolleg, Bielefeld</div>
+                    <div class="position">Staatl. gepr. Informationstechnischer Assistent (Note 2,0)</div>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="section">
+        <h2>Praktika</h2>
+        <table>
+            <tr>
+                <td class="date-col">08/2008 – 10/2008</td>
+                <td class="content-col">
+                    <div class="company">Fecher e.K., Paderborn</div>
+                    <div>Entwickeln von Unit Tests</div>
+                </td>
+            </tr>
+            <tr>
+                <td class="date-col">10/2004 – 11/2004</td>
+                <td class="content-col">
+                    <div class="company">OEDIV KG, Bielefeld</div>
+                    <div>Auto-Installationsprogrammierung</div>
+                </td>
+            </tr>
+            <tr>
+                <td class="date-col">04/2004 – 05/2004</td>
+                <td class="content-col">
+                    <div class="company">KTI Distribution GmbH, Bielefeld</div>
+                    <div>Installation von Netzwerkadaptern</div>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="section">
+        <h2>Weitere Qualifikationen</h2>
+        <table>
+            <tr>
+                <td class="date-col">Sprachen</td>
+                <td class="content-col">Englisch (verhandlungssicher), Französisch (Grundkenntnisse)</td>
+            </tr>
+            <tr>
+                <td class="date-col">Stärken</td>
+                <td class="content-col">Analytisch, Einzelwahrnehmung, Wissbegier, Wiederherstellung, Behutsamkeit</td>
+            </tr>
+            <tr>
+                <td class="date-col">Interessen</td>
+                <td class="content-col">Wissenschaftliche Artikel verfassen, Programmieren, Bloggen, Fußball, Fitness,
+                    Schwimmen, Fotografie, Lesen, Spaziergänge</td>
+            </tr>
+        </table>
+    </div>
+
+    <div style="text-align: left; margin-top: 40px; font-style: italic;">
+        Bielefeld, 29. August 2025
+        <div>
+            <br>
+            <br>
+            <p>_____________________________<br>
+                Stephan Epp</p>
+        </div>
+    </div>
+</body>
+
+</html>

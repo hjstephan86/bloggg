@@ -166,12 +166,12 @@ def main():
 
     print("=== Signierung ===")
     signer.add_signature_precise(
-        input_pdf="Hausverbot.pdf",
+        input_pdf="Lebenslauf.pdf",
         signature_file="Unterschrift.png",
-        output_pdf="Hausverbot-sign.pdf",
-        page_number=2,
-        x=2.0,
-        y=5.0,
+        output_pdf="Lebenslauf-sign.pdf",
+        page_number=3,
+        x=2.5,
+        y=17.5,
         x_unit="cm",
         y_unit="cm",
         origin="top-left",  # "bottom-left" oder "center"
