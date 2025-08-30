@@ -131,3 +131,5 @@ Der Mensch sucht das immer wieder Entweichende und doch Wiederkehrende. Der Mens
 Nutze die standardisierte persönliche Identifizierung eines jeden Bürgers dieser Erde für die Verschlüsselung von E-Mails. Biete eine App zur sicheren persönlichen Verschlüsselung an. Damit ist eine Schriftzustellung mit der Post in den Briefkasten des Bürgers nicht mehr nötig.
 
 Nutze die unsichtbare Unruhe aus der Atmosphäre in der Arktis für die Energiegewinnung in der Arktis. Sichtbar ist diese unsichtbare Unruhe in Wolken. In der Arktis ist die Änderung der Temperatur am schnellsten und die Unruhe damit am größten.
+
+Hans Einhell ist Gründer von Einhell. Vielleicht macht ein ansprechenderes Logo *HE* mit einer vertrauensvollen Farbe zwischen grün und blau mehr Sinn und gibt Raum für eine neue Generation von Einhell Produkten.
