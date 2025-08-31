@@ -133,3 +133,5 @@ Nutze die standardisierte persönliche Identifizierung eines jeden Bürgers dies
 Nutze die unsichtbare Unruhe aus der Atmosphäre in der Arktis für die Energiegewinnung in der Arktis. Sichtbar ist diese unsichtbare Unruhe in Wolken. In der Arktis ist die Änderung der Temperatur am schnellsten und die Unruhe damit am größten.
 
 Hans Einhell ist Gründer von Einhell. Vielleicht macht ein ansprechenderes Logo *HE* mit einer vertrauensvollen Farbe zwischen grün und blau mehr Sinn und gibt Raum für eine neue Generation von Einhell Produkten.
+
+Biete Benutzern von rclone die Möglichkeit, den Verlauf der letzten Synchronisierungen im Portal einzusehen.
