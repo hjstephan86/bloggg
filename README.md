@@ -135,3 +135,5 @@ Nutze die unsichtbare Unruhe aus der Atmosphäre in der Arktis für die Energieg
 Hans Einhell ist Gründer von Einhell. Vielleicht macht ein ansprechenderes Logo *HE* mit einer vertrauensvollen Farbe zwischen grün und blau mehr Sinn und gibt Raum für eine neue Generation von Einhell Produkten.
 
 Biete Benutzern von rclone die Möglichkeit, den Verlauf der letzten Synchronisierungen im Portal einzusehen.
+
+Ich hasse alle Menschen, die mit Farbe auf ihrer Haut oder mit Metall und Löchern in der Haut ihr Aussehen bereichern und meinen damit, die Schöpfung hätte an Kontrasten und Attraktivität nicht schon alles vollkommen erschaffen.
