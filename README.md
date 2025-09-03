@@ -137,3 +137,5 @@ Hans Einhell ist Gründer von Einhell. Vielleicht macht ein ansprechenderes Logo
 Biete Benutzern von rclone die Möglichkeit, den Verlauf der letzten Synchronisierungen im Portal einzusehen.
 
 Ich hasse alle Menschen, die mit Farbe auf ihrer Haut oder mit Metall und Löchern in der Haut ihr Aussehen bereichern und meinen damit, die Schöpfung hätte an Kontrasten und Attraktivität nicht schon alles vollkommen erschaffen.
+
+Wieso wird bei einem System, welches durch Markov Ketten beschrieben wird, die Gedächtnislosigkeit betont? Bei einem dynamischen System hängt der aktuelle Zustand von der Vergangenheit ab. Ein System, das nicht dynamisch ist, muss nicht von der Vergangenheit abhängen und kann im Allgemeinen gedächtnislos sein.
