@@ -8,6 +8,7 @@ Nachfolgend habe ich Gedanken aufgeschrieben, die ich in den Gedanken unter [htt
 
 * [Python und Java](#python-und-java)
 * [Code: Formatierung und Kommentare](#code-formatierung-und-kommentare)
+* [Systemversagen in der Cybersecurity-Industrie](#systemversagen-in-der-cybersecurity-industrie)
 * [Naturwissenschaft](#Naturwissenschaft)
 
 ## Python und Java
@@ -95,6 +96,114 @@ Python      1        48       93         270     411
 Total       1        48       93         270     411
 </pre>
 Im Code von `ldist.py` wurden nur zwei Zeilen mit der Formatierung hinzugefügt, da eine längere Anweisung automatisch umgebrochen wurde.  Insgesamt wurden 20 neue Zeilen für Kommentare generiert und sechs neue Leerzeilen für die Formatierung hinzugefügt.
+
+## Systemversagen in der Cybersecurity-Industrie
+### Die CVE-Krise als Symptom für strukturelle Probleme
+
+*Basierend auf dem c't-Artikel "Trubel bei CVE - US-Schwachstellendatenbank drohte kurzzeitig die Abschaltung" (c't 12/2025) von Christopher Kunz*
+
+---
+
+### Einleitung
+
+Der beinahe erfolgte Kollaps der CVE-Datenbank im April 2025 offenbarte nicht nur die Fragilität kritischer IT-Infrastrukturen, sondern auch systematische Interessenskonflikte in der Cybersecurity-Industrie. Die drohende Abschaltung der weltweit wichtigsten Schwachstellendatenbank wirft fundamentale Fragen über die Rollenverteilung zwischen Softwareherstellern, Security-Anbietern und Endnutzern auf.
+
+### 1. Das inkonsequente Verhalten der Marktführer
+
+#### Die CVE-Krise als Chance für Marktführer
+
+Die im c't-Artikel beschriebene Beinahe-Abschaltung der CVE-Datenbank hätte für große Softwarehersteller durchaus vorteilhafte Nebeneffekte gehabt:
+
+**Verschleierung wird einfacher:**
+- Ohne einheitliche CVE-Kennungen können Sicherheitslücken schwerer kommuniziert werden
+- Fragmentierte nationale oder regionale Datenbanken erschweren Vergleiche
+- "Security by Obscurity" wird wieder zu einer realistischen Option
+
+**Reduzierter öffentlicher Druck:**
+- Weniger transparente Severity-Bewertungen
+- Schwierigere Risikobewertung für Kunden
+- Komplexere Medienberichterstattung über Sicherheitslücken
+
+#### Das Paradox der Marktmacht
+
+Wie der c't-Artikel zeigt, führt Microsoft regelmäßig die CVE-Listen an, investiert aber gleichzeitig Milliarden in Security-Lösungen. Dieses Paradox ist systemisch:
+
+**Profit vs. Sicherheit:**
+- Neue Features verkaufen sich besser als fundamentale Sicherheitsverbesserungen
+- Legacy-Code bleibt aus Kompatibilitätsgründen unsicher
+- "Too big to fail"-Mentalität reduziert Innovationsdruck
+
+**Die Halbherzige Rettung:**
+Die "letzte Sekunde"-Verlängerung des MITRE-Vertrags durch die CISA, wie im c't-Artikel beschrieben, könnte darauf hindeuten, dass es intern durchaus Stimmen gab, die das CVE-Chaos begrüßt hätten.
+
+### 2. Der problematische Nutzen von Cybersecurity-Lösungsanbietern
+
+#### Das Security-Industrie-Paradox
+
+Die europäische Reaktion auf die CVE-Krise - mit ENISAs hastiger Einführung der EUVD und CIRCLs GCVE-Projekt - zeigt, wie schnell alternative Lösungen aus dem Boden sprießen. Dies illustriert ein fundamentales Problem:
+
+**Die Symbiose zwischen Problemen und Lösungen:**
+```
+Marktführer → schaffen unsichere Software
+Security-Anbieter → verkaufen "Lösungen" dagegen
+Versicherungen → machen Schutz zur Pflicht
+Endnutzer → zahlt dreifach
+```
+
+#### Das Versicherungs-Erpressungs-System
+
+**Systematische Ausbeutung des Endkunden:**
+- Softwarehersteller verkaufen unsichere Produkte ohne Haftung
+- Security-Anbieter profitieren von den resultierenden Problemen
+- Versicherungen machen den Einsatz kostspieliger Security-Tools zur Bedingung
+- Der Endkunde trägt alle Kosten für ein System, das strukturell versagt
+
+**Beispiel aus der Praxis:**
+Ein Unternehmen kauft Microsoft Exchange, benötigt zusätzliche Email-Security-Gateways von Mimecast oder Proofpoint, und die Cyber-Versicherung verlangt beide als Bedingung für den Versicherungsschutz.
+
+### 3. Das eigentliche Systemversagen
+
+#### Fehlende Software-Haftung
+
+**Das Kernproblem:** Anders als in anderen Industrien gibt es in der Software-Branche praktisch keine Produkthaftung:
+- Autohersteller haften für defekte Bremsen
+- Softwarehersteller schließen jede Verantwortung per EULA aus
+- End User License Agreements legitimieren systematisch unsichere Software
+
+#### Die CVE-Krise als Warnsignal
+
+Der c't-Artikel zeigt exemplarisch, wie fragil die Grundlagen unserer digitalen Sicherheitsarchitektur sind. Die Tatsache, dass ein 20-Millionen-Dollar-Vertrag das globale Cybersecurity-Ökosystem hätte zum Einsturz bringen können, offenbart:
+
+**Strukturelle Schwächen:**
+- Übermäßige Abhängigkeit von US-amerikanischen Institutionen
+- Fehlende redundante Systeme
+- Mangelnde internationale Koordination
+
+**Perverse Anreize:**
+- Alle Akteure profitieren vom Status quo außer dem Endkunden
+- Marktführer haben wenig Anreiz für grundlegende Sicherheitsverbesserungen
+- Security-Anbieter haben ein Interesse daran, dass Grundprobleme bestehen bleiben
+
+### Fazit
+
+Die im c't-Artikel beschriebene CVE-Krise ist mehr als nur ein "Problem bei der Vertragsverwaltung", wie CISA es verharmlosend darstellte. Sie ist ein Symptom für ein systemisches Versagen, bei dem:
+
+1. **Marktführer** von der Verschleierung ihrer Sicherheitsprobleme profitieren würden
+2. **Security-Anbieter** ein wirtschaftliches Interesse an der Fortsetzung struktureller Probleme haben
+3. **Endkunden** dreifach belastet werden: für unsichere Software, für Sicherheitslösungen und für Versicherungen
+
+**Die Lösung liegt nicht in mehr Security-Tools, sondern in fundamentalen Reformen:**
+- Einführung von Software-Produkthaftung
+- Security by Design als gesetzliche Vorgabe
+- Transparente Kostenausweisung für Sicherheitsmaßnahmen
+- Internationale Diversifizierung kritischer Sicherheitsinfrastrukturen
+
+Die europäischen Alternativen (EUVD, GCVE) sind erste Schritte in die richtige Richtung, aber ohne strukturelle Reformen bleibt das System anfällig für weitere Krisen.
+
+---
+
+**Quelle:**
+*Christopher Kunz: "Trubel bei CVE - US-Schwachstellendatenbank drohte kurzzeitig die Abschaltung", c't Magazin für Computertechnik, Ausgabe 12/2025, S. 30*
 
 ## Naturwissenschaft
 
