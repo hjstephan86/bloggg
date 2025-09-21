@@ -9,7 +9,7 @@ Nachfolgend habe ich Gedanken aufgeschrieben, die ich in den Gedanken unter [htt
 * [Python und Java](#python-und-java)
 * [Code: Formatierung und Kommentare](#code-formatierung-und-kommentare)
 * [Systemversagen in der Cybersecurity-Industrie](#systemversagen-in-der-cybersecurity-industrie)
-* [Naturwissenschaft](#Naturwissenschaft)
+* [Naturwissenschaft](#naturwissenschaft)
 
 ## Python und Java
 
@@ -230,6 +230,8 @@ Verwende für statische Berechnungen 10% mehr Gewicht pro Person und 10% mehr Ge
 Der Trainer der U19 wechselt nach einem Jahr in die U21 und bleibt für zwei Jahre Trainer der U21. Die Trainer der U19 und U21 wechseln sich ab. Dadurch begleiten sie die Spieler maximal lange und tauschen sich aus.
 
 Nur der Trainer entscheidet darüber, welche Spieler für die Mannschaft verpflichtet werden, nicht der Manager oder andere Funktionäre.
+
+<b>Wie ist die persönliche Beziehung eines Profifußballers zum Fußball?</b> Liebt er das Fußballspiel wirklich? Wie intensiv trieb ihn sein Umfeld in der Jugendausbildungsphase zur Profifußballkarriere und wie sehr wählte er diesen außergewöhnlichen und herausfordernden Weg aus eigener Motivation, aus Fußballliebe? Wie kann diese persönliche Beziehung eines Profifußballers zum Fußball bei jedem Profifußballer nachvollziehbar für die Öffentlichkeit zum Ausdruck gebracht werden? Dieser Ausdruck kann eine wichtige Ergänzung für das gesamte Bild eines Profifußballers gerade zur Zeit oder auch vor dem Schritt in die Karriere als Profifußballer sein.
 
 Der Benutzer kann Regeln für ein Girokonto definieren: Regeln für Eingänge und Regeln für Ausgänge, die als unterschiedliche Leistungen angeboten werden.
 
