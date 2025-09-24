@@ -254,3 +254,5 @@ Wieso wird bei einem System, welches durch Markov Ketten beschrieben wird, die G
 Ein Standard für Neuronale Netze (NN) ist nötig, an den sich alle NN-Anbieter halten müssen, der den Grenzwert für Fehler von NN vorgibt, ab dem ein NN freigegeben werden darf. Der Standard gibt die Datensätze für die Freigabe vor.
 
 Ein Standard für das Speichern von Passwörtern für Passwort-Manager. Dieser ermöglicht den einfachen Export und Import von einem Passwort-Manager zu einem anderen Passwort-Manager. Dabei legt der Benutzer eine Verschlüsselung der Passwörter fest, die nur er kennt. Diese Verschlüsselung wird dann beim Import wieder zum Entschlüsseln verwendet.
+
+Es gibt gasförmig, fest, flüssig und Haut.
