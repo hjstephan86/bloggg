@@ -256,3 +256,7 @@ Ein Standard für Neuronale Netze (NN) ist nötig, an den sich alle NN-Anbieter 
 Ein Standard für das Speichern von Passwörtern für Passwort-Manager. Dieser ermöglicht den einfachen Export und Import von einem Passwort-Manager zu einem anderen Passwort-Manager. Dabei legt der Benutzer eine Verschlüsselung der Passwörter fest, die nur er kennt. Diese Verschlüsselung wird dann beim Import wieder zum Entschlüsseln verwendet.
 
 Es gibt gasförmig, fest, flüssig und Haut.
+
+Es sind nicht Mikroorganismen, sondern Organismen.
+
+Unter src/timeline/ befindet sich ein generiertes Skript parser.py zur Auswertung des Google Timeline Exports. Ein Google Timeline Export (2025-08-16 13:44 to 2025-08-23) und eine vom Skript exportierte CSV befinden sich auch in dem Ordner. 
