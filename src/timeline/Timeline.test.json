@@ -1,0 +1,1654 @@
+{
+  "semanticSegments": [
+    {
+      "startTime": "2025-06-05T06:00:00.000+02:00",
+      "endTime": "2025-06-05T08:00:00.000+02:00",
+      "timelinePath": [
+        {
+          "point": "52.0187241°, 8.5751769°",
+          "time": "2025-06-05T06:45:00.000+02:00"
+        },
+        {
+          "point": "52.017597°, 8.5669962°",
+          "time": "2025-06-05T06:51:00.000+02:00"
+        },
+        {
+          "point": "52.0187344°, 8.5751967°",
+          "time": "2025-06-05T07:06:00.000+02:00"
+        },
+        {
+          "point": "52.017597°, 8.5667621°",
+          "time": "2025-06-05T07:09:00.000+02:00"
+        },
+        {
+          "point": "52.0182837°, 8.5666303°",
+          "time": "2025-06-05T07:51:00.000+02:00"
+        },
+        {
+          "point": "52.0211342°, 8.5567211°",
+          "time": "2025-06-05T07:55:00.000+02:00"
+        },
+        {
+          "point": "52.018052°, 8.549535°",
+          "time": "2025-06-05T07:57:00.000+02:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-06-05T06:45:20.000+02:00",
+      "endTime": "2025-06-05T06:51:11.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "52.0187241°, 8.5751769°"
+        },
+        "end": {
+          "latLng": "52.017597°, 8.5669962°"
+        },
+        "distanceMeters": 604.701416015625,
+        "probability": 0.9656379818916321,
+        "topCandidate": {
+          "type": "IN_PASSENGER_VEHICLE",
+          "probability": 0.5898472666740417
+        },
+        "parking": {
+          "location": {
+            "latLng": "52.017597°, 8.5669962°"
+          },
+          "startTime": "2025-06-05T06:51:11.000+02:00"
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T06:51:11.000+02:00",
+      "endTime": "2025-06-05T07:51:18.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.49082183837890625,
+        "topCandidate": {
+          "placeId": "ChIJb-zzZLA9ukcRVRKJjlGVGqg",
+          "semanticType": "UNKNOWN",
+          "probability": 0.17061832547187805,
+          "placeLocation": {
+            "latLng": "52.0171819°, 8.5666175°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T07:51:18.000+02:00",
+      "endTime": "2025-06-05T08:03:19.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "52.0182837°, 8.5666303°"
+        },
+        "end": {
+          "latLng": "52.0213592°, 8.5375779°"
+        },
+        "distanceMeters": 2715.105224609375,
+        "probability": 0.9982343316078186,
+        "topCandidate": {
+          "type": "CYCLING",
+          "probability": 0.9432191252708435
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T08:00:00.000+02:00",
+      "endTime": "2025-06-05T10:00:00.000+02:00",
+      "timelinePath": [
+        {
+          "point": "52.0173522°, 8.5367726°",
+          "time": "2025-06-05T08:01:00.000+02:00"
+        },
+        {
+          "point": "52.0213592°, 8.5375779°",
+          "time": "2025-06-05T08:03:00.000+02:00"
+        },
+        {
+          "point": "52.0214053°, 8.5371409°",
+          "time": "2025-06-05T08:23:00.000+02:00"
+        },
+        {
+          "point": "51.9906679°, 8.5060076°",
+          "time": "2025-06-05T08:43:00.000+02:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-06-05T08:03:19.000+02:00",
+      "endTime": "2025-06-05T08:22:42.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.9604330658912659,
+        "topCandidate": {
+          "placeId": "ChIJn0Vf5g89ukcRS-wHPeMe7qI",
+          "semanticType": "SEARCHED_ADDRESS",
+          "probability": 0.833124041557312,
+          "placeLocation": {
+            "latLng": "52.0212607°, 8.5373821°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T08:22:42.000+02:00",
+      "endTime": "2025-06-05T08:43:10.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "52.0214053°, 8.5371409°"
+        },
+        "end": {
+          "latLng": "51.9906679°, 8.5060076°"
+        },
+        "distanceMeters": 4095.3876953125,
+        "probability": 0.9960268139839172,
+        "topCandidate": {
+          "type": "CYCLING",
+          "probability": 0.7798829674720764
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T08:43:10.000+02:00",
+      "endTime": "2025-06-05T10:34:39.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.8646954894065857,
+        "topCandidate": {
+          "placeId": "ChIJl-F8rMA8ukcRIy_YRrCSL20",
+          "semanticType": "SEARCHED_ADDRESS",
+          "probability": 0.5093814134597778,
+          "placeLocation": {
+            "latLng": "51.9907756°, 8.5064915°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T10:00:00.000+02:00",
+      "endTime": "2025-06-05T12:00:00.000+02:00",
+      "timelinePath": [
+        {
+          "point": "51.9906999°, 8.5063946°",
+          "time": "2025-06-05T10:35:00.000+02:00"
+        },
+        {
+          "point": "52.0194452°, 8.5441699°",
+          "time": "2025-06-05T10:43:00.000+02:00"
+        },
+        {
+          "point": "52.0179421°, 8.5463747°",
+          "time": "2025-06-05T10:47:00.000+02:00"
+        },
+        {
+          "point": "52.0200288°, 8.5580323°",
+          "time": "2025-06-05T10:49:00.000+02:00"
+        },
+        {
+          "point": "52.0177846°, 8.5666375°",
+          "time": "2025-06-05T10:51:00.000+02:00"
+        },
+        {
+          "point": "52.0177343°, 8.566853°",
+          "time": "2025-06-05T11:54:00.000+02:00"
+        },
+        {
+          "point": "52.021758°, 8.566632°",
+          "time": "2025-06-05T11:56:00.000+02:00"
+        },
+        {
+          "point": "52.0232463°, 8.5626304°",
+          "time": "2025-06-05T11:58:00.000+02:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-06-05T10:34:39.000+02:00",
+      "endTime": "2025-06-05T10:50:40.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "51.9906999°, 8.5063946°"
+        },
+        "end": {
+          "latLng": "52.0177846°, 8.5666375°"
+        },
+        "distanceMeters": 6297.43115234375,
+        "probability": 0.9842720031738281,
+        "topCandidate": {
+          "type": "CYCLING",
+          "probability": 0.3792549967765808
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T10:50:40.000+02:00",
+      "endTime": "2025-06-05T11:54:02.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.9592469930648804,
+        "topCandidate": {
+          "placeId": "ChIJFxLE1BM9ukcRwwvl6PH-WFs",
+          "semanticType": "UNKNOWN",
+          "probability": 0.423366904258728,
+          "placeLocation": {
+            "latLng": "52.0177525°, 8.5667392°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T11:54:02.000+02:00",
+      "endTime": "2025-06-05T12:00:08.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "52.0177343°, 8.566853°"
+        },
+        "end": {
+          "latLng": "52.0233587°, 8.5587459°"
+        },
+        "distanceMeters": 1047.142333984375,
+        "probability": 0.99878990650177,
+        "topCandidate": {
+          "type": "CYCLING",
+          "probability": 0.9206107258796692
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T12:00:00.000+02:00",
+      "endTime": "2025-06-05T14:00:00.000+02:00",
+      "timelinePath": [
+        {
+          "point": "52.0233587°, 8.5587459°",
+          "time": "2025-06-05T12:00:00.000+02:00"
+        },
+        {
+          "point": "52.0230119°, 8.5578292°",
+          "time": "2025-06-05T13:04:00.000+02:00"
+        },
+        {
+          "point": "52.0182034°, 8.5673906°",
+          "time": "2025-06-05T13:14:00.000+02:00"
+        },
+        {
+          "point": "52.0180571°, 8.5655392°",
+          "time": "2025-06-05T13:32:00.000+02:00"
+        },
+        {
+          "point": "52.017982°, 8.5648452°",
+          "time": "2025-06-05T13:33:00.000+02:00"
+        },
+        {
+          "point": "52.0177765°, 8.5628163°",
+          "time": "2025-06-05T13:40:00.000+02:00"
+        },
+        {
+          "point": "52.0169603°, 8.5530656°",
+          "time": "2025-06-05T13:44:00.000+02:00"
+        },
+        {
+          "point": "52.021922°, 8.553006°",
+          "time": "2025-06-05T13:46:00.000+02:00"
+        },
+        {
+          "point": "52.0213012°, 8.5373973°",
+          "time": "2025-06-05T13:50:00.000+02:00"
+        },
+        {
+          "point": "52.0247473°, 8.5352262°",
+          "time": "2025-06-05T13:52:00.000+02:00"
+        },
+        {
+          "point": "52.0270187°, 8.5352324°",
+          "time": "2025-06-05T13:54:00.000+02:00"
+        },
+        {
+          "point": "52.0291839°, 8.5332072°",
+          "time": "2025-06-05T13:56:00.000+02:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-06-05T12:00:08.000+02:00",
+      "endTime": "2025-06-05T13:04:09.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.9234681725502014,
+        "topCandidate": {
+          "placeId": "ChIJbVi1HF5VZUER5EaztErFNRs",
+          "semanticType": "UNKNOWN",
+          "probability": 0.79048752784729,
+          "placeLocation": {
+            "latLng": "52.0230618°, 8.5580812°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T13:04:09.000+02:00",
+      "endTime": "2025-06-05T13:14:25.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "52.0230119°, 8.5578292°"
+        },
+        "end": {
+          "latLng": "52.0182034°, 8.5673906°"
+        },
+        "distanceMeters": 848.1995849609375,
+        "probability": 0.9984599351882935,
+        "topCandidate": {
+          "type": "CYCLING",
+          "probability": 0.7117353081703186
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T13:14:25.000+02:00",
+      "endTime": "2025-06-05T13:31:45.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.750103235244751,
+        "topCandidate": {
+          "placeId": "ChIJYZA4d7A9ukcRRJ1L7v648TQ",
+          "semanticType": "UNKNOWN",
+          "probability": 0.28000497817993164,
+          "placeLocation": {
+            "latLng": "52.0179035°, 8.5663721°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T13:31:45.000+02:00",
+      "endTime": "2025-06-05T13:32:56.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "52.0180571°, 8.5655392°"
+        },
+        "end": {
+          "latLng": "52.017982°, 8.5648452°"
+        },
+        "distanceMeters": 230.95452880859375,
+        "probability": 0.8963035941123962,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.7513697147369385
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T13:32:56.000+02:00",
+      "endTime": "2025-06-05T13:40:22.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.7610965371131897,
+        "topCandidate": {
+          "placeId": "ChIJl5bx_a89ukcR6KQMHWSdY9c",
+          "semanticType": "UNKNOWN",
+          "probability": 0.5438260436058044,
+          "placeLocation": {
+            "latLng": "52.01783°, 8.5627323°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T13:40:22.000+02:00",
+      "endTime": "2025-06-05T13:56:24.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "52.0177765°, 8.5628163°"
+        },
+        "end": {
+          "latLng": "52.0291839°, 8.5332072°"
+        },
+        "distanceMeters": 3276.2314453125,
+        "probability": 0.9942943453788757,
+        "topCandidate": {
+          "type": "IN_BUS",
+          "probability": 0.9394779205322266
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T13:56:24.000+02:00",
+      "endTime": "2025-06-05T14:22:24.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.7649521231651306,
+        "topCandidate": {
+          "placeId": "ChIJrUzqZBM9ukcR34pzkrG6HZo",
+          "semanticType": "UNKNOWN",
+          "probability": 0.9472909569740295,
+          "placeLocation": {
+            "latLng": "52.0292564°, 8.5331972°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T14:00:00.000+02:00",
+      "endTime": "2025-06-05T16:00:00.000+02:00",
+      "timelinePath": [
+        {
+          "point": "52.0299447°, 8.532566°",
+          "time": "2025-06-05T14:22:00.000+02:00"
+        },
+        {
+          "point": "51.9081477°, 8.610685°",
+          "time": "2025-06-05T14:28:00.000+02:00"
+        },
+        {
+          "point": "51.9014841°, 8.6294095°",
+          "time": "2025-06-05T14:33:00.000+02:00"
+        },
+        {
+          "point": "51.9032277°, 8.6323839°",
+          "time": "2025-06-05T15:00:00.000+02:00"
+        },
+        {
+          "point": "51.9005°, 8.6359192°",
+          "time": "2025-06-05T15:34:00.000+02:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-06-05T14:22:24.000+02:00",
+      "endTime": "2025-06-05T14:32:42.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "52.0299447°, 8.532566°"
+        },
+        "end": {
+          "latLng": "51.9014841°, 8.6294095°"
+        },
+        "distanceMeters": 16489.52734375,
+        "probability": 0.9722540974617004,
+        "topCandidate": {
+          "type": "IN_TRAIN",
+          "probability": 0.5580670237541199
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T14:32:42.000+02:00",
+      "endTime": "2025-06-05T17:08:27.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.8741065859794617,
+        "topCandidate": {
+          "placeId": "ChIJ52pYIE84ukcRHEOSZwqX648",
+          "semanticType": "UNKNOWN",
+          "probability": 0.837790846824646,
+          "placeLocation": {
+            "latLng": "51.9029845°, 8.6326603°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T16:00:00.000+02:00",
+      "endTime": "2025-06-05T18:00:00.000+02:00",
+      "timelinePath": [
+        {
+          "point": "51.9032306°, 8.6323734°",
+          "time": "2025-06-05T16:20:00.000+02:00"
+        },
+        {
+          "point": "51.9017814°, 8.6346277°",
+          "time": "2025-06-05T16:59:00.000+02:00"
+        },
+        {
+          "point": "51.9017909°, 8.6346726°",
+          "time": "2025-06-05T17:08:00.000+02:00"
+        },
+        {
+          "point": "51.904277°, 8.6139039°",
+          "time": "2025-06-05T17:12:00.000+02:00"
+        },
+        {
+          "point": "51.908063°, 8.6110647°",
+          "time": "2025-06-05T17:14:00.000+02:00"
+        },
+        {
+          "point": "51.9081837°, 8.6100398°",
+          "time": "2025-06-05T17:16:00.000+02:00"
+        },
+        {
+          "point": "51.9392731°, 8.5730046°",
+          "time": "2025-06-05T17:22:00.000+02:00"
+        },
+        {
+          "point": "51.941425°, 8.563841°",
+          "time": "2025-06-05T17:24:00.000+02:00"
+        },
+        {
+          "point": "51.9618139°, 8.5233314°",
+          "time": "2025-06-05T17:28:00.000+02:00"
+        },
+        {
+          "point": "51.9868976°, 8.4974077°",
+          "time": "2025-06-05T17:32:00.000+02:00"
+        },
+        {
+          "point": "51.9973288°, 8.5006205°",
+          "time": "2025-06-05T17:34:00.000+02:00"
+        },
+        {
+          "point": "52.029064°, 8.5333583°",
+          "time": "2025-06-05T17:42:00.000+02:00"
+        },
+        {
+          "point": "52.0291094°, 8.5333204°",
+          "time": "2025-06-05T17:45:00.000+02:00"
+        },
+        {
+          "point": "52.0272661°, 8.5334617°",
+          "time": "2025-06-05T17:48:00.000+02:00"
+        },
+        {
+          "point": "52.0241316°, 8.5341478°",
+          "time": "2025-06-05T17:53:00.000+02:00"
+        },
+        {
+          "point": "52.0236438°, 8.5350607°",
+          "time": "2025-06-05T17:57:00.000+02:00"
+        },
+        {
+          "point": "52.0217168°, 8.5367228°",
+          "time": "2025-06-05T17:59:00.000+02:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-06-05T17:08:27.000+02:00",
+      "endTime": "2025-06-05T17:15:40.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "51.9017909°, 8.6346726°"
+        },
+        "end": {
+          "latLng": "51.9081837°, 8.6100398°"
+        },
+        "distanceMeters": 2081.188720703125,
+        "probability": 0.7609667181968689,
+        "topCandidate": {
+          "type": "IN_BUS",
+          "probability": 0.3764019310474396
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T17:15:40.000+02:00",
+      "endTime": "2025-06-05T17:42:03.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "51.9081837°, 8.6100398°"
+        },
+        "end": {
+          "latLng": "52.029064°, 8.5333583°"
+        },
+        "distanceMeters": 17585.78515625,
+        "probability": 0.9524790048599243,
+        "topCandidate": {
+          "type": "IN_TRAIN",
+          "probability": 0.8440545797348022
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T17:42:03.000+02:00",
+      "endTime": "2025-06-05T17:45:26.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.9052098989486694,
+        "topCandidate": {
+          "placeId": "ChIJrUzqZBM9ukcR34pzkrG6HZo",
+          "semanticType": "UNKNOWN",
+          "probability": 0.8238881826400757,
+          "placeLocation": {
+            "latLng": "52.0292564°, 8.5331972°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T17:45:26.000+02:00",
+      "endTime": "2025-06-05T17:53:10.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "52.0291094°, 8.5333204°"
+        },
+        "end": {
+          "latLng": "52.0241316°, 8.5341478°"
+        },
+        "distanceMeters": 815.456787109375,
+        "probability": 0.8970464468002319,
+        "topCandidate": {
+          "type": "IN_BUS",
+          "probability": 0.385317862033844
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T17:53:10.000+02:00",
+      "endTime": "2025-06-05T17:57:10.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.7079856395721436,
+        "topCandidate": {
+          "placeId": "ChIJQ0CnpxE9ukcRqTxZ4H1D1NI",
+          "semanticType": "UNKNOWN",
+          "probability": 0.5781058669090271,
+          "placeLocation": {
+            "latLng": "52.0238906°, 8.5341433°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T17:57:10.000+02:00",
+      "endTime": "2025-06-05T18:09:46.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "52.0236438°, 8.5350607°"
+        },
+        "end": {
+          "latLng": "52.0179593°, 8.5655869°"
+        },
+        "distanceMeters": 2798.02685546875,
+        "probability": 0.9925081729888916,
+        "topCandidate": {
+          "type": "IN_BUS",
+          "probability": 0.7351948618888855
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T18:00:00.000+02:00",
+      "endTime": "2025-06-05T20:00:00.000+02:00",
+      "timelinePath": [
+        {
+          "point": "52.021093°, 8.5459396°",
+          "time": "2025-06-05T18:01:00.000+02:00"
+        },
+        {
+          "point": "52.0220431°, 8.5516374°",
+          "time": "2025-06-05T18:02:00.000+02:00"
+        },
+        {
+          "point": "52.0166452°, 8.5550702°",
+          "time": "2025-06-05T18:06:00.000+02:00"
+        },
+        {
+          "point": "52.0179593°, 8.5655869°",
+          "time": "2025-06-05T18:10:00.000+02:00"
+        },
+        {
+          "point": "52.0166701°, 8.5663493°",
+          "time": "2025-06-05T19:34:00.000+02:00"
+        },
+        {
+          "point": "52.0127337°, 8.5645131°",
+          "time": "2025-06-05T19:40:00.000+02:00"
+        },
+        {
+          "point": "52.0130805°, 8.5602173°",
+          "time": "2025-06-05T19:46:00.000+02:00"
+        },
+        {
+          "point": "52.0131632°, 8.5603536°",
+          "time": "2025-06-05T19:47:00.000+02:00"
+        },
+        {
+          "point": "52.0137714°, 8.5525809°",
+          "time": "2025-06-05T19:53:00.000+02:00"
+        },
+        {
+          "point": "52.0165896°, 8.5412371°",
+          "time": "2025-06-05T19:57:00.000+02:00"
+        },
+        {
+          "point": "52.0197495°, 8.5386788°",
+          "time": "2025-06-05T19:59:00.000+02:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-06-05T18:09:46.000+02:00",
+      "endTime": "2025-06-05T19:33:39.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.8788193464279175,
+        "topCandidate": {
+          "placeId": "ChIJb-zzZLA9ukcRVRKJjlGVGqg",
+          "semanticType": "UNKNOWN",
+          "probability": 0.3640230894088745,
+          "placeLocation": {
+            "latLng": "52.0171819°, 8.5666175°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T19:33:39.000+02:00",
+      "endTime": "2025-06-05T19:46:44.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "52.0166701°, 8.5663493°"
+        },
+        "end": {
+          "latLng": "52.0131632°, 8.5603536°"
+        },
+        "distanceMeters": 847.6492919921875,
+        "probability": 0.8433621525764465,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.7429800629615784
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T19:46:44.000+02:00",
+      "endTime": "2025-06-05T20:14:40.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "52.0131632°, 8.5603536°"
+        },
+        "end": {
+          "latLng": "52.0377292°, 8.4948086°"
+        },
+        "distanceMeters": 5847.56591796875,
+        "probability": 0.9953751564025879,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.8589158058166504
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T20:00:00.000+02:00",
+      "endTime": "2025-06-05T22:00:00.000+02:00",
+      "timelinePath": [
+        {
+          "point": "52.0312556°, 8.5154619°",
+          "time": "2025-06-05T20:05:00.000+02:00"
+        },
+        {
+          "point": "52.031523°, 8.5096413°",
+          "time": "2025-06-05T20:07:00.000+02:00"
+        },
+        {
+          "point": "52.039173°, 8.4970307°",
+          "time": "2025-06-05T20:11:00.000+02:00"
+        },
+        {
+          "point": "52.0377292°, 8.4948086°",
+          "time": "2025-06-05T20:15:00.000+02:00"
+        },
+        {
+          "point": "52.0368619°, 8.4955935°",
+          "time": "2025-06-05T21:35:00.000+02:00"
+        },
+        {
+          "point": "52.0392787°, 8.4973518°",
+          "time": "2025-06-05T21:46:00.000+02:00"
+        },
+        {
+          "point": "52.0391932°, 8.4970323°",
+          "time": "2025-06-05T21:50:00.000+02:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-06-05T20:14:40.000+02:00",
+      "endTime": "2025-06-05T21:35:08.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.9179729223251343,
+        "topCandidate": {
+          "placeId": "ChIJj7kQrbUiukcRLcPKTEvNKKE",
+          "semanticType": "UNKNOWN",
+          "probability": 0.8583108186721802,
+          "placeLocation": {
+            "latLng": "52.0367238°, 8.4952413°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T21:35:08.000+02:00",
+      "endTime": "2025-06-05T21:50:13.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "52.0368619°, 8.4955935°"
+        },
+        "end": {
+          "latLng": "52.0391932°, 8.4970323°"
+        },
+        "distanceMeters": 375.58001708984375,
+        "probability": 0.936089277267456,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.8675476908683777
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T21:50:13.000+02:00",
+      "endTime": "2025-06-05T22:10:19.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "52.0391932°, 8.4970323°"
+        },
+        "end": {
+          "latLng": "52.0130464°, 8.560561°"
+        },
+        "distanceMeters": 5875.2900390625,
+        "probability": 0.9852896332740784,
+        "topCandidate": {
+          "type": "IN_TRAM",
+          "probability": 0.8733931183815002
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T22:00:00.000+02:00",
+      "endTime": "2025-06-06T00:00:00.000+02:00",
+      "timelinePath": [
+        {
+          "point": "52.0286268°, 8.5347448°",
+          "time": "2025-06-05T22:00:00.000+02:00"
+        },
+        {
+          "point": "52.0192782°, 8.5397225°",
+          "time": "2025-06-05T22:04:00.000+02:00"
+        },
+        {
+          "point": "52.0157233°, 8.5454466°",
+          "time": "2025-06-05T22:06:00.000+02:00"
+        },
+        {
+          "point": "52.0130464°, 8.560561°",
+          "time": "2025-06-05T22:10:00.000+02:00"
+        },
+        {
+          "point": "52.0127063°, 8.5609081°",
+          "time": "2025-06-05T22:14:00.000+02:00"
+        },
+        {
+          "point": "52.01228°, 8.5643104°",
+          "time": "2025-06-05T22:16:00.000+02:00"
+        },
+        {
+          "point": "52.0160338°, 8.5663164°",
+          "time": "2025-06-05T22:22:00.000+02:00"
+        },
+        {
+          "point": "52.0173798°, 8.5663684°",
+          "time": "2025-06-05T22:24:00.000+02:00"
+        },
+        {
+          "point": "52.0175209°, 8.5670624°",
+          "time": "2025-06-05T22:40:00.000+02:00"
+        },
+        {
+          "point": "52.0174427°, 8.5662795°",
+          "time": "2025-06-05T22:42:00.000+02:00"
+        },
+        {
+          "point": "52.0176003°, 8.5669968°",
+          "time": "2025-06-05T22:56:00.000+02:00"
+        },
+        {
+          "point": "52.0176003°, 8.5669968°",
+          "time": "2025-06-05T23:48:00.000+02:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-06-05T22:10:19.000+02:00",
+      "endTime": "2025-06-05T22:14:19.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.7674363255500793,
+        "topCandidate": {
+          "placeId": "ChIJgypfD7I9ukcRE4i8WdZhMjw",
+          "semanticType": "UNKNOWN",
+          "probability": 0.7399289011955261,
+          "placeLocation": {
+            "latLng": "52.0129164°, 8.5606997°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T22:14:19.000+02:00",
+      "endTime": "2025-06-05T22:24:06.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "52.0127063°, 8.5609081°"
+        },
+        "end": {
+          "latLng": "52.0173798°, 8.5663684°"
+        },
+        "distanceMeters": 828.03271484375,
+        "probability": 0.9953181743621826,
+        "topCandidate": {
+          "type": "WALKING",
+          "probability": 0.9536542892456055
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-05T22:24:06.000+02:00",
+      "endTime": "2025-06-06T08:09:06.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.9177008271217346,
+        "topCandidate": {
+          "placeId": "ChIJ4QUxebA9ukcR9ANb0XpfV6g",
+          "semanticType": "UNKNOWN",
+          "probability": 0.31457942724227905,
+          "placeLocation": {
+            "latLng": "52.0177525°, 8.5667392°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-06T04:00:00.000+02:00",
+      "endTime": "2025-06-06T06:00:00.000+02:00",
+      "timelinePath": [
+        {
+          "point": "52.0187344°, 8.5751967°",
+          "time": "2025-06-06T05:36:00.000+02:00"
+        },
+        {
+          "point": "52.0174156°, 8.5664616°",
+          "time": "2025-06-06T05:40:00.000+02:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-06-06T08:00:00.000+02:00",
+      "endTime": "2025-06-06T10:00:00.000+02:00",
+      "timelinePath": [
+        {
+          "point": "52.0180214°, 8.5664875°",
+          "time": "2025-06-06T08:09:00.000+02:00"
+        },
+        {
+          "point": "52.0212446°, 8.537309°",
+          "time": "2025-06-06T08:19:00.000+02:00"
+        },
+        {
+          "point": "52.0213277°, 8.5373905°",
+          "time": "2025-06-06T09:58:00.000+02:00"
+        }
+      ]
+    },
+    {
+      "startTime": "2025-06-06T08:09:06.000+02:00",
+      "endTime": "2025-06-06T08:19:14.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "52.0180214°, 8.5664875°"
+        },
+        "end": {
+          "latLng": "52.0212446°, 8.537309°"
+        },
+        "distanceMeters": 2068.545654296875,
+        "probability": 0.9983193278312683,
+        "topCandidate": {
+          "type": "IN_PASSENGER_VEHICLE",
+          "probability": 0.5897360444068909
+        },
+        "parking": {
+          "location": {
+            "latLng": "52.0212446°, 8.537309°"
+          },
+          "startTime": "2025-06-06T08:19:14.000+02:00"
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-06T08:19:14.000+02:00",
+      "endTime": "2025-06-06T09:57:34.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "visit": {
+        "hierarchyLevel": 0,
+        "probability": 0.887177586555481,
+        "topCandidate": {
+          "placeId": "ChIJn0Vf5g89ukcRS-wHPeMe7qI",
+          "semanticType": "SEARCHED_ADDRESS",
+          "probability": 0.8714173436164856,
+          "placeLocation": {
+            "latLng": "52.0212607°, 8.5373821°"
+          }
+        }
+      }
+    },
+    {
+      "startTime": "2025-06-06T09:57:34.000+02:00",
+      "endTime": "2025-06-06T10:05:08.000+02:00",
+      "startTimeTimezoneUtcOffsetMinutes": 120,
+      "endTimeTimezoneUtcOffsetMinutes": 120,
+      "activity": {
+        "start": {
+          "latLng": "52.0282083°, 8.5322326°"
+        },
+        "end": {
+          "latLng": "52.0291229°, 8.5329978°"
+        },
+        "distanceMeters": 152.7363739013672,
+        "probability": 0.8211644291877747,
+        "topCandidate": {
+          "type": "CYCLING",
+          "probability": 0.7452359795570374
+        }
+      }
+    },
+    {
+      "activityRecord": {
+        "probableActivities": [
+          {
+            "type": "STILL",
+            "confidence": 0.9599999785423279
+          },
+          {
+            "type": "ON_FOOT",
+            "confidence": 0.019999999552965164
+          },
+          {
+            "type": "WALKING",
+            "confidence": 0.019999999552965164
+          },
+          {
+            "type": "IN_VEHICLE",
+            "confidence": 0.009999999776482582
+          },
+          {
+            "type": "UNKNOWN",
+            "confidence": 0.009999999776482582
+          },
+          {
+            "type": "IN_ROAD_VEHICLE",
+            "confidence": 0.009999999776482582
+          },
+          {
+            "type": "IN_RAIL_VEHICLE",
+            "confidence": 0.009999999776482582
+          }
+        ],
+        "timestamp": "2025-09-29T23:14:27.000+02:00"
+      }
+    },
+    {
+      "position": {
+        "LatLng": "52.0176085°, 8.5670083°",
+        "accuracyMeters": 116,
+        "altitudeMeters": 155.10000610351562,
+        "source": "WIFI",
+        "timestamp": "2025-09-29T23:14:27.000+02:00",
+        "speedMetersPerSecond": 0.0
+      }
+    },
+    {
+      "wifiScan": {
+        "deliveryTime": "2025-09-29T23:14:27.000+02:00",
+        "devicesRecords": [
+          {
+            "mac": 25208833063676,
+            "rawRssi": -91
+          },
+          {
+            "mac": 220243884988728,
+            "rawRssi": -91
+          },
+          {
+            "mac": 226840954755384,
+            "rawRssi": -92
+          },
+          {
+            "mac": 220911512121158,
+            "rawRssi": -95
+          }
+        ]
+      }
+    },
+    {
+      "activityRecord": {
+        "probableActivities": [
+          {
+            "type": "STILL",
+            "confidence": 0.9599999785423279
+          },
+          {
+            "type": "ON_FOOT",
+            "confidence": 0.019999999552965164
+          },
+          {
+            "type": "WALKING",
+            "confidence": 0.019999999552965164
+          },
+          {
+            "type": "IN_VEHICLE",
+            "confidence": 0.009999999776482582
+          },
+          {
+            "type": "UNKNOWN",
+            "confidence": 0.009999999776482582
+          },
+          {
+            "type": "IN_ROAD_VEHICLE",
+            "confidence": 0.009999999776482582
+          },
+          {
+            "type": "IN_RAIL_VEHICLE",
+            "confidence": 0.009999999776482582
+          }
+        ],
+        "timestamp": "2025-09-29T23:15:34.000+02:00"
+      }
+    },
+    {
+      "wifiScan": {
+        "deliveryTime": "2025-09-29T23:16:27.000+02:00",
+        "devicesRecords": [
+          {
+            "mac": 31205970469966,
+            "rawRssi": -91
+          },
+          {
+            "mac": 185004135264978,
+            "rawRssi": -92
+          },
+          {
+            "mac": 33404991628366,
+            "rawRssi": -91
+          },
+          {
+            "mac": 220243884988729,
+            "rawRssi": -89
+          },
+          {
+            "mac": 220911512121158,
+            "rawRssi": -83
+          },
+          {
+            "mac": 220449197622536,
+            "rawRssi": -91
+          },
+          {
+            "mac": 25208833063676,
+            "rawRssi": -87
+          },
+          {
+            "mac": 168065361246299,
+            "rawRssi": -91
+          }
+        ]
+      }
+    },
+    {
+      "position": {
+        "LatLng": "52.0174595°, 8.5667837°",
+        "accuracyMeters": 50,
+        "altitudeMeters": 155.10000610351562,
+        "source": "WIFI",
+        "timestamp": "2025-09-29T23:16:27.000+02:00",
+        "speedMetersPerSecond": 0.0
+      }
+    },
+    {
+      "wifiScan": {
+        "deliveryTime": "2025-09-29T23:16:27.000+02:00",
+        "devicesRecords": [
+          {
+            "mac": 220911512121158,
+            "rawRssi": -87
+          },
+          {
+            "mac": 25208833063676,
+            "rawRssi": -91
+          },
+          {
+            "mac": 220243884988729,
+            "rawRssi": -93
+          },
+          {
+            "mac": 220449197622536,
+            "rawRssi": -95
+          },
+          {
+            "mac": 33404991628366,
+            "rawRssi": -95
+          },
+          {
+            "mac": 31205970469966,
+            "rawRssi": -95
+          },
+          {
+            "mac": 168065361246299,
+            "rawRssi": -95
+          },
+          {
+            "mac": 185004135264978,
+            "rawRssi": -96
+          }
+        ]
+      }
+    },
+    {
+      "activityRecord": {
+        "probableActivities": [
+          {
+            "type": "STILL",
+            "confidence": 1.0
+          }
+        ],
+        "timestamp": "2025-09-29T23:16:27.000+02:00"
+      }
+    },
+    {
+      "wifiScan": {
+        "deliveryTime": "2025-09-29T23:24:27.000+02:00",
+        "devicesRecords": [
+          {
+            "mac": 31468368059768,
+            "rawRssi": -91
+          },
+          {
+            "mac": 185004135264978,
+            "rawRssi": -92
+          },
+          {
+            "mac": 220911512121158,
+            "rawRssi": -80
+          },
+          {
+            "mac": 220243884988728,
+            "rawRssi": -89
+          },
+          {
+            "mac": 226840954755384,
+            "rawRssi": -89
+          },
+          {
+            "mac": 220449197622536,
+            "rawRssi": -92
+          }
+        ]
+      }
+    },
+    {
+      "position": {
+        "LatLng": "52.0174595°, 8.5667837°",
+        "accuracyMeters": 100,
+        "altitudeMeters": 155.10000610351562,
+        "source": "WIFI",
+        "timestamp": "2025-09-29T23:26:27.000+02:00",
+        "speedMetersPerSecond": 0.0
+      }
+    }
+  ],
+  "userLocationProfile": {
+    "frequentPlaces": [
+      {
+        "placeId": "ChIJAAAAAAAAAAARv4vGfjdYTcI",
+        "placeLocation": "52.0175295°, 8.5667149°",
+        "label": "HOME"
+      },
+      {
+        "placeId": "ChIJAAAAAAAAAAAR34pzkrG6HZo",
+        "placeLocation": "52.0292564°, 8.5331972°"
+      },
+      {
+        "placeId": "ChIJAAAAAAAAAAAR_0yAnB9mbtY",
+        "placeLocation": "52.0231364°, 8.5582754°"
+      },
+      {
+        "placeId": "ChIJAAAAAAAAAAARS-wHPeMe7qI",
+        "placeLocation": "52.0212607°, 8.5373821°",
+        "label": "WORK"
+      },
+      {
+        "placeId": "ChIJAAAAAAAAAAARsq9XswDNwJc",
+        "placeLocation": "52.0201547°, 8.5618891°"
+      },
+      {
+        "placeId": "ChIJAAAAAAAAAAARa0Dhanfg0Gk",
+        "placeLocation": "52.020671°, 8.5627568°"
+      },
+      {
+        "placeId": "ChIJAAAAAAAAAAAR88dk-iO1RY0",
+        "placeLocation": "52.02224°, 8.55652°"
+      },
+      {
+        "placeId": "ChIJAAAAAAAAAAAR5EaztErFNRs",
+        "placeLocation": "52.0230618°, 8.5580812°"
+      },
+      {
+        "placeId": "ChIJAAAAAAAAAAARQ_J9PZ8ySTg",
+        "placeLocation": "52.0266981°, 8.5371282°"
+      },
+      {
+        "placeId": "ChIJAAAAAAAAAAAR9ANb0XpfV6g",
+        "placeLocation": "52.0177525°, 8.5667392°"
+      }
+    ],
+    "frequentTrips": [
+      {
+        "waypointIds": [
+          "ChIJAAAAAAAAAAARS-wHPeMe7qI",
+          "ChIJAAAAAAAAAAAR34pzkrG6HZo",
+          "ChIJAAAAAAAAAAAR_0yAnB9mbtY",
+          "ChIJAAAAAAAAAAARv4vGfjdYTcI"
+        ],
+        "modeDistribution": [
+          {
+            "mode": "CYCLING",
+            "rate": 1.0
+          }
+        ],
+        "startTimeMinutes": 2143,
+        "endTimeMinutes": 2238,
+        "durationMinutes": 95,
+        "confidence": 0.0,
+        "commuteDirection": "COMMUTE_DIRECTION_WORK_TO_HOME"
+      },
+      {
+        "waypointIds": [
+          "ChIJAAAAAAAAAAARS-wHPeMe7qI",
+          "ChIJAAAAAAAAAAARlVdlHXQ0eVk",
+          "ChIJAAAAAAAAAAAR_0yAnB9mbtY",
+          "ChIJAAAAAAAAAAARv4vGfjdYTcI"
+        ],
+        "modeDistribution": [
+          {
+            "mode": "CYCLING",
+            "rate": 0.75
+          },
+          {
+            "mode": "IN_PASSENGER_VEHICLE",
+            "rate": 0.25
+          }
+        ],
+        "startTimeMinutes": 3555,
+        "endTimeMinutes": 3570,
+        "durationMinutes": 15,
+        "confidence": 0.0,
+        "commuteDirection": "COMMUTE_DIRECTION_WORK_TO_HOME"
+      },
+      {
+        "waypointIds": [
+          "ChIJAAAAAAAAAAARS-wHPeMe7qI",
+          "ChIJAAAAAAAAAAAR_0yAnB9mbtY",
+          "ChIJAAAAAAAAAAAR34pzkrG6HZo",
+          "ChIJAAAAAAAAAAARv4vGfjdYTcI"
+        ],
+        "modeDistribution": [
+          {
+            "mode": "CYCLING",
+            "rate": 1.0
+          }
+        ],
+        "startTimeMinutes": 4988,
+        "endTimeMinutes": 5096,
+        "durationMinutes": 108,
+        "confidence": 0.0,
+        "commuteDirection": "COMMUTE_DIRECTION_WORK_TO_HOME"
+      },
+      {
+        "waypointIds": [
+          "ChIJAAAAAAAAAAARS-wHPeMe7qI",
+          "ChIJAAAAAAAAAAAR_0yAnB9mbtY",
+          "ChIJAAAAAAAAAAAR34pzkrG6HZo",
+          "ChIJAAAAAAAAAAARoWXrF0CWPb0",
+          "ChIJAAAAAAAAAAARv4vGfjdYTcI"
+        ],
+        "modeDistribution": [
+          {
+            "mode": "CYCLING",
+            "rate": 0.8888888955116272
+          },
+          {
+            "mode": "IN_PASSENGER_VEHICLE",
+            "rate": 0.1111111119389534
+          }
+        ],
+        "startTimeMinutes": 6380,
+        "endTimeMinutes": 6456,
+        "durationMinutes": 76,
+        "confidence": 0.0,
+        "commuteDirection": "COMMUTE_DIRECTION_WORK_TO_HOME"
+      },
+      {
+        "waypointIds": [
+          "ChIJAAAAAAAAAAARv4vGfjdYTcI",
+          "ChIJAAAAAAAAAAARS-wHPeMe7qI"
+        ],
+        "modeDistribution": [
+          {
+            "mode": "CYCLING",
+            "rate": 0.75
+          },
+          {
+            "mode": "IN_PASSENGER_VEHICLE",
+            "rate": 0.25
+          }
+        ],
+        "startTimeMinutes": 479,
+        "endTimeMinutes": 498,
+        "durationMinutes": 19,
+        "confidence": 0.0,
+        "commuteDirection": "COMMUTE_DIRECTION_HOME_TO_WORK"
+      },
+      {
+        "waypointIds": [
+          "ChIJAAAAAAAAAAARv4vGfjdYTcI",
+          "ChIJAAAAAAAAAAARS-wHPeMe7qI"
+        ],
+        "modeDistribution": [
+          {
+            "mode": "CYCLING",
+            "rate": 0.6000000238418579
+          },
+          {
+            "mode": "IN_PASSENGER_VEHICLE",
+            "rate": 0.20000000298023224
+          },
+          {
+            "mode": "IN_BUS",
+            "rate": 0.10000000149011612
+          }
+        ],
+        "startTimeMinutes": 1930,
+        "endTimeMinutes": 1943,
+        "durationMinutes": 13,
+        "confidence": 0.0,
+        "commuteDirection": "COMMUTE_DIRECTION_HOME_TO_WORK"
+      },
+      {
+        "waypointIds": [
+          "ChIJAAAAAAAAAAARv4vGfjdYTcI",
+          "ChIJAAAAAAAAAAARS-wHPeMe7qI"
+        ],
+        "modeDistribution": [
+          {
+            "mode": "CYCLING",
+            "rate": 0.5454545617103577
+          },
+          {
+            "mode": "WALKING",
+            "rate": 0.1818181872367859
+          },
+          {
+            "mode": "IN_TRAM",
+            "rate": 0.09090909361839294
+          }
+        ],
+        "startTimeMinutes": 3368,
+        "endTimeMinutes": 3379,
+        "durationMinutes": 11,
+        "confidence": 0.0,
+        "commuteDirection": "COMMUTE_DIRECTION_HOME_TO_WORK"
+      },
+      {
+        "waypointIds": [
+          "ChIJAAAAAAAAAAARv4vGfjdYTcI",
+          "ChIJAAAAAAAAAAARb5akbdOAoHE",
+          "ChIJAAAAAAAAAAAR88dk-iO1RY0",
+          "ChIJAAAAAAAAAAARS-wHPeMe7qI"
+        ],
+        "modeDistribution": [
+          {
+            "mode": "CYCLING",
+            "rate": 0.6666666865348816
+          },
+          {
+            "mode": "WALKING",
+            "rate": 0.25
+          },
+          {
+            "mode": "IN_PASSENGER_VEHICLE",
+            "rate": 0.0833333358168602
+          }
+        ],
+        "startTimeMinutes": 4807,
+        "endTimeMinutes": 4825,
+        "durationMinutes": 18,
+        "confidence": 0.0,
+        "commuteDirection": "COMMUTE_DIRECTION_HOME_TO_WORK"
+      },
+      {
+        "waypointIds": [
+          "ChIJAAAAAAAAAAARv4vGfjdYTcI",
+          "ChIJAAAAAAAAAAAR88dk-iO1RY0",
+          "ChIJAAAAAAAAAAARS-wHPeMe7qI"
+        ],
+        "modeDistribution": [
+          {
+            "mode": "CYCLING",
+            "rate": 0.9166666865348816
+          },
+          {
+            "mode": "IN_PASSENGER_VEHICLE",
+            "rate": 0.0833333358168602
+          }
+        ],
+        "startTimeMinutes": 6243,
+        "endTimeMinutes": 6257,
+        "durationMinutes": 14,
+        "confidence": 0.0,
+        "commuteDirection": "COMMUTE_DIRECTION_HOME_TO_WORK"
+      }
+    ],
+    "persona": {
+      "travelModeAffinities": [
+        {
+          "mode": "CYCLING",
+          "affinity": 0.5377907156944275
+        },
+        {
+          "mode": "WALKING",
+          "affinity": 0.36773255467414856
+        },
+        {
+          "mode": "IN_TRAM",
+          "affinity": 0.08139535039663315
+        },
+        {
+          "mode": "IN_PASSENGER_VEHICLE",
+          "affinity": 0.040697675198316574
+        },
+        {
+          "mode": "IN_TRAIN",
+          "affinity": 0.03633720800280571
+        },
+        {
+          "mode": "IN_BUS",
+          "affinity": 0.031976744532585144
+        },
+        {
+          "mode": "IN_FERRY",
+          "affinity": 0.0014534883666783571
+        },
+        {
+          "mode": "IN_SUBWAY",
+          "affinity": 0.0014534883666783571
+        }
+      ]
+    }
+  }
+}
