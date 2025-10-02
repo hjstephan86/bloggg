@@ -265,6 +265,6 @@ Multipliziere Matrizen der Größe $2 \times 5$ mit $5 \times 2$, $2 \times 7$ m
 
 Jhwh will, dass Quantenphysik nicht genutzt wird - weder in der Wissenschaft noch für die Wirtschaft noch für irgendeine andere Art von Anwendung oder Bereicherung. Jeder oder jede, der oder die beruflich mit Quantenphysik arbeitet, sollte kurzfristig seine oder ihre Tätigkeit ändern.
 
-Es braucht eine Web App für die Verwaltung rechtlicher Verfahren, welches Rechtsanwälte in der Bearbeitung dieser benutzerfreundlich und effizient unterstützt. Dabei werden die Dokumente nicht direkt in der Web App gespeichert, sondern nur verknüpft. Dokumente werden als Dateien in der Cloud abgelegt und über einen Standard mit der Web App zur Verfügung gestellt.
+Es braucht eine Web App für die Verwaltung rechtlicher Verfahren, welche Rechtsanwälte in der Bearbeitung dieser benutzerfreundlich und effizient unterstützt. Dabei werden die Dokumente nicht direkt in der Web App gespeichert, sondern nur verknüpft. Dokumente werden als Dateien in der Cloud abgelegt und über einen Standard mit der Web App zur Verfügung gestellt.
 
-Es braucht einen Standard zur Dateiverwaltung für Cloudspeicher von Dateien wie Dokumente und Bilder usw.
+Es braucht einen Standard für Cloudspeicher zur Dateiverwaltung von Dateien wie Dokumente und Bilder usw.
