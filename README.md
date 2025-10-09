@@ -274,3 +274,5 @@ Es braucht einen Standard für Cloudspeicher zur Dateiverwaltung von Dateien wie
 Es braucht für den Fahrer oder Beifahrer keinen fest installierten Bildschirm für die Kontrolle der Infotainment Funktionen des Autos. Der Fahrer nutzt dazu statt dessen das eigene Tablet. Dazu braucht es einen Standard, über den das Tablet mit dem Auto kommuniziert. OEMs oder andere App Anbieter bieten dazu Apps zur Bedienung an.
 
 Es braucht für Kopfhörer mit Noise Cancelling eine Kühlung für die Ohren, damit die Kopfhörer auch über längere Zeit getragen werden können.
+
+Es braucht eine Lern-App mit KI für Schüler oder Lernende im Allgemeinen für beliebige Fächer oder Themen, welche die Aufgaben individuell generiert. Die Lern-App kann dann ergänzend drei bis vier Mal die Woche für jeweils 15 bis 20 Minuten für den maximalen Lernerfolg genutzt werden.
