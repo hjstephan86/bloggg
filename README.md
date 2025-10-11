@@ -265,6 +265,10 @@ Unter src/timeline/ befindet sich ein generiertes Skript parser.py zur Auswertun
 
 Multipliziere Matrizen der Größe $2 \times 5$ mit $5 \times 2$, $2 \times 7$ mit $7 \times 2$, $2 \times 9$ mit $9 \times 2$ bis hin zu $2 \times 29$ mit $29 \times 2$ für die effiziente Matrixmultiplikation und erhalte jeweils quadratische Produktmatrizen $5 \times 5$, $7 \times 7$, $9 \times 9$ bis hin zu $29 \times 29$. 
 
+Solange nicht quadratische Matrizen miteinander multipliziert werden und Ihr Produkt wieder eine quadratische Matrix ist und die Elemente ungleich null der beiden zu multiplizierenden Matrizen nur unterhalb der Diagonalen liegen, dann ist die Beobachtung zu verallgemeinern, dass diese Matrixmultiplikationen besonders effizient lösbar sind und das nicht nach der allgemein definierten Matrixmultiplikation.
+
+Nutze dieses Prinzip der besonders effizienten Matrixmultiplikation, indem Matrizen dazu vor der Multiplikation geschickt gedreht werden.
+
 Jhwh will, dass Quantenphysik nicht genutzt wird - weder in der Wissenschaft noch für die Wirtschaft noch für irgendeine andere Art von Anwendung oder Bereicherung. Jeder oder jede, der oder die beruflich mit Quantenphysik arbeitet, sollte kurzfristig seine oder ihre Tätigkeit ändern.
 
 Es braucht eine Web App für die Verwaltung rechtlicher Verfahren, welche Rechtsanwälte in der Bearbeitung dieser benutzerfreundlich und effizient unterstützt. Dabei werden die Dokumente nicht direkt in der Web App gespeichert, sondern nur verknüpft. Dokumente werden als Dateien in der Cloud abgelegt und über einen Standard mit der Web App zur Verfügung gestellt.
