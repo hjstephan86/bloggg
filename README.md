@@ -280,3 +280,5 @@ Es braucht für den Fahrer oder Beifahrer keinen fest installierten Bildschirm f
 Es braucht für Kopfhörer mit Noise Cancelling eine Kühlung für die Ohren, damit die Kopfhörer auch über längere Zeit getragen werden können.
 
 Es braucht eine Lern-App mit KI für Schüler oder Lernende im Allgemeinen für beliebige Fächer oder Themen, welche die Aufgaben individuell generiert. Die Lern-App kann dann ergänzend drei bis vier Mal die Woche für jeweils 15 bis 20 Minuten für den maximalen Lernerfolg genutzt werden.
+
+Es ist in der Wissenschaft wichtig, das Gehirn in seine Bereiche seinen Funktionen zuzuordnen. Warum? Das muss man nicht tun, das Gehirn ist flexibel.
