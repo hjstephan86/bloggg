@@ -286,3 +286,7 @@ Es ist in der Wissenschaft wichtig, das Gehirn in seine Bereiche seinen Funktion
 Es braucht an den Universitäten für die Fächer Mathematik, Informatik, Physik und Elektrotechnik ein standardisiertes objektives Maß für das Niveau bzw. den Anspruch für das Absolvieren des Studiums an den Universitäten. Es darf nicht sein, dass der Abschluss von Physik gleichzusetzen ist mit anderen Abschlüssen der Physik beliebiger Universitäten.
 
 Das Frequenzspektrum des Trommelfells eines Hundes oder einer Katze könnte für die Informationsübertragung genutzt werden.
+
+Im Gericht muss immer so viel individuelle Rechtsprechung erlaubt sein, auch gegen alle bisher formulierten Gesetze, dass die Wahrheit immer Priorität hat. 
+
+Rechts- und Staatsanwälte müssen bei der Beratung von Klienten in die Pflicht genommen werden, ob sie während der gesamten Beratung gegen die Wahrheit beraten oder nicht.
