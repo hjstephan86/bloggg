@@ -294,7 +294,19 @@ Rechts- und Staatsanwälte müssen bei der Beratung von Klienten in die Pflicht 
 
 ## Notizen aus Vorlesungen
 
-### Fr, 17.10., 14:00 Uhr – Funktionentheorie V
+### Mo, 20.10., 16:15 Uhr – Grundlagen des Software Engineering, Ü
+- Android Studio: Google IDE für Android (IntelliJ IDEA Community Edition)
+- Python: Visual Studio Code oder PyCharm Community Edition
+- Artemis: Bewertung von Programmier-, Text- und Modellierungsaufgaben
+- Apollon für UML, Beispiel: Observer Pattern, siehe Bildschirmfoto und Modell unter doc/Apollon/
+- Git push mit Syntax-Fehler nicht erlaubt
+- Für jeden Meilenstein ein neues Repository
+- Keine durchgängige MacBook-Unterstützung
+- Pro Woche 5 bis 6 Stunden, mit Übungen mehr, mehr als 5 LP
+
+---
+
+### Fr, 17.10., 14:00 Uhr – Funktionentheorie, V
 - Komplexe Differenzierbarkeit
 - Stetigkeit, offene Urmengen und Abbildungen 
 - Urmengen sind wichtig für andere Definitionen
@@ -304,7 +316,7 @@ Rechts- und Staatsanwälte müssen bei der Beratung von Klienten in die Pflicht 
 
 ---
 
-### Do, 16.10., 10:00 Uhr – Grundlagen der Statistik V
+### Do, 16.10., 10:00 Uhr – Grundlagen der Statistik, V
 - Satz der totalen Wahrscheinlichkeit, Satz von Bayes
 - Beispiel für Frauen, die Brustkrebs haben. 10% der Frauen haben nur Brustkrebs, wenn die Diagnose Brustkrebs ist, bei 1% Brustkrebs aller Frauen (Testsicherheit, TS). Wenn mehr als 1% der Frauen Brustkrebs haben, dann soll die TS steigen?
 - Zufallsvariablen im Wahrscheinlichkeitsraum
@@ -312,7 +324,7 @@ Rechts- und Staatsanwälte müssen bei der Beratung von Klienten in die Pflicht 
 
 ---
 
-### Mo, 13.10., 12:00 Uhr – Algebraische Graphentheorie V
+### Mo, 13.10., 12:00 Uhr – Algebraische Graphentheorie, V
 - Definition of a graph, isomorphism
 - Problem: Check whether two graphs are isomorph
 - Idee: Lineare Laufzeit in V: Knotenzahl gleich? Ja, dann finde die Strukturüberdeckung, wo der Knotengrad am besten passt und prüfe die Strukturbeziehung: (a) kleiner, (b) gleich, (c) größer. Es kann bei gleicher Knotenanzahl nicht mehr Strukturbeziehungen geben als (a), (b), (c). Bei ungleicher Knotenanzahl gibt es keine Strukturbeziehung.
