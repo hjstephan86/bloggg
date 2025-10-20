@@ -10,6 +10,7 @@ Nachfolgend habe ich Gedanken aufgeschrieben, die ich in den Gedanken unter [htt
 * [Code: Formatierung und Kommentare](#code-formatierung-und-kommentare)
 * [Systemversagen in der Cybersecurity-Industrie](#systemversagen-in-der-cybersecurity-industrie)
 * [Naturwissenschaft](#naturwissenschaft)
+* [Notizen aus Vorlesungen](#notizen-aus-vorlesungen)
 
 ## Python und Java
 
@@ -290,3 +291,28 @@ Das Frequenzspektrum des Trommelfells eines Hundes oder einer Katze könnte für
 Im Gericht muss immer so viel individuelle Rechtsprechung erlaubt sein, auch gegen alle bisher formulierten Gesetze, dass die Wahrheit immer Priorität hat. 
 
 Rechts- und Staatsanwälte müssen bei der Beratung von Klienten in die Pflicht genommen werden, ob sie während der gesamten Beratung gegen die Wahrheit beraten oder nicht.
+
+## Notizen aus Vorlesungen
+
+### Fr, 17.10., 14:00 Uhr – Funktionentheorie V
+- Komplexe Differenzierbarkeit
+- Stetigkeit, offene Urmengen und Abbildungen 
+- Urmengen sind wichtig für andere Definitionen
+- Es werden Definitionen definiert für andere Definitionen im Kontext der anderen Definitionen
+- Allgemein betrachtet können solche Definitionen dadurch Schwächen haben
+- Abbildungen, Urbilder, Bilder in der Algebra, aber Funktionen, Differenzierbarkeit in der Analysis 
+
+---
+
+### Do, 16.10., 10:00 Uhr – Grundlagen der Statistik V
+- Satz der totalen Wahrscheinlichkeit, Satz von Bayes
+- Beispiel für Frauen, die Brustkrebs haben. 10% der Frauen haben nur Brustkrebs, wenn die Diagnose Brustkrebs ist, bei 1% Brustkrebs aller Frauen (Testsicherheit, TS). Wenn mehr als 1% der Frauen Brustkrebs haben, dann soll die TS steigen?
+- Zufallsvariablen im Wahrscheinlichkeitsraum
+- Diskrete und Kontinuierliche Zufallsvariable
+
+---
+
+### Mo, 13.10., 12:00 Uhr – Algebraische Graphentheorie V
+- Definition of a graph, isomorphism
+- Problem: Check whether two graphs are isomorph
+- Idee: Lineare Laufzeit in V: Knotenzahl gleich? Ja, dann finde die Strukturüberdeckung, wo der Knotengrad am besten passt und prüfe die Strukturbeziehung: (a) kleiner, (b) gleich, (c) größer. Es kann bei gleicher Knotenanzahl nicht mehr Strukturbeziehungen geben als (a), (b), (c). Bei ungleicher Knotenanzahl gibt es keine Strukturbeziehung.
