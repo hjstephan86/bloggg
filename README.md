@@ -284,7 +284,7 @@ Es braucht eine Lern-App mit KI für Schüler oder Lernende im Allgemeinen für 
 
 Es ist in der Wissenschaft wichtig, das Gehirn in seine Bereiche seinen Funktionen zuzuordnen. Warum? Das muss man nicht tun, das Gehirn ist flexibel.
 
-Es braucht an den Universitäten für die Fächer Mathematik, Informatik, Physik und Elektrotechnik ein standardisiertes objektives Maß für das Niveau bzw. den Anspruch für das Absolvieren des Studiums an den Universitäten. Es darf nicht sein, dass der Abschluss von Physik gleichzusetzen ist mit anderen Abschlüssen der Physik beliebiger Universitäten.
+Es braucht an den Universitäten für die Fächer Mathematik, Informatik, Physik und Elektrotechnik ein standardisiertes objektives Maß für das Niveau bzw. den Anspruch für das Absolvieren des Studiums an den Universitäten. Es darf nicht sein, dass der Abschluss von Physik gleichzusetzen ist mit anderen Abschlüssen der Physik beliebiger Universitäten. Dazu ein Vergleich der Studieninhalte für den Studiengang Informatik der Universität Paderborn und Universität Bielefeld unter doc/Uni/Screenshot from 2025-10-22 03-42-12.png.
 
 Das Frequenzspektrum des Trommelfells eines Hundes oder einer Katze könnte für die Informationsübertragung genutzt werden.
 
@@ -294,11 +294,39 @@ Rechts- und Staatsanwälte müssen bei der Beratung von Klienten in die Pflicht 
 
 ## Notizen aus Vorlesungen
 
+### Di, 21.10., 14:45 Uhr – Formale Logik, V
+- Characteristics of simple logic formulas
+- Replacement theorem, proof of
+- We can proof by structural logic induction
+- Normal forms, conjunctive normal forms
+- CNF, DNF, truth tables, examples
+
+---
+
+### Di, 21.10., 10:15 Uhr  –  Introduction to Natural Language Processing, V
+- Aim of Machine Learning (ML): Increase efficient solvability of complex tasks
+- ML Pipeline phases: Data acquisition, training, deployment, action
+- Underfit, best fit, overfit for limited training data
+- best fit: keep a little error deviation for generic answers
+- Classification (yes/no) vs. regression (%)
+
+---
+
+### Di, 21.10., 08:30 Uhr – Autonome Robotermanipulation, V
+- Lage im Raum durch lineare Abbildung 
+- Passive View: Nur ein Punkt p 
+- Active View: Zwei Punkte bei Verschiebung in anderes Koordinatensystem
+- Transformation durch Matrizen, Determinanten und Inverse von Matrizen
+- Nutze drei Eulerwinkel und drei Achsen x, y, z
+- Eule, Euler und R, Matrix R, Rotation, Drehung
+
+---
+
 ### Mo, 20.10., 16:15 Uhr – Grundlagen des Software Engineering, Ü
 - Android Studio: Google IDE für Android (IntelliJ IDEA Community Edition)
 - Python: Visual Studio Code oder PyCharm Community Edition
 - Artemis: Bewertung von Programmier-, Text- und Modellierungsaufgaben
-- Apollon für UML, Beispiel: Observer Pattern, siehe Bildschirmfoto und Modell unter doc/Apollon/
+- Apollon für UML, Beispiel: Observer Pattern, siehe Bildschirmfoto und Modell unter doc/Uni/20251020/Apollon/
 - Git push mit Syntax-Fehler nicht erlaubt
 - Für jeden Meilenstein ein neues Repository
 - Keine durchgängige MacBook-Unterstützung
