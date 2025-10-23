@@ -294,6 +294,28 @@ Rechts- und Staatsanwälte müssen bei der Beratung von Klienten in die Pflicht 
 
 ## Notizen aus Vorlesungen
 
+### Do, 23.10., 12:30 Uhr – Entwurf mikroelektronischer Systeme, Ü
+- Zu zweit am Rechner
+- Netboot, Fernsteuerung von zu Hause
+- Aufgaben sind im Kernraum
+- Wie ist der Weg zum eigenen Chip?
+- Rekonfigurierbare und parallele Rechnersysteme (VHDL)
+- Xilinx Vivado
+- .xdc-file is Xilinx design constraints 
+
+---
+
+### Do, 23.10., 10:15 Uhr – Entwurf mikroelektronischer Systeme, V
+- Intel startete als Speicher-, nicht CPU-Chip Hersteller
+- Moore's Law scheint geheuchelt, unglaubwürdig, dass dieser komplexe Herstellungsprozess in seinem Potenzial so noch nicht absehbar war
+- 1971 10μm (Transistorgröße), 1974 6μm, 1978 3μm, 1982 1,5μm, 1999 250nm, 2008 45nm (Core i7, Bloomfield), 2017 14nm (Skylake)
+- ASICs Entwurf konservativ, never change running ASIC
+- HDL beschreibt, welche Bauteile und PINs der HW wie genutzt werden
+- 100% Coverage schwierig bei HDL-Verhalten
+- Theorie der Coverage, Testklassen
+
+---
+
 ### Di, 21.10., 14:45 Uhr – Formale Logik, V
 - Characteristics of simple logic formulas
 - Replacement theorem, proof of
