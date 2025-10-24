@@ -294,10 +294,17 @@ Rechts- und Staatsanwälte müssen bei der Beratung von Klienten in die Pflicht 
 
 ## Notizen aus Vorlesungen
 
+### Fr, 24.10., 12:15 Uhr – Parallel and Distributed Computing, V
+- Was ist ein Parallelrechner, was ist ein Vektorrechner?
+- Cray-1, brach alle Geschwindigkeitsrekorde, gewann Schachweltmeisterschaften, Nachfolger Cray-2
+- 64 Bit Rechner: Acht 8 Bit Operationen werden gleichzeitig ausgeführt, mit 8 Bit CPU
+- Pipelining: instruction pipelining, d.h., CPU führt eine Operation pro Takt aus, genauer: ein Maschinenbefehl ("12 ADD $64 [REG]") braucht mehrere Prozessoroperationen/-zyklen: fetch (Befehl lesen), decode, execute, write (Ergebnis ins Register)
+- Idee: Parallelisiere diese Operationen, beachte Probleme
+  
 ### Do, 23.10., 12:30 Uhr – Entwurf mikroelektronischer Systeme, Ü
 - Zu zweit am Rechner
 - Netboot, Fernsteuerung von zu Hause
-- Aufgaben sind im Kernraum
+- Aufgaben sind im Lernraum
 - Wie ist der Weg zum eigenen Chip?
 - Rekonfigurierbare und parallele Rechnersysteme (VHDL)
 - Xilinx Vivado
