@@ -262,6 +262,8 @@ Es gibt gasförmig, fest, flüssig und Haut.
 
 Es sind nicht Mikroorganismen, sondern Organismen.
 
+Die Meere und Ozeane dieser Welt sind unterschiedlich stark mit Mikroplastik belastet. Beim Einkauf von Fisch muss klar ersichtlich sein, mit wie viel Mikroplastik der Meeresbereich, aus dem der Fisch gefangen worden ist, belastet ist.
+
 Unter src/timeline/ befindet sich ein generiertes Skript parser.py zur Auswertung des Google Timeline Exports. Ein Google Timeline Export (2025-08-16 13:44 to 2025-08-23) und eine vom Skript exportierte CSV befinden sich auch in dem Ordner. 
 
 Multipliziere Matrizen der Größe $2 \times 5$ mit $5 \times 2$, $2 \times 7$ mit $7 \times 2$, $2 \times 9$ mit $9 \times 2$ bis hin zu $2 \times 29$ mit $29 \times 2$ für die effiziente Matrixmultiplikation und erhalte jeweils quadratische Produktmatrizen $5 \times 5$, $7 \times 7$, $9 \times 9$ bis hin zu $29 \times 29$. 
