@@ -292,6 +292,8 @@ Im Gericht muss immer so viel individuelle Rechtsprechung erlaubt sein, auch geg
 
 Rechts- und Staatsanwälte müssen bei der Beratung von Klienten in die Pflicht genommen werden, ob sie während der gesamten Beratung gegen die Wahrheit beraten oder nicht.
 
+Programmieren ist mit den einfachen Anweisungen wie Befehl, If-Abfrage, Schleife usw. möglich. Je weiter entfernt eine Programmiersprache von diesen einfachen Anweisungen ist, desto aufwendiger ist z.B. die Analysierbarkeit und Wartbarkeit des Codes. Das Ziel ist nicht, die Programmiersprachen komplizierter zu machen. Software ist heute sehr komplex. Es braucht ein standardisiertes Maß für die Komplexität von Programmiersprachen und bestätigte begründete Abweichungen zur Einhaltung der Prinzipien des qualitativ hochwertigen Software Engineerings.
+
 ## Notizen aus Vorlesungen
 
 ### Fr, 24.10., 12:15 Uhr – Parallel and Distributed Computing, V
