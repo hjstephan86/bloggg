@@ -294,6 +294,8 @@ Rechts- und Staatsanwälte müssen bei der Beratung von Klienten in die Pflicht 
 
 Programmieren ist mit den einfachen Anweisungen wie Befehl, If-Abfrage, Schleife usw. möglich. Je weiter entfernt eine Programmiersprache von diesen einfachen Anweisungen ist, desto aufwendiger ist z.B. die Analysierbarkeit und Wartbarkeit des Codes. Das Ziel ist nicht, die Programmiersprachen komplizierter zu machen. Software ist heute sehr komplex. Es braucht ein standardisiertes Maß für die Komplexität von Programmiersprachen und bestätigte begründete Abweichungen zur Einhaltung der Prinzipien des qualitativ hochwertigen Software Engineerings.
 
+Idee: Verwende einen FPGA und einen Mikrocontroller für die Verhaltensbeschreibung eines Roboters in der Montage für die industrielle Produktion. Bilde auf dem FPGA für spezifische Anwendungsbereiche entsprechende boolesche Funktionen ab, die effizient für Entscheidungsprobleme (Ablauf für Montage und Demontage, gibt es einen Weg zum anderen Standort in der Produktionshalle, ...) berechnet werden. Für unterschiedliche Produkte kann das Verhalten auf dem Mikrocontroller und dem FPGA programmiert werden. Die Hardware des Roboters muss dazu für möglichst viele Produktionsanwendungen ausgelegt werden (Anzahl der Achsen, Bewegungsradius, ...).
+
 ## Notizen aus Vorlesungen
 
 ### Fr, 24.10., 12:15 Uhr – Parallel and Distributed Computing, V
