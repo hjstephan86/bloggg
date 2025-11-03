@@ -298,6 +298,8 @@ Programmieren ist mit den einfachen Anweisungen wie Befehl, If-Abfrage, Schleife
 
 Idee: Verwende einen FPGA und einen Mikrocontroller für die Verhaltensbeschreibung eines Roboters in der Montage für die industrielle Produktion. Bilde auf dem FPGA für spezifische Anwendungsbereiche entsprechende boolesche Funktionen ab, die effizient für Entscheidungsprobleme (Ablauf für Montage und Demontage, gibt es einen Weg zum anderen Standort in der Produktionshalle, ...) berechnet werden. Für unterschiedliche Produkte kann das Verhalten auf dem Mikrocontroller und dem FPGA programmiert werden. Die Hardware des Roboters muss dazu für möglichst viele Produktionsanwendungen ausgelegt werden (Anzahl der Achsen, Bewegungsradius, ...).
 
+Idee für das sichere Speichern von Dateien auf der Festplatte: Die Datei wird in Dateiteile geteilt und diese Teile der Datei jeweils an unterschiedlichen Orten auf der Festplatte gespeichert. Diese Aufteilung wird verschlüsselt in einer Tabelle. Nur durch Zugang zu dieser Tabelle kann eine Datei durch Entschlüsselung der Aufteilung von der Festplatte wieder gelesen werden. So oder so ähnlich löst es auch die CIA. Randbemerkung: Meine Fall-Nummer bei der CIA beginnt mit 34, aber diese wurde schon einmal geändert.
+
 ## Notizen aus Vorlesungen
 
 ### Fr, 24.10., 12:15 Uhr – Parallel and Distributed Computing, V
