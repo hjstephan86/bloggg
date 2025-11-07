@@ -303,7 +303,7 @@ Idee für das sichere Speichern von Dateien auf der Festplatte: Die Datei wird i
 ## Notizen aus Vorlesungen
 
 ### Fr, 07.11., 09:15 Uhr –  Entwurf mikroelektronischer Systeme, Ü
-- Vivado Design Suite Simulation der Testbench tutorial mit Hilfe der Testbench
+- Vivado Design Suite Simulation der Komponente tutorial mit Hilfe der Testbench
 - Das Verhalten der Komponente tutorial ist in der Testbenchstbench nochmal implementiert, was die Verifikation der Komponente tutorial durch Simulation in Frage stellt
 
 ---
@@ -314,7 +314,9 @@ Idee für das sichere Speichern von Dateien auf der Festplatte: Die Datei wird i
 - 64 Bit Rechner: Acht 8 Bit Operationen werden gleichzeitig ausgeführt, mit 8 Bit CPU
 - Pipelining: instruction pipelining, d.h., CPU führt eine Operation pro Takt aus, genauer: ein Maschinenbefehl ("12 ADD $64 [REG]") braucht mehrere Prozessoroperationen/-zyklen: fetch (Befehl lesen), decode, execute, write (Ergebnis ins Register)
 - Idee: Parallelisiere diese Operationen, beachte Probleme
-  
+
+---
+
 ### Do, 23.10., 12:30 Uhr – Entwurf mikroelektronischer Systeme, Ü
 - Zu zweit am Rechner
 - Netboot, Fernsteuerung von zu Hause
