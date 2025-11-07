@@ -302,6 +302,12 @@ Idee für das sichere Speichern von Dateien auf der Festplatte: Die Datei wird i
 
 ## Notizen aus Vorlesungen
 
+### Fr, 07.11., 09:15 Uhr –  Entwurf mikroelektronischer Systeme, Ü
+- Vivado Design Suite Simulation der Testbench tutorial mit Hilfe der Testbench
+- Das Verhalten der Komponente tutorial ist in der Testbenchstbench nochmal implementiert, was die Verifikation der Komponente tutorial durch Simulation in Frage stellt
+
+---
+
 ### Fr, 24.10., 12:15 Uhr – Parallel and Distributed Computing, V
 - Was ist ein Parallelrechner, was ist ein Vektorrechner?
 - Cray-1, brach alle Geschwindigkeitsrekorde, gewann Schachweltmeisterschaften, Nachfolger Cray-2
