@@ -304,7 +304,8 @@ Idee für das sichere Speichern von Dateien auf der Festplatte: Die Datei wird i
 
 ### Fr, 07.11., 09:15 Uhr –  Entwurf mikroelektronischer Systeme, Ü
 - Vivado Design Suite Simulation der Komponente tutorial mit Hilfe der Testbench
-- Das Verhalten der Komponente tutorial ist in der Testbenchstbench nochmal implementiert, was die Verifikation der Komponente tutorial durch Simulation in Frage stellt
+- Das Verhalten der Komponente tutorial ist in der Testbench nochmal implementiert, was die Verifikation der Komponente tutorial durch Simulation infrage stellt
+- Idee: Verwende eine Tabelle für die zu erwarteten Signalwerte für die zu testende Periode
 
 ---
 
