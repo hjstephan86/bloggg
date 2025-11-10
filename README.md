@@ -305,6 +305,12 @@ In der Projektgruppe im Masterstudiengang für Informatik der Universität Pader
 Im April 2025 kam mir an der Universität Paderborn zu Beginn der Teilnahme einer Vorlesung zur Kryptografie die Idee für ein Zahlenpaar einer sehr guten Verschlüsselung. Es sind 29 und 15. Primzahlen sind heilig, sie sind unteilbar. Ihre Verschlüsselung ist nur mit einer Wahrscheinlichkeit von 25 im Exponenten zu entschlüsseln. Ein Zahlenpaar ist noch sicherer, dessen Quersumme nicht 44 ist, sondern 33. Russland hat diese Verschlüsselung genutzt. Das Problem der Riemannschen Vermutung ist damit gelöst.
 
 ## Notizen aus Vorlesungen
+### Mo, 10.11., 14:00 Uhr –  Entwurf mikroelektronischer Systeme, Ü
+- Hardware Design einer ALU mit Vivado Design Suite 
+- Vivado Design Suite Synthetisierung, Implementierung und Bitstream Generierung für die ALU
+- Vivado Design Suite Projektdateien inkl. *.bit-Datei für ALU unter doc/Uni/20251110/
+
+---
 
 ### Mo, 10.11., 09:15 Uhr –  Entwurf mikroelektronischer Systeme, Ü
 - Vivado Design Suite Synthetisierung und Implementierung der Komponente tutorial
