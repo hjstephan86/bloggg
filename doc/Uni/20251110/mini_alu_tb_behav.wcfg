@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="lab2_mini_alu_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="lab2_mini_alu_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="201000001fs"></ZoomEndTime>
+      <Cursor1Time time="16408000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="185"></NameColumnWidth>
+      <ValueColumnWidth column_width="191"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="2" />
+   <wvobject type="array" fp_name="/lab2_mini_alu_tb/led">
+      <obj_property name="ElementShortName">led[11:0]</obj_property>
+      <obj_property name="ObjectShortName">led[11:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/lab2_mini_alu_tb/swt">
+      <obj_property name="ElementShortName">swt[15:0]</obj_property>
+      <obj_property name="ObjectShortName">swt[15:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+</wave_config>
