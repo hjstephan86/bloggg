@@ -3,9 +3,9 @@
    <wave_state>
    </wave_state>
    <db_ref_list>
-      <db_ref path="lab2_mini_alu_tb_behav.wdb" id="1">
+      <db_ref path="mini_alu_tb_behav.wdb" id="1">
          <top_modules>
-            <top_module name="lab2_mini_alu_tb" />
+            <top_module name="mini_alu_tb" />
          </top_modules>
       </db_ref>
    </db_ref_list>
@@ -19,13 +19,13 @@
       <ValueColumnWidth column_width="191"></ValueColumnWidth>
    </column_width_setting>
    <WVObjectSize size="2" />
-   <wvobject type="array" fp_name="/lab2_mini_alu_tb/led">
+   <wvobject type="array" fp_name="/mini_alu_tb/led">
       <obj_property name="ElementShortName">led[11:0]</obj_property>
       <obj_property name="ObjectShortName">led[11:0]</obj_property>
       <obj_property name="isExpanded"></obj_property>
       <obj_property name="Radix">BINARYRADIX</obj_property>
    </wvobject>
-   <wvobject type="array" fp_name="/lab2_mini_alu_tb/swt">
+   <wvobject type="array" fp_name="/mini_alu_tb/swt">
       <obj_property name="ElementShortName">swt[15:0]</obj_property>
       <obj_property name="ObjectShortName">swt[15:0]</obj_property>
       <obj_property name="isExpanded"></obj_property>

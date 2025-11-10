@@ -3,7 +3,7 @@
 -- Bielefeld University
 -- Cognitronics & Sensor Systems
 --
--- File Name   : lab2_mini_alu_tb.vhd
+-- File Name   : mini_alu_tb.vhd
 -- Author      : Martin Kaiser
 -- Description : Repar Lab 2
 --
@@ -28,14 +28,14 @@ use IEEE.numeric_std.all;
 --------------
 --  ENTITY  --
 --------------
-entity lab2_mini_alu_tb is
-end lab2_mini_alu_tb;
+entity mini_alu_tb is
+end mini_alu_tb;
 
 
 --------------------
 --  ARCHITECTURE  --
 --------------------
-architecture BEH of lab2_mini_alu_tb is
+architecture BEH of mini_alu_tb is
 
   ------------------------------
   --  COMPONENT DECLARATIONS  --
