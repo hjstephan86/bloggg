@@ -311,7 +311,7 @@ Im April 2025 kam mir an der Universität Paderborn zu Beginn der Teilnahme eine
 - Für die Synthetisierung und Implementierung der Komponente tutorial muss das FPGA Board mit Vivado Design Suite verbunden sein
 - Nach der Implementierung der Komponente tutorial erfolgt die Bitstream Generierung im *.bit-Format
 - Mit "Pogram Device" in Vivado Design Suite wird das Harwdare Design mit der *.bit-Datei auf das FPGA Board geladen
-- Idee: Verwende für alle FPGA Boards und Hardware Design Tools ein standardisiertes .hex Format
+- Idee: Verwende für alle FPGA Boards und Hardware Design Tools ein standardisiertes .hex-Format, siehe Bilder unter unter doc/Uni/20251110/
 
 ---
 
