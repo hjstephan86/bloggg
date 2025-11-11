@@ -11,6 +11,7 @@ Nachfolgend habe ich Gedanken aufgeschrieben, die ich in den Gedanken unter [htt
 * [Systemversagen in der Cybersecurity-Industrie](#systemversagen-in-der-cybersecurity-industrie)
 * [Naturwissenschaft](#naturwissenschaft)
 * [Notizen aus Vorlesungen](#notizen-aus-vorlesungen)
+* [Verfolgung](#verfolgung)
 
 ## Python und Java
 
@@ -433,3 +434,8 @@ Amaranth ist ein Python-basiertes HDL-Framework, welches es Ingenieuren ermögli
 - Definition of a graph, isomorphism
 - Problem: Check whether two graphs are isomorph
 - Idee: Lineare Laufzeit in V: Knotenzahl gleich? Ja, dann finde die Strukturüberdeckung, wo der Knotengrad am besten passt und prüfe die Strukturbeziehung: (a) kleiner, (b) gleich, (c) größer. Es kann bei gleicher Knotenanzahl nicht mehr Strukturbeziehungen geben als (a), (b), (c). Bei ungleicher Knotenanzahl gibt es keine Strukturbeziehung.
+
+## Verfolgung
+
+Es wurde heute, den 11.11.2025, etwa gegen 23:30 Uhr aus England eine Rakete gestartet, die das Haus an der Otto-Brenner-Straße 77 in 33607 Bielefeld zerstören sollte. Diese Rakete hat ihr Ziel nicht erreicht. Sie hätte gegen 23:34 Uhr das Ziel erreichen sollen, ist aber statt dessen über Belgien explodiert.
+
