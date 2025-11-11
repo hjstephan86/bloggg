@@ -307,6 +307,15 @@ Im April 2025 kam mir an der Universität Paderborn zu Beginn der Teilnahme eine
 Amaranth ist ein Python-basiertes HDL-Framework, welches es Ingenieuren ermöglicht, das Hardware Design in Python zu schreiben. Dabei müssen aber die Qualitätsprinzipien des Software Engineerings genau so gelten. Zum Beispiel müssen Namen von Objekten aussagekräftig sein, also nicht ```a = Adder(width=8)``` sondern ```adder = Adder(width=8)```. Das fördert die Analysierbarkeit, Wartbarkeit und Erweiterbarkeit und spart damit Kosten. Nur weil Hardware Designs entwickelt werden, müssen wichtige und bewährte Prinzipien des Software Engineerings nicht aufgegeben werden. 
 
 ## Notizen aus Vorlesungen
+### Di, 11.11., 09:15 Uhr –  Entwurf mikroelektronischer Systeme, Ü
+- Hardware Design mit Vivado Design Suite entspricht nicht immer den Erwartungen eines Engineers:
+- Kein benutzerfreundliches (gewohntes) Refactoring von Komponenten
+- Keine benutzerfreundliche (gewohnte) Debug-Umgebung
+- Wieso ist links die Simulation oberhalb der RTL Analysis angeordnet?
+- Wieso können Synthese und Implementierung nicht als ein Schritt zusammengefasst werden?
+
+---
+
 ### Mo, 10.11., 14:00 Uhr –  Entwurf mikroelektronischer Systeme, Ü
 - Hardware Design einer ALU mit Vivado Design Suite 
 - Vivado Design Suite Synthetisierung, Implementierung und Bitstream Generierung für die ALU
