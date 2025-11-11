@@ -304,6 +304,8 @@ In der Projektgruppe im Masterstudiengang für Informatik der Universität Pader
 
 Im April 2025 kam mir an der Universität Paderborn zu Beginn der Teilnahme einer Vorlesung zur Kryptografie die Idee für ein Zahlenpaar einer sehr guten Verschlüsselung. Es sind 29 und 15. Primzahlen sind heilig, sie sind unteilbar. Ihre Verschlüsselung ist nur mit einer Wahrscheinlichkeit von 25 im Exponenten zu entschlüsseln. Ein Zahlenpaar ist noch sicherer, dessen Quersumme nicht 44 ist, sondern 33. Russland hat diese Verschlüsselung genutzt. Das Problem der Riemannschen Vermutung ist damit gelöst.
 
+Amaranth ist ein Python-basiertes HDL-Framework, welches es Ingenieuren ermöglicht, das Hardware Design in Python zu schreiben. Dabei müssen aber die Qualitätsprinzipien des Software Engineerings genau so gelten. Zum Beispiel müssen Namen von Objekten aussagekräftig sein, also nicht ```a = Adder(width=8)``` sondern ```adder = Adder(width=8)```. Das fördert die Analysierbarkeit, Wartbarkeit und Erweiterbarkeit und spart damit Kosten. Nur weil Hardware Designs entwickelt werden, müssen wichtige und bewährte Prinzipien des Software Engineerings nicht aufgegeben werden. 
+
 ## Notizen aus Vorlesungen
 ### Mo, 10.11., 14:00 Uhr –  Entwurf mikroelektronischer Systeme, Ü
 - Hardware Design einer ALU mit Vivado Design Suite 
