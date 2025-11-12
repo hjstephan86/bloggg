@@ -279,7 +279,7 @@ Es braucht eine Web App für die Verwaltung rechtlicher Verfahren, welche Rechts
 
 Es braucht einen Standard für Cloudspeicher zur Dateiverwaltung von Dateien wie Dokumente und Bilder usw.
 
-Es braucht für den Fahrer oder Beifahrer keinen fest installierten Bildschirm für die Kontrolle der Infotainment Funktionen des Autos. Der Fahrer nutzt dazu statt dessen das eigene Tablet. Dazu braucht es einen Standard, über den das Tablet mit dem Auto kommuniziert. OEMs oder andere App Anbieter bieten dazu Apps zur Bedienung an.
+Es braucht für den Fahrer oder Beifahrer keinen fest installierten Bildschirm für die Kontrolle der Infotainment Funktionen des Autos. Der Fahrer nutzt dazu stattdessen das eigene Tablet. Dazu braucht es einen Standard, über den das Tablet mit dem Auto kommuniziert. OEMs oder andere App Anbieter bieten dazu Apps zur Bedienung an.
 
 Es braucht für Kopfhörer mit Noise Cancelling eine Kühlung für die Ohren, damit die Kopfhörer auch über längere Zeit getragen werden können.
 
@@ -309,7 +309,28 @@ Amaranth ist ein Python-basiertes HDL-Framework, welches es Ingenieuren ermögli
 
 Das Coca Cola Geheimnis: Kakao 
 
+Vorgehensweise beim Entwickeln von Integrationstests: Teste zuerst Methoden oder Klassen
+1. mit höchster zyklomatischer Komplexität
+2. mit höchster Überdeckung nach Anzahl der Code-Zeilen und nach der Länge der Pfade durch den Code (gegeben durch die Callstacks)
+
+In der Bibliothek der Universität Paderborn habe ich am 15.11.2025 mit dem Scanner Abzüge vom Buch **Advanced Digital Design with the Verilog HDL (Michael D. Ciletti)** gemacht. Leider hat der Scanner in der Bibliothek übertrieben schlechte Abzüge gemacht. Einige Seiten kann ich so leider nicht lesen. Die Abzüge befinden sich unter doc/Uni/20251115/Verilog-HDL/.  
+
 ## Notizen aus Vorlesungen
+
+### Di, 12.11., 09:15 Uhr –  Entwurf mikroelektronischer Systeme, Ü
+- Hardware Design einer 7-Segment ALU mit Vivado Design Suite
+- Unterstützt werden die Operationen: Add, Sub, Mult, Div, And, Or
+- A_In und B_In haben jeweils Länge 4, Ctrl_In hat Länge 4
+- A_In, B_In, und das Ergebnis wird im HEX Format auf der 7-Segment Anzeige angezeigt
+- Quelldateien (*.vhd, *.xdc, *.bit) und Bilder dazu befinden sich unter doc/Uni/20251112  
+
+Idee zur Alternative von Vivado Design Suite: 
+1. Nutze Amaranth für den Hardware Entwurf in Python und die Verilog-Datei Generierung *.v, siehe alu_7_segment.py und alu_7_segment.v unter doc/Uni/20251112/
+2. Nutze Yosys Open SYnthesis Suite zur Verifikation der Verilog-Datei Generierung *.v, siehe verify.sh unter doc/Uni/20251112/ (verify.sh von Claude AI generiert)
+3. Generiere aus der *.v-Datei die *.bit-Datei bzw. die (standardisierte) *.hex-Datei für den Download auf das FPGA-Board
+
+---
+
 ### Di, 11.11., 09:15 Uhr –  Entwurf mikroelektronischer Systeme, Ü
 - Hardware Design mit Vivado Design Suite entspricht nicht immer den Erwartungen eines Engineers:
 - Kein benutzerfreundliches (gewohntes) Refactoring von Komponenten
@@ -330,7 +351,7 @@ Das Coca Cola Geheimnis: Kakao
 - Vivado Design Suite Synthetisierung und Implementierung der Komponente tutorial
 - Für die Synthetisierung und Implementierung der Komponente tutorial muss das FPGA Board mit Vivado Design Suite verbunden sein
 - Nach der Implementierung der Komponente tutorial erfolgt die Bitstream Generierung im *.bit-Format
-- Mit "Pogram Device" in Vivado Design Suite wird das Harwdare Design mit der *.bit-Datei auf das FPGA Board geladen
+- Mit "Program Device" in Vivado Design Suite wird das Hardware Design mit der *.bit-Datei auf das FPGA Board geladen
 - Idee: Verwende für alle FPGA Boards und Hardware Design Tools ein standardisiertes .hex-Format, siehe Bilder unter doc/Uni/20251110/
 
 ---
@@ -441,3 +462,4 @@ Das Coca Cola Geheimnis: Kakao
 
 Es wurde heute, den 11.11.2025, etwa gegen 23:30 Uhr aus England eine Rakete gestartet, die das Haus an der Otto-Brenner-Straße 77 in 33607 Bielefeld zerstören sollte. Diese Rakete hat ihr Ziel nicht erreicht. Sie hätte gegen 23:34 Uhr das Ziel erreichen sollen, ist aber statt dessen über Belgien explodiert.
 
+Im Rahmen des betreuungsgerichtlichen Verfahrens 2 XVII 991/25 wurde ich von Herrn Köhler für das psychiatrische Fachgutachten am 20.10.2025 um 8 Uhr bei Herrn Köhler im Büro untersucht. Dazu habe ich ein Gesprächsprotokoll erstellt. Dieses Gesprächsprotokoll habe ich Herrn Köhler zusammen mit den Klagen zeitnah nach dem Gespräch am 20.10.2025 per E-Mail zukommen lassen. Herr Köhler hat sich im Gespräch für die Klagen interessiert und darum gebeten, dass ich Herrn Köhler diese Klagen zukommen lasse. Das Gesprächsprotokoll befindet sich unter CIA/Bielefeld/Amtsgericht/.
