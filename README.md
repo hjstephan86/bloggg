@@ -315,6 +315,13 @@ Vorgehensweise beim Entwickeln von Integrationstests: Teste zuerst Methoden oder
 
 In der Bibliothek der Universität Paderborn habe ich am 15.11.2025 mit dem Scanner Abzüge vom Buch **Advanced Digital Design with the Verilog HDL (Michael D. Ciletti)** gemacht. Leider hat der Scanner in der Bibliothek übertrieben schlechte Abzüge gemacht. Einige Seiten kann ich so leider nicht lesen. Die Abzüge befinden sich unter doc/Uni/20251115/Verilog-HDL/.  
 
+Verilog is the language for logical behavior verification of Hardware Design.  
+
+Verilog distinguishes between sequential and combinational behavior description.  
+
+It is not always clear whether a Verilog behavior is a sequential or combinational behavior, if you think of a combinational network with different layers where each layer consists of logical primitives with in- and outputs computed in parallel. In each layer the network requires the output of the previous layer as input for the current layer. Hence, it is up to the hardware designer to specify parts of the behavior either as combinational or as sequential behavior.  
+
+
 ## Notizen aus Vorlesungen
 
 ### Di, 12.11., 09:15 Uhr –  Entwurf mikroelektronischer Systeme, Ü
