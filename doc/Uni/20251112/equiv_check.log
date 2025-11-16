@@ -1,0 +1,678 @@
+
+ /----------------------------------------------------------------------------\
+ |                                                                            |
+ |  yosys -- Yosys Open SYnthesis Suite                                       |
+ |                                                                            |
+ |  Copyright (C) 2012 - 2020  Claire Xenia Wolf <claire@yosyshq.com>         |
+ |                                                                            |
+ |  Permission to use, copy, modify, and/or distribute this software for any  |
+ |  purpose with or without fee is hereby granted, provided that the above    |
+ |  copyright notice and this permission notice appear in all copies.         |
+ |                                                                            |
+ |  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES  |
+ |  WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF          |
+ |  MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR   |
+ |  ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES    |
+ |  WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN     |
+ |  ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF   |
+ |  OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.            |
+ |                                                                            |
+ \----------------------------------------------------------------------------/
+
+ Yosys 0.33 (git sha1 2584903a060)
+
+
+-- Running command `
+    # Load and prepare Amaranth design
+    read_verilog alu_7_segment.v
+    hierarchy -check -top alu_7_segment
+    proc; opt; memory; opt
+    flatten
+    
+    # Store as gold standard
+    rename alu_7_segment alu_amaranth
+    design -stash amaranth
+    
+    # Load and prepare VHDL design
+    read_verilog alu_7_segment_from_vhdl.v
+    hierarchy -check -top alu_7_segment
+    proc; opt; memory; opt
+    
+    # Rename first, then flatten
+    rename alu_7_segment alu_vhdl_temp
+    flatten alu_vhdl_temp
+    rename alu_vhdl_temp alu_vhdl
+    
+    design -stash vhdl
+    
+    # Bring both designs together
+    design -copy-from amaranth -as alu_amaranth alu_amaranth
+    design -copy-from vhdl -as alu_vhdl alu_vhdl
+    
+    # Create equivalence checking module
+    # Use -multiclock to handle different clock port names
+    equiv_make -multiclock alu_amaranth alu_vhdl equiv
+    
+    # Prepare for checking
+    hierarchy -check -top equiv
+    proc; opt
+    
+    # Run equivalence checks
+    equiv_simple -undef -seq 5
+    equiv_induct -undef -seq 10
+    
+    # Report status
+    equiv_status
+' --
+
+1. Executing Verilog-2005 frontend: alu_7_segment.v
+Parsing Verilog input from `alu_7_segment.v' to AST representation.
+Generating RTLIL representation for module `\alu_7_segment'.
+Successfully finished Verilog frontend.
+
+2. Executing HIERARCHY pass (managing design hierarchy).
+
+2.1. Analyzing design hierarchy..
+Top module:  \alu_7_segment
+
+2.2. Analyzing design hierarchy..
+Top module:  \alu_7_segment
+Removed 0 unused modules.
+
+3. Executing PROC pass (convert processes to netlists).
+
+3.1. Executing PROC_CLEAN pass (remove empty switches from decision trees).
+Found and cleaned up 1 empty switch in `\alu_7_segment.$proc$alu_7_segment.v:218$25'.
+Found and cleaned up 1 empty switch in `\alu_7_segment.$proc$alu_7_segment.v:206$21'.
+Found and cleaned up 1 empty switch in `\alu_7_segment.$proc$alu_7_segment.v:168$20'.
+Found and cleaned up 1 empty switch in `\alu_7_segment.$proc$alu_7_segment.v:154$19'.
+Found and cleaned up 1 empty switch in `\alu_7_segment.$proc$alu_7_segment.v:140$18'.
+Found and cleaned up 1 empty switch in `\alu_7_segment.$proc$alu_7_segment.v:128$17'.
+Found and cleaned up 1 empty switch in `\alu_7_segment.$proc$alu_7_segment.v:118$16'.
+Found and cleaned up 1 empty switch in `\alu_7_segment.$proc$alu_7_segment.v:88$15'.
+Cleaned up 8 empty switches.
+
+3.2. Executing PROC_RMDEAD pass (remove dead branches from decision trees).
+Marked 2 switch rules as full_case in process $proc$alu_7_segment.v:218$25 in module alu_7_segment.
+Marked 1 switch rules as full_case in process $proc$alu_7_segment.v:206$21 in module alu_7_segment.
+Removed 1 dead cases from process $proc$alu_7_segment.v:168$20 in module alu_7_segment.
+Removed 1 dead cases from process $proc$alu_7_segment.v:154$19 in module alu_7_segment.
+Removed 1 dead cases from process $proc$alu_7_segment.v:140$18 in module alu_7_segment.
+Marked 1 switch rules as full_case in process $proc$alu_7_segment.v:128$17 in module alu_7_segment.
+Marked 1 switch rules as full_case in process $proc$alu_7_segment.v:118$16 in module alu_7_segment.
+Removed a total of 3 dead cases.
+
+3.3. Executing PROC_PRUNE pass (remove redundant assignments in processes).
+Removed 0 redundant assignments.
+Promoted 13 assignments to connections.
+
+3.4. Executing PROC_INIT pass (extract init attributes).
+Found init rule in `\alu_7_segment.$proc$alu_7_segment.v:64$32'.
+  Set init value: \refresh_counter = 17'00000000000000000
+Found init rule in `\alu_7_segment.$proc$alu_7_segment.v:60$31'.
+  Set init value: \digit_select = 2'00
+
+3.5. Executing PROC_ARST pass (detect async resets in processes).
+
+3.6. Executing PROC_ROM pass (convert switches to ROMs).
+Converted 1 switch.
+<suppressed ~11 debug messages>
+
+3.7. Executing PROC_MUX pass (convert decision trees to multiplexers).
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment.v:64$32'.
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment.v:60$31'.
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment.v:7$29'.
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment.v:218$25'.
+     1/2: $2\$12[1:0]$28
+     2/2: $1\$12[1:0]$27
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment.v:206$21'.
+     1/2: $2\$11[16:0]$24
+     2/2: $1\$11[16:0]$23
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment.v:168$20'.
+     1/1: $1\SEG[6:0]
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment.v:154$19'.
+     1/1: $1\current_digit[3:0]
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment.v:140$18'.
+     1/1: $1\AN[3:0]
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment.v:128$17'.
+     1/1: $1\mult_result[7:0]
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment.v:118$16'.
+     1/1: $1\sub_result[8:0]
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment.v:88$15'.
+     1/3: $3\alu_result[7:0]
+     2/3: $2\alu_result[7:0]
+     3/3: $1\alu_result[7:0]
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment.v:86$14'.
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment.v:83$13'.
+
+3.8. Executing PROC_DLATCH pass (convert process syncs to latches).
+No latch inferred for signal `\alu_7_segment.\$auto$verilog_backend.cc:2355:dump_module$1' from process `\alu_7_segment.$proc$alu_7_segment.v:7$29'.
+No latch inferred for signal `\alu_7_segment.\$12' from process `\alu_7_segment.$proc$alu_7_segment.v:218$25'.
+No latch inferred for signal `\alu_7_segment.\$11' from process `\alu_7_segment.$proc$alu_7_segment.v:206$21'.
+No latch inferred for signal `\alu_7_segment.\SEG' from process `\alu_7_segment.$proc$alu_7_segment.v:168$20'.
+No latch inferred for signal `\alu_7_segment.\current_digit' from process `\alu_7_segment.$proc$alu_7_segment.v:154$19'.
+No latch inferred for signal `\alu_7_segment.\AN' from process `\alu_7_segment.$proc$alu_7_segment.v:140$18'.
+No latch inferred for signal `\alu_7_segment.\mult_result' from process `\alu_7_segment.$proc$alu_7_segment.v:128$17'.
+No latch inferred for signal `\alu_7_segment.\sub_result' from process `\alu_7_segment.$proc$alu_7_segment.v:118$16'.
+No latch inferred for signal `\alu_7_segment.\alu_result' from process `\alu_7_segment.$proc$alu_7_segment.v:88$15'.
+
+3.9. Executing PROC_DFF pass (convert process syncs to FFs).
+Creating register for signal `\alu_7_segment.\digit_select' using process `\alu_7_segment.$proc$alu_7_segment.v:86$14'.
+  created $dff cell `$procdff$92' with positive edge clock.
+Creating register for signal `\alu_7_segment.\refresh_counter' using process `\alu_7_segment.$proc$alu_7_segment.v:83$13'.
+  created $dff cell `$procdff$93' with positive edge clock.
+
+3.10. Executing PROC_MEMWR pass (convert process memory writes to cells).
+
+3.11. Executing PROC_CLEAN pass (remove empty switches from decision trees).
+Removing empty process `alu_7_segment.$proc$alu_7_segment.v:64$32'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment.v:60$31'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment.v:7$29'.
+Found and cleaned up 2 empty switches in `\alu_7_segment.$proc$alu_7_segment.v:218$25'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment.v:218$25'.
+Found and cleaned up 2 empty switches in `\alu_7_segment.$proc$alu_7_segment.v:206$21'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment.v:206$21'.
+Found and cleaned up 1 empty switch in `\alu_7_segment.$proc$alu_7_segment.v:168$20'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment.v:168$20'.
+Found and cleaned up 1 empty switch in `\alu_7_segment.$proc$alu_7_segment.v:154$19'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment.v:154$19'.
+Found and cleaned up 1 empty switch in `\alu_7_segment.$proc$alu_7_segment.v:140$18'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment.v:140$18'.
+Found and cleaned up 1 empty switch in `\alu_7_segment.$proc$alu_7_segment.v:128$17'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment.v:128$17'.
+Found and cleaned up 1 empty switch in `\alu_7_segment.$proc$alu_7_segment.v:118$16'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment.v:118$16'.
+Found and cleaned up 3 empty switches in `\alu_7_segment.$proc$alu_7_segment.v:88$15'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment.v:88$15'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment.v:86$14'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment.v:83$13'.
+Cleaned up 12 empty switches.
+
+3.12. Executing OPT_EXPR pass (perform const folding).
+Optimizing module alu_7_segment.
+<suppressed ~3 debug messages>
+
+4. Executing OPT pass (performing simple optimizations).
+
+4.1. Executing OPT_EXPR pass (perform const folding).
+Optimizing module alu_7_segment.
+
+4.2. Executing OPT_MERGE pass (detect identical cells).
+Finding identical cells in module `\alu_7_segment'.
+<suppressed ~24 debug messages>
+Removed a total of 8 cells.
+
+4.3. Executing OPT_MUXTREE pass (detect dead branches in mux trees).
+Running muxtree optimizer on module \alu_7_segment..
+  Creating internal representation of mux trees.
+  Evaluating internal representation of mux trees.
+  Analyzing evaluation results.
+    dead port 2/2 on $mux $procmux$82.
+    dead port 2/2 on $mux $procmux$72.
+    dead port 2/2 on $mux $procmux$61.
+Removed 3 multiplexer ports.
+<suppressed ~5 debug messages>
+
+4.4. Executing OPT_REDUCE pass (consolidate $*mux and $reduce_* inputs).
+  Optimizing cells in module \alu_7_segment.
+Performed a total of 0 changes.
+
+4.5. Executing OPT_MERGE pass (detect identical cells).
+Finding identical cells in module `\alu_7_segment'.
+Removed a total of 0 cells.
+
+4.6. Executing OPT_DFF pass (perform DFF optimizations).
+Adding SRST signal on $procdff$93 ($dff) from module alu_7_segment (D = $1\$11[16:0]$23, Q = \refresh_counter, rval = 17'00000000000000000).
+Adding SRST signal on $procdff$92 ($dff) from module alu_7_segment (D = $1\$12[1:0]$27, Q = \digit_select, rval = 2'00).
+
+4.7. Executing OPT_CLEAN pass (remove unused cells and wires).
+Finding unused cells or wires in module \alu_7_segment..
+Removed 2 unused cells and 63 unused wires.
+<suppressed ~5 debug messages>
+
+4.8. Executing OPT_EXPR pass (perform const folding).
+Optimizing module alu_7_segment.
+
+4.9. Rerunning OPT passes. (Maybe there is more to do..)
+
+4.10. Executing OPT_MUXTREE pass (detect dead branches in mux trees).
+Running muxtree optimizer on module \alu_7_segment..
+  Creating internal representation of mux trees.
+  Evaluating internal representation of mux trees.
+  Analyzing evaluation results.
+Removed 0 multiplexer ports.
+<suppressed ~5 debug messages>
+
+4.11. Executing OPT_REDUCE pass (consolidate $*mux and $reduce_* inputs).
+  Optimizing cells in module \alu_7_segment.
+Performed a total of 0 changes.
+
+4.12. Executing OPT_MERGE pass (detect identical cells).
+Finding identical cells in module `\alu_7_segment'.
+Removed a total of 0 cells.
+
+4.13. Executing OPT_DFF pass (perform DFF optimizations).
+Adding EN signal on $auto$ff.cc:266:slice$95 ($sdff) from module alu_7_segment (D = \$9 [1:0], Q = \digit_select).
+Adding SRST signal on $auto$ff.cc:266:slice$94 ($sdff) from module alu_7_segment (D = \$10 [16:0], Q = \refresh_counter, rval = 17'00000000000000000).
+
+4.14. Executing OPT_CLEAN pass (remove unused cells and wires).
+Finding unused cells or wires in module \alu_7_segment..
+Removed 2 unused cells and 2 unused wires.
+<suppressed ~3 debug messages>
+
+4.15. Executing OPT_EXPR pass (perform const folding).
+Optimizing module alu_7_segment.
+
+4.16. Rerunning OPT passes. (Maybe there is more to do..)
+
+4.17. Executing OPT_MUXTREE pass (detect dead branches in mux trees).
+Running muxtree optimizer on module \alu_7_segment..
+  Creating internal representation of mux trees.
+  Evaluating internal representation of mux trees.
+  Analyzing evaluation results.
+Removed 0 multiplexer ports.
+<suppressed ~3 debug messages>
+
+4.18. Executing OPT_REDUCE pass (consolidate $*mux and $reduce_* inputs).
+  Optimizing cells in module \alu_7_segment.
+Performed a total of 0 changes.
+
+4.19. Executing OPT_MERGE pass (detect identical cells).
+Finding identical cells in module `\alu_7_segment'.
+Removed a total of 0 cells.
+
+4.20. Executing OPT_DFF pass (perform DFF optimizations).
+
+4.21. Executing OPT_CLEAN pass (remove unused cells and wires).
+Finding unused cells or wires in module \alu_7_segment..
+
+4.22. Executing OPT_EXPR pass (perform const folding).
+Optimizing module alu_7_segment.
+
+4.23. Finished OPT passes. (There is nothing left to do.)
+
+5. Executing MEMORY pass.
+
+5.1. Executing OPT_MEM pass (optimize memories).
+Performed a total of 0 transformations.
+
+5.2. Executing OPT_MEM_PRIORITY pass (removing unnecessary memory write priority relations).
+Performed a total of 0 transformations.
+
+5.3. Executing OPT_MEM_FEEDBACK pass (finding memory read-to-write feedback paths).
+
+5.4. Executing MEMORY_BMUX2ROM pass (converting muxes to ROMs).
+
+5.5. Executing MEMORY_DFF pass (merging $dff cells to $memrd).
+Checking read port `$auto$proc_rom.cc:150:do_switch$34'[0] in module `\alu_7_segment': no output FF found.
+Checking read port address `$auto$proc_rom.cc:150:do_switch$34'[0] in module `\alu_7_segment': no address FF found.
+
+5.6. Executing OPT_CLEAN pass (remove unused cells and wires).
+Finding unused cells or wires in module \alu_7_segment..
+
+5.7. Executing MEMORY_SHARE pass (consolidating $memrd/$memwr cells).
+
+5.8. Executing OPT_MEM_WIDEN pass (optimize memories where all ports are wide).
+Performed a total of 0 transformations.
+
+5.9. Executing OPT_CLEAN pass (remove unused cells and wires).
+Finding unused cells or wires in module \alu_7_segment..
+
+5.10. Executing MEMORY_COLLECT pass (generating $mem cells).
+
+5.11. Executing MEMORY_MAP pass (converting memories to logic and flip-flops).
+Mapping memory $auto$proc_rom.cc:150:do_switch$34 in module \alu_7_segment:
+  created 16 $dff cells and 0 static cells of width 7.
+  read interface: 0 $dff and 15 $mux cells.
+  write interface: 0 write mux blocks.
+
+6. Executing OPT pass (performing simple optimizations).
+
+6.1. Executing OPT_EXPR pass (perform const folding).
+Optimizing module alu_7_segment.
+
+6.2. Executing OPT_MERGE pass (detect identical cells).
+Finding identical cells in module `\alu_7_segment'.
+Removed a total of 0 cells.
+
+6.3. Executing OPT_MUXTREE pass (detect dead branches in mux trees).
+Running muxtree optimizer on module \alu_7_segment..
+  Creating internal representation of mux trees.
+  Evaluating internal representation of mux trees.
+  Analyzing evaluation results.
+Removed 0 multiplexer ports.
+<suppressed ~4 debug messages>
+
+6.4. Executing OPT_REDUCE pass (consolidate $*mux and $reduce_* inputs).
+  Optimizing cells in module \alu_7_segment.
+Performed a total of 0 changes.
+
+6.5. Executing OPT_MERGE pass (detect identical cells).
+Finding identical cells in module `\alu_7_segment'.
+Removed a total of 0 cells.
+
+6.6. Executing OPT_DFF pass (perform DFF optimizations).
+
+6.7. Executing OPT_CLEAN pass (remove unused cells and wires).
+Finding unused cells or wires in module \alu_7_segment..
+Removed 0 unused cells and 16 unused wires.
+<suppressed ~1 debug messages>
+
+6.8. Executing OPT_EXPR pass (perform const folding).
+Optimizing module alu_7_segment.
+
+6.9. Rerunning OPT passes. (Maybe there is more to do..)
+
+6.10. Executing OPT_MUXTREE pass (detect dead branches in mux trees).
+Running muxtree optimizer on module \alu_7_segment..
+  Creating internal representation of mux trees.
+  Evaluating internal representation of mux trees.
+  Analyzing evaluation results.
+Removed 0 multiplexer ports.
+<suppressed ~4 debug messages>
+
+6.11. Executing OPT_REDUCE pass (consolidate $*mux and $reduce_* inputs).
+  Optimizing cells in module \alu_7_segment.
+Performed a total of 0 changes.
+
+6.12. Executing OPT_MERGE pass (detect identical cells).
+Finding identical cells in module `\alu_7_segment'.
+Removed a total of 0 cells.
+
+6.13. Executing OPT_DFF pass (perform DFF optimizations).
+
+6.14. Executing OPT_CLEAN pass (remove unused cells and wires).
+Finding unused cells or wires in module \alu_7_segment..
+
+6.15. Executing OPT_EXPR pass (perform const folding).
+Optimizing module alu_7_segment.
+
+6.16. Finished OPT passes. (There is nothing left to do.)
+
+7. Executing FLATTEN pass (flatten design).
+Renaming module \alu_7_segment to \alu_amaranth.
+
+8. Executing Verilog-2005 frontend: alu_7_segment_from_vhdl.v
+Parsing Verilog input from `alu_7_segment_from_vhdl.v' to AST representation.
+Generating RTLIL representation for module `\alu_7_segment'.
+Successfully finished Verilog frontend.
+
+9. Executing HIERARCHY pass (managing design hierarchy).
+
+9.1. Analyzing design hierarchy..
+Top module:  \alu_7_segment
+
+9.2. Analyzing design hierarchy..
+Top module:  \alu_7_segment
+Removed 0 unused modules.
+
+10. Executing PROC pass (convert processes to netlists).
+
+10.1. Executing PROC_CLEAN pass (remove empty switches from decision trees).
+Cleaned up 0 empty switches.
+
+10.2. Executing PROC_RMDEAD pass (remove dead branches from decision trees).
+Marked 1 switch rules as full_case in process $proc$alu_7_segment_from_vhdl.v:255$192 in module alu_7_segment.
+Marked 1 switch rules as full_case in process $proc$alu_7_segment_from_vhdl.v:213$175 in module alu_7_segment.
+Marked 1 switch rules as full_case in process $proc$alu_7_segment_from_vhdl.v:204$174 in module alu_7_segment.
+Marked 1 switch rules as full_case in process $proc$alu_7_segment_from_vhdl.v:170$165 in module alu_7_segment.
+Removed a total of 0 dead cases.
+
+10.3. Executing PROC_PRUNE pass (remove redundant assignments in processes).
+Removed 0 redundant assignments.
+Promoted 12 assignments to connections.
+
+10.4. Executing PROC_INIT pass (extract init attributes).
+Found init rule in `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:0$199'.
+  Set init value: \n153_q = 2'00
+Found init rule in `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:0$198'.
+  Set init value: \n151_q = 17'00000000000000000
+Found init rule in `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:0$197'.
+  Set init value: \digit_select = 2'00
+Found init rule in `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:0$196'.
+  Set init value: \refresh_counter = 17'00000000000000000
+
+10.5. Executing PROC_ARST pass (detect async resets in processes).
+
+10.6. Executing PROC_ROM pass (convert switches to ROMs).
+Converted 0 switches.
+<suppressed ~4 debug messages>
+
+10.7. Executing PROC_MUX pass (convert decision trees to multiplexers).
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:0$199'.
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:0$198'.
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:0$197'.
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:0$196'.
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:283$195'.
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:276$193'.
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:255$192'.
+     1/1: $1\n149_o[6:0]
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:213$175'.
+     1/1: $1\n96_o[3:0]
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:204$174'.
+     1/1: $1\n94_o[3:0]
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:170$165'.
+     1/1: $1\n56_o[7:0]
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:106$148'.
+Creating decoders for process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147'.
+
+10.8. Executing PROC_DLATCH pass (convert process syncs to latches).
+No latch inferred for signal `\alu_7_segment.\n149_o' from process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:255$192'.
+No latch inferred for signal `\alu_7_segment.\n96_o' from process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:213$175'.
+No latch inferred for signal `\alu_7_segment.\n94_o' from process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:204$174'.
+No latch inferred for signal `\alu_7_segment.\n56_o' from process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:170$165'.
+No latch inferred for signal `\alu_7_segment.\digit_select' from process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:106$148'.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\digit_select [0]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:106$148`.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\digit_select [1]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:106$148`.
+No latch inferred for signal `\alu_7_segment.\refresh_counter' from process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147'.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\refresh_counter [0]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147`.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\refresh_counter [1]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147`.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\refresh_counter [2]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147`.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\refresh_counter [3]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147`.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\refresh_counter [4]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147`.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\refresh_counter [5]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147`.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\refresh_counter [6]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147`.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\refresh_counter [7]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147`.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\refresh_counter [8]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147`.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\refresh_counter [9]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147`.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\refresh_counter [10]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147`.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\refresh_counter [11]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147`.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\refresh_counter [12]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147`.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\refresh_counter [13]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147`.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\refresh_counter [14]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147`.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\refresh_counter [15]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147`.
+Removing init bit 1'0 for non-memory siginal `\alu_7_segment.\refresh_counter [16]` in process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147`.
+
+10.9. Executing PROC_DFF pass (convert process syncs to FFs).
+Creating register for signal `\alu_7_segment.\n153_q' using process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:283$195'.
+  created $dff cell `$procdff$238' with positive edge clock.
+Creating register for signal `\alu_7_segment.\n151_q' using process `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:276$193'.
+  created $dff cell `$procdff$239' with positive edge clock.
+
+10.10. Executing PROC_MEMWR pass (convert process memory writes to cells).
+
+10.11. Executing PROC_CLEAN pass (remove empty switches from decision trees).
+Removing empty process `alu_7_segment.$proc$alu_7_segment_from_vhdl.v:0$199'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment_from_vhdl.v:0$198'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment_from_vhdl.v:0$197'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment_from_vhdl.v:0$196'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment_from_vhdl.v:283$195'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment_from_vhdl.v:276$193'.
+Found and cleaned up 1 empty switch in `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:255$192'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment_from_vhdl.v:255$192'.
+Found and cleaned up 1 empty switch in `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:213$175'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment_from_vhdl.v:213$175'.
+Found and cleaned up 1 empty switch in `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:204$174'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment_from_vhdl.v:204$174'.
+Found and cleaned up 1 empty switch in `\alu_7_segment.$proc$alu_7_segment_from_vhdl.v:170$165'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment_from_vhdl.v:170$165'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment_from_vhdl.v:106$148'.
+Removing empty process `alu_7_segment.$proc$alu_7_segment_from_vhdl.v:101$147'.
+Cleaned up 4 empty switches.
+
+10.12. Executing OPT_EXPR pass (perform const folding).
+Optimizing module alu_7_segment.
+<suppressed ~4 debug messages>
+
+11. Executing OPT pass (performing simple optimizations).
+
+11.1. Executing OPT_EXPR pass (perform const folding).
+Optimizing module alu_7_segment.
+
+11.2. Executing OPT_MERGE pass (detect identical cells).
+Finding identical cells in module `\alu_7_segment'.
+<suppressed ~12 debug messages>
+Removed a total of 4 cells.
+
+11.3. Executing OPT_MUXTREE pass (detect dead branches in mux trees).
+Running muxtree optimizer on module \alu_7_segment..
+  Creating internal representation of mux trees.
+  Evaluating internal representation of mux trees.
+  Analyzing evaluation results.
+Removed 0 multiplexer ports.
+<suppressed ~5 debug messages>
+
+11.4. Executing OPT_REDUCE pass (consolidate $*mux and $reduce_* inputs).
+  Optimizing cells in module \alu_7_segment.
+Performed a total of 0 changes.
+
+11.5. Executing OPT_MERGE pass (detect identical cells).
+Finding identical cells in module `\alu_7_segment'.
+Removed a total of 0 cells.
+
+11.6. Executing OPT_DFF pass (perform DFF optimizations).
+Adding EN signal on $procdff$238 ($dff) from module alu_7_segment (D = $ternary$alu_7_segment_from_vhdl.v:281$194_Y, Q = \n153_q).
+Adding SRST signal on $procdff$239 ($dff) from module alu_7_segment (D = \n72_o, Q = \n151_q, rval = 17'00000000000000000).
+
+11.7. Executing OPT_CLEAN pass (remove unused cells and wires).
+Finding unused cells or wires in module \alu_7_segment..
+Removed 1 unused cells and 66 unused wires.
+<suppressed ~3 debug messages>
+
+11.8. Executing OPT_EXPR pass (perform const folding).
+Optimizing module alu_7_segment.
+<suppressed ~1 debug messages>
+
+11.9. Rerunning OPT passes. (Maybe there is more to do..)
+
+11.10. Executing OPT_MUXTREE pass (detect dead branches in mux trees).
+Running muxtree optimizer on module \alu_7_segment..
+  Creating internal representation of mux trees.
+  Evaluating internal representation of mux trees.
+  Analyzing evaluation results.
+Removed 0 multiplexer ports.
+<suppressed ~4 debug messages>
+
+11.11. Executing OPT_REDUCE pass (consolidate $*mux and $reduce_* inputs).
+  Optimizing cells in module \alu_7_segment.
+Performed a total of 0 changes.
+
+11.12. Executing OPT_MERGE pass (detect identical cells).
+Finding identical cells in module `\alu_7_segment'.
+Removed a total of 0 cells.
+
+11.13. Executing OPT_DFF pass (perform DFF optimizations).
+
+11.14. Executing OPT_CLEAN pass (remove unused cells and wires).
+Finding unused cells or wires in module \alu_7_segment..
+Removed 0 unused cells and 1 unused wires.
+<suppressed ~1 debug messages>
+
+11.15. Executing OPT_EXPR pass (perform const folding).
+Optimizing module alu_7_segment.
+
+11.16. Rerunning OPT passes. (Maybe there is more to do..)
+
+11.17. Executing OPT_MUXTREE pass (detect dead branches in mux trees).
+Running muxtree optimizer on module \alu_7_segment..
+  Creating internal representation of mux trees.
+  Evaluating internal representation of mux trees.
+  Analyzing evaluation results.
+Removed 0 multiplexer ports.
+<suppressed ~4 debug messages>
+
+11.18. Executing OPT_REDUCE pass (consolidate $*mux and $reduce_* inputs).
+  Optimizing cells in module \alu_7_segment.
+Performed a total of 0 changes.
+
+11.19. Executing OPT_MERGE pass (detect identical cells).
+Finding identical cells in module `\alu_7_segment'.
+Removed a total of 0 cells.
+
+11.20. Executing OPT_DFF pass (perform DFF optimizations).
+
+11.21. Executing OPT_CLEAN pass (remove unused cells and wires).
+Finding unused cells or wires in module \alu_7_segment..
+
+11.22. Executing OPT_EXPR pass (perform const folding).
+Optimizing module alu_7_segment.
+
+11.23. Finished OPT passes. (There is nothing left to do.)
+
+12. Executing MEMORY pass.
+
+12.1. Executing OPT_MEM pass (optimize memories).
+Performed a total of 0 transformations.
+
+12.2. Executing OPT_MEM_PRIORITY pass (removing unnecessary memory write priority relations).
+Performed a total of 0 transformations.
+
+12.3. Executing OPT_MEM_FEEDBACK pass (finding memory read-to-write feedback paths).
+
+12.4. Executing MEMORY_BMUX2ROM pass (converting muxes to ROMs).
+
+12.5. Executing MEMORY_DFF pass (merging $dff cells to $memrd).
+
+12.6. Executing OPT_CLEAN pass (remove unused cells and wires).
+Finding unused cells or wires in module \alu_7_segment..
+
+12.7. Executing MEMORY_SHARE pass (consolidating $memrd/$memwr cells).
+
+12.8. Executing OPT_MEM_WIDEN pass (optimize memories where all ports are wide).
+Performed a total of 0 transformations.
+
+12.9. Executing OPT_CLEAN pass (remove unused cells and wires).
+Finding unused cells or wires in module \alu_7_segment..
+
+12.10. Executing MEMORY_COLLECT pass (generating $mem cells).
+
+12.11. Executing MEMORY_MAP pass (converting memories to logic and flip-flops).
+
+13. Executing OPT pass (performing simple optimizations).
+
+13.1. Executing OPT_EXPR pass (perform const folding).
+Optimizing module alu_7_segment.
+
+13.2. Executing OPT_MERGE pass (detect identical cells).
+Finding identical cells in module `\alu_7_segment'.
+Removed a total of 0 cells.
+
+13.3. Executing OPT_MUXTREE pass (detect dead branches in mux trees).
+Running muxtree optimizer on module \alu_7_segment..
+  Creating internal representation of mux trees.
+  Evaluating internal representation of mux trees.
+  Analyzing evaluation results.
+Removed 0 multiplexer ports.
+<suppressed ~4 debug messages>
+
+13.4. Executing OPT_REDUCE pass (consolidate $*mux and $reduce_* inputs).
+  Optimizing cells in module \alu_7_segment.
+Performed a total of 0 changes.
+
+13.5. Executing OPT_MERGE pass (detect identical cells).
+Finding identical cells in module `\alu_7_segment'.
+Removed a total of 0 cells.
+
+13.6. Executing OPT_DFF pass (perform DFF optimizations).
+
+13.7. Executing OPT_CLEAN pass (remove unused cells and wires).
+Finding unused cells or wires in module \alu_7_segment..
+
+13.8. Executing OPT_EXPR pass (perform const folding).
+Optimizing module alu_7_segment.
+
+13.9. Finished OPT passes. (There is nothing left to do.)
+Renaming module \alu_7_segment to \alu_vhdl_temp.
+
+14. Executing FLATTEN pass (flatten design).
+ERROR: Invalid number of arguments.

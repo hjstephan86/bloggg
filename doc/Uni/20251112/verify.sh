@@ -14,7 +14,7 @@ echo ""
 # Step 1: Generate Verilog from Amaranth (Python)
 # ==============================================================================
 echo ">>> Step 1: Generate Verilog from Amaranth..."
-python3 alu_7_segment.py
+# python3 alu_7_segment.py
 
 if [ $? -ne 0 ]; then
     echo "ERROR: Amaranth code generation failed!"
