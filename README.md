@@ -321,6 +321,7 @@ Verilog distinguishes between sequential and combinational behavior description.
 
 It is not always clear whether a Verilog behavior is a sequential or combinational behavior, if you think of a combinational network with different layers where each layer consists of logical primitives with in- and outputs computed in parallel. In each layer the network requires the output of the previous layer as input for the current layer. Hence, it is up to the hardware designer to specify parts of the behavior either as combinational or as sequential behavior.  
 
+To describe a sequence of statements in Verilog do not use "always @(posedge CLK) begin", since it does not necessarily require all following statements to be executed in a sequence. To describe a sequence of statements use the keyword "seq". If the keyword "seq" is not used, the following statements are executed in parallel.  
 
 ## Notizen aus Vorlesungen
 
