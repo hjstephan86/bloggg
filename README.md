@@ -325,6 +325,8 @@ To describe a sequence of statements in Verilog do not use "always @(posedge CLK
 
 FPGA constraints files have to have a standardardized format for all FPGA vendors like Xilinx, Intel, Lattice.
 
+The Universal Verification Methodology (UVM) is a RTL verification network in the IC industry. It allows engineers to reuse testbench components across testbenches and provides a standardized testbench structure. IEEE defined the UVM in the IEEE Standard for Universal Verification Methodology Language Reference Manual. The official GitHub repository is here: https://github.com/pyuvm/pyuvm.  
+
 ## Notizen aus Vorlesungen
 
 ### Di, 12.11., 09:15 Uhr –  Entwurf mikroelektronischer Systeme, Ü
