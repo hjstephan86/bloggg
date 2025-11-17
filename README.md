@@ -323,6 +323,8 @@ It is not always clear whether a Verilog behavior is a sequential or combination
 
 To describe a sequence of statements in Verilog do not use "always @(posedge CLK) begin", since it does not necessarily require all following statements to be executed in a sequence. To describe a sequence of statements use the keyword "seq". If the keyword "seq" is not used, the following statements are executed in parallel.  
 
+FPGA constraints files have to have a standardardized format for all FPGA vendors like Xilinx, Intel, Lattice.
+
 ## Notizen aus Vorlesungen
 
 ### Di, 12.11., 09:15 Uhr –  Entwurf mikroelektronischer Systeme, Ü
