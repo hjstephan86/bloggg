@@ -1,0 +1,7 @@
+# Simulate
+make sim
+
+# Coverage report generation
+python3 generate_coverage_report.py results.xml
+
+

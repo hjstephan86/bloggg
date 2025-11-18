@@ -1,0 +1,9 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1763426107" />
+    <testcase name="AoiTest" classname="testbench" file="/home/stephan/Git/pyuvm/venv/lib/python3.12/site-packages/pyuvm/extension_classes.py" lineno="238" time="0.007630586624145508" sim_time_ns="72.0" ratio_time="9435.709670364005" />
+    <testcase name="AoiExhaustiveTest" classname="testbench" file="/home/stephan/Git/pyuvm/venv/lib/python3.12/site-packages/pyuvm/extension_classes.py" lineno="254" time="0.004444122314453125" sim_time_ns="32.0" ratio_time="7200.521888412017" />
+    <testcase name="AoiCornerTest" classname="testbench" file="/home/stephan/Git/pyuvm/venv/lib/python3.12/site-packages/pyuvm/extension_classes.py" lineno="269" time="0.003121614456176758" sim_time_ns="16.0" ratio_time="5125.55289085771" />
+    <testcase name="AoiTestErrors" classname="testbench" file="/home/stephan/Git/pyuvm/venv/lib/python3.12/site-packages/pyuvm/extension_classes.py" lineno="285" time="0.007959127426147461" sim_time_ns="71.99999999999999" ratio_time="9046.217775514482" />
+  </testsuite>
+</testsuites>
