@@ -327,7 +327,7 @@ FPGA constraints files have to have a standardardized format for all FPGA vendor
 
 The Universal Verification Methodology (UVM) is a RTL verification network in the IC industry. It allows engineers to reuse testbench components across testbenches and provides a standardized testbench structure. IEEE defined the UVM in the IEEE Standard for Universal Verification Methodology Language Reference Manual. The official GitHub repository is here: https://github.com/pyuvm/pyuvm.
 
-Die Verilog-Komponente aoi_2_2.v wurde mit dem PyUVM-Framework simuliert und gestet. Die PyUVM-Framework Testbench für aoi_2_2.v befindet sich mit den Testergebnissen unter doc/Uni/20251117/aoi_2_2/.  
+Die Verilog-Komponente aoi_2_2.v und die VHDL-Komponente aoi_2_2.vhd wurden mit dem PyUVM-Framework simuliert und getestet. Die PyUVM-Framework Testbench für beide Implementierungen befindet sich mit den Testergebnissen und detaillierten Code Coverage Reports unter doc/Uni/20251117/aoi_2_2/.
 
 ## Notizen aus Vorlesungen
 
