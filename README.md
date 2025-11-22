@@ -335,6 +335,13 @@ Die Verilog-Komponente aoi_2_2.v und die VHDL-Komponente aoi_2_2.vhd wurden mit 
 
 ## Notizen aus Vorlesungen
 
+### Sa, 22.11., 14:15 Uhr –  Entwurf mikroelektronischer Systeme, Ü
+- Nutze LiteX für die Erstellung von virtuellen SoCs für FPGAs anstelle von Verilog oder VHDL
+- Das LiteX-Framework bietet eine Infrastruktur zur Erstellung von FPGA-Kernen/SoCs: https://github.com/enjoy-digital/litex
+- Nach dem Erstellen der .bit-Datei und dem Download kann `minicom` für die Verbindung genutz werden
+
+---
+
 ### Di, 12.11., 09:15 Uhr –  Entwurf mikroelektronischer Systeme, Ü
 - Hardware Design einer 7-Segment ALU mit Vivado Design Suite
 - Unterstützt werden die Operationen: Add, Sub, Mult, Div, And, Or
