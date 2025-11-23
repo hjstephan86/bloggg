@@ -339,6 +339,8 @@ Die Verilog-Komponente aoi_2_2.v und die VHDL-Komponente aoi_2_2.vhd wurden mit 
 - Nutze LiteX für die Erstellung von virtuellen SoCs für FPGAs anstelle von Verilog oder VHDL
 - Das LiteX-Framework bietet eine Infrastruktur zur Erstellung von FPGA-Kernen/SoCs: https://github.com/enjoy-digital/litex
 - Nach dem Erstellen der .bit-Datei und dem Download kann `minicom` für die Verbindung genutz werden
+- Nutze MicroPython als Laufzeitumgebung für Python auf Mikrocontrollern
+- MicroPython implementiert die ganze Python 3.4 Syntax: https://github.com/micropython/micropython
 
 ---
 
