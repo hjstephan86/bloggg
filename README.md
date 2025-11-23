@@ -335,6 +335,14 @@ Die Verilog-Komponente aoi_2_2.v und die VHDL-Komponente aoi_2_2.vhd wurden mit 
 
 ## Notizen aus Vorlesungen
 
+### So, 23.11., 14:15 Uhr –  Entwurf mikroelektronischer Systeme, Ü
+- Vivado Design Suite generiert für zwei funktional identische Entwürfe in VHDL und Verilog die gleiche *.bit-Datei
+- Für die funktionale Verifikation eines Entwurfs für dieselbe FPGA Architektur kann die generierte *.bit-Datei genutzt werden
+- Als Beispiel dazu befindet sich das Hardware Design der 7-Segment ALU in VHDL und in Verilog unter doc/Uni/20251123
+- Der anschauliche Vergleich der beiden *.bit-Dateien befindet sich als Bildschirmfoto unter doc/Uni/20251123
+
+---
+
 ### Sa, 22.11., 14:15 Uhr –  Entwurf mikroelektronischer Systeme, Ü
 - Nutze LiteX für die Erstellung von virtuellen SoCs für FPGAs anstelle von Verilog oder VHDL
 - Das LiteX-Framework bietet eine Infrastruktur zur Erstellung von FPGA-Kernen/SoCs: https://github.com/enjoy-digital/litex
