@@ -504,3 +504,102 @@ Am 19.11.2025 befanden sich Fabian Heinrich, Florian Schröder und Amelie Robrec
 Am 24.11.2025 um ca. 05:20 Uhr bis 06:00 Uhr ereignete sich im CITEC der Universität Bielefeld, 1. Etage, folgendes Geschehen: Gegen etwa 05:20 Uhr suchte ich die Duschgelegenheit in der 1. Etage des CITEC auf, da die Heizung und das Wasser in der Dusche meiner Unterkunft (Otto-Brenner-Straße 77) kalt waren. Während des Duschvorgangs stellte ich fest, dass das Wasser im Duschraum der 1. Etage nicht ordnungsgemäß in den Abfluss ablief. Das Wasser staute sich und verteilte sich anschließend über die Fliesen bis unter die Tür auf den Teppichboden des Flurs. Aufgrund der massiven Wasseransammlung auf dem Badezimmerboden war es mir unmöglich, mich im Duschraum anzuziehen. Ich musste den Duschraum Uhr verlassen, um mich auf einem trockenen Bereich (vor einem Sofa im Flurbereich) abzutrocknen und anzukleiden. Zur Dokumentation habe ich Fotos des nassen Teppichs und des Duschbodens um 09:29 Uhr als Beweis aufgenommen. Der Zustand des Abflusses deutet auf einen Mangel bei der Einrichtung der Bäder hin. Gegen etwa 06:00 Uhr wurde ich von einem Mitarbeiter des Sicherheitsdienstes (SD-MA) im CITEC angesprochen. Der SD-MA erklärte, es hätte jemand den Sicherheitsdienst angerufen. Der SD-MA fragte mich wörtlich, ob ich es sei, der sich "nackig" im CITEC aufgehalten hätte. Der SD-MA sagte, dass sich in diesem Gebäude auch Frauen aufhalten und dass mein Verhalten deshalb nicht akzeptabel sei. Ich wies den SD-MA darauf hin, dass ich, als ich die Dusche verlassen hatte und mich zügig umzog, keine Frauen gesehen hatte, die mich im entkleideten Zustand sehen hätten können. Auf Aufforderung habe ich dem SD-MA meinen Personalausweis und den elektronische Zutrittsschlüssel (ausgestellt von Herrn Jens Hagemeyer für den Besuch des CITEC am Wochenende) vorgezeigt. Zusätzlich weise ich auf einen bestehenden Mangel in der der Dusche gegenüberliegenden Herrentoilette hin: Diese Toilette ist seit mindestens vier bis fünf Wochen gesperrt. Ein Pissoir in dieser Toilette ist defekt und schon nicht mehr nutzbar. Beweisfotos dieser gesperrten Herrentoilette liegen ebenfalls vor unter doc/CIA/Bielefeld/CITEC/.  
 
 Am 25.11.2025 um ca. 08:00 Uhr suchte ich die Duschgelegenheit in der 2. Etage des CITEC der Universität Bielefeld auf, da die Heizung und das Wasser in der Dusche meiner Unterkunft (Otto-Brenner-Straße 77) immer noch kalt waren. Während des Duschvorgangs stellte ich fest, dass auch das Wasser im Duschraum der 2. Etage nicht ordnungsgemäß in den Abfluss ablief. Ich musste das Duschen deswegen beenden und den Duschraum verlassen, um mich auf einem trockenen Bereich im Duscharaum abzutrocknen und anzukleiden. Zur Dokumentation habe ich Fotos des nassen Duschbodens als Beweis aufgenommen. Der Zustand des Abflusses deutet stark auf einen Mangel bei der Einrichtung der Bäder im CITEC hin. Die Fotos dazu befinden sich unter doc/CIA/Bielefeld/CITEC/. 
+
+Mit dem von Gemini generierten Python Script unter src/print_HTML.py habe ich die rechtlichen Verfahren im HTML Format ausgeben lassen, die ich in den letzten Monaten seit August 2025 eingeleitet habe. Es wurden 92 Verfahren im HTML Format gefunden. Die Nachweise zu den eingeleiteten rechtlichen Verfahren befinden sich hier: https://drive.google.com/drive/folders/1E9DOPrkGy7BRELKztcxhp547nz9RMaXj?usp=drive_link.
+<pre>
+--- Starting recursive search in: /home/stephan/GoogleDrive/Geld/Verfolgung/ ---
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Consorsbank/Beschwerde/16.08.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Consorsbank/Beschwerde/05.11.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Consorsbank/Beschwerde/28.08.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Consorsbank/Beschwerde/09.09.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Consorsbank/Beschwerde/16.09.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Consorsbank/Beschwerde/23.08.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/DFB/09.11.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/DFB/08.09.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/DFB/23.08.2025/Strafanzeige.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/BMF/Beschwerde/11.10.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/BMF/Beschwerde/25.09.2025/Aufsichtsbeschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/BMF/Beschwerde/16.09.2025/Aufsichtsbeschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/BMF/Untätigkeitsklage/Untaetigkeitsklage.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/BMF/Untätigkeitsklage/Erwiderung/Erwiderung.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/BMF/Verpflichtungsklage/Verpflichtungsklage.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/DHL/04.09.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/DHL/17.09.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/1&1/Beschwerde/Gespraechsprotokoll.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/1&1/Beschwerde/Dienstaufsichtsbeschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/1&1/Klage/15.08.2025/Anschreiben-Klage.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/1&1/Klage/15.08.2025/Klage.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/1&1/Klage/15.08.2025/Beschwerde/25.11.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/1&1/Klage/15.08.2025/Beschwerde/13.10.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/1&1/Klage/15.08.2025/PKH/Verfahrenkostenhilfe.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/1&1/Klage/22.08.2025/Klage.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/1&1/Klage/22.08.2025/Beschwerde/Stellungnahme.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/1&1/Klage/22.08.2025/Beschwerde/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/1&1/Kündigung/Kündigung.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/1&1/Kündigung/Widerspruch.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/1&1/Strafanzeige/15.08.2025/Anschreiben-Strafanzeige.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/1&1/Strafanzeige/15.08.2025/Strafanzeige.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/1&1/Strafanzeige/02.10.2025/Strafanzeige.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/1&1/Strafanzeige/28.08.2025/Strafanzeige.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/Telekom/Beschwerde/02.09.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/Telekom/Beschwerde/30.09.2025/Antwort.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/Telekom/Beschwerde/24.09.2025/Antwort.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/Telekom/Strafanzeige/Strafanzeige.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/RZF/Akteneinsicht-Antwort.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/RZF/Akteneinsicht.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Ordnungsamt/Bußgeld-Antrag.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Ordnungsamt/Beschwerde/Aufsichtsbeschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Ordnungsamt/Mahnung/Einspruch.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Ordnungsamt/Mahnung/Nachforderung.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Ordnungsamt/Ratenzahlung/Widerspruch.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jugendamt/16.08.2025/Beschwerde/Widerspruch.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jugendamt/16.08.2025/Beschwerde/Aufsichtsbeschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jugendamt/16.08.2025/Klage/Klage.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jugendamt/10.09.2025/Dienstaufsichtsbeschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jugendamt/10.09.2025/07.09.2025/Dienstaufsichtsbeschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Christin/Gespraechsprotokoll.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Christin/Zivilklagen/Zivilklage-Besitzherausgabe.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Christin/Zivilklagen/Zivilklage-Schadensersatz.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/moBiel/Klage.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/moBiel/Beschwerde/06.11.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/moBiel/Beschwerde/25.11.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/moBiel/Stellungnahme/Stellungnahme.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jobcenter/06.11.2025/Anfechtungsklage.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jobcenter/15.08.2025/Anschreiben-Klage.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jobcenter/15.08.2025/Klage.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jobcenter/27.09.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jobcenter/26.08.2025/Hausverbot.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jobcenter/26.08.2025/Widerspruch/Widerspruch.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jobcenter/Gutachten/Widerspruch.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jobcenter/26.09.2025/Stellungnahme.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jobcenter/26.09.2025/Untaetigkeitsklage.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jobcenter/23.08.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Sozialamt/Ergänzung/Ergaenzung.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Sozialamt/Antrag/Anordnung.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Sozialamt/Antrag/Stellungnahme/Stellungnahme.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Einzelhandel/Netto/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Einzelhandel/Lidl/Widerspruch-Hausverbot.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Einzelhandel/Lidl/Klage/Unterlassungsklage.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Einzelhandel/Lidl/Strafanzeige/Vorfallsbericht.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Einzelhandel/Lidl/Strafanzeige/Strafanzeige.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Einzelhandel/Lidl/Strafanzeige/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Johanniter/Beschwerde/Aufsichtsbeschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Johanniter/Strafanzeige/24.08.2025/Strafanzeige.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Johanniter/Strafanzeige/19.09.2025/Strafanzeige.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/BGW/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Polizei/22.08.2025/Strafanzeige-Polizei.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Polizei/22.08.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Polizei/21.09.2025/Strafanzeige.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Polizei/25.09.2025/Strafanzeige.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Stadtbibliothek/Ablehnung/Klage.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Stadtbibliothek/Ablehnung/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Stadtbibliothek/Kommunalaufsicht/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Creditreform/Strafanzeige.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Creditreform/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/US/CIA/Strafanzeige.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/TK/Beschwerde/27.09.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/TK/Beschwerde/30.08.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/TK/Widerspruch/Widerspruch.html
+
+--- Search and printing complete. ---
+</pre>
