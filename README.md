@@ -317,6 +317,8 @@ Vorgehensweise beim Entwickeln von Integrationstests: Teste zuerst Methoden oder
 1. mit höchster zyklomatischer Komplexität
 2. mit höchster Überdeckung nach Anzahl der Code-Zeilen und nach der Länge der Pfade durch den Code (gegeben durch die Callstacks)
 
+Auf https://github.com/hjstephan86/order-system habe ich ein System für das Verwalten von Bestellungen veröffentlicht. Wichtig für die Entwicklung von Unit Tests und Integrationstest ist, dass zwischen Unit Tests und Integrationstests klar unterschieden wird und diese Unterscheidung bei der Entwicklung der Tests auch klar eingehalten wird. Für Unit Tests habe ich bewusst keine Stubs implementiert, sondern nur das Mock-Prinzip verwendet. Das hat zur Folge, dass bei einer Schichten Architektur Unit Tests mit der Überdeckung des Codes in den Schichten von unten nach oben abnehmen müssen. Um der Überdeckung willen dürfen Unit Tests nicht so weit entwickelt werden, dass sie Integrationstests prinzipiell näher kommen und die Unterscheidung bzw. der Übergang zwischen Unit Test und Integrationstest fließend ist. Software muss empfindlich und diszipliniert entwickelt werden, auch wenn die Überdeckung des Codes wichtig ist.  
+
 In der Bibliothek der Universität Paderborn habe ich am 15.11.2025 mit dem Scanner Abzüge vom Buch **Advanced Digital Design with the Verilog HDL (Michael D. Ciletti)** gemacht. Leider hat der Scanner in der Bibliothek übertrieben schlechte Abzüge gemacht. Einige Seiten kann ich so leider nicht lesen. Die Abzüge befinden sich unter doc/Uni/20251115/Verilog-HDL/.  
 
 Verilog is the language for logical behavior verification of Hardware Design.  
