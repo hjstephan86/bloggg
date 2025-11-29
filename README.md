@@ -514,7 +514,7 @@ Zwei Mitarbeiter der Universität Bielefeld im CITEC nahmen in der offenen Küch
 TH fragte mich daraufhin, ob ich nicht meine Noise-Cancelling-Kopfhörer verwenden könnte. Ich erwiderte, dass ich diese bereits nutze. TH lehnte meine Bitte jedoch ab und verwies darauf, dass er und sein MA sich in einem offenen sozialen Bereich aufhielten. Ich hinterfragte diese Haltung, woraufhin sich leider ein kurzes Streitgespräch entwickelte. Auf meine Frage, wer er, TH, sei und in welchem Fachgebiet er an der Universität Bielefeld arbeite, antwortete TH, er sei der Leiter dieser Fachgruppe. Der MA, der eine auffällig tiefe Stimme hat, bemerkte schließlich, dass das Gespräch zu diesem Zeitpunkt zu nichts mehr führen würde. Dem stimmte ich zu und verließ den Bereich der offenen Küche.
 
 26.11.2025, 14:50 Uhr, Frau Heidbrede aus dem Sekretariat der Fachgruppe Kognitronik suchte das Gespräch mit mir und fragte, wie es denn sein könne, dass ich hier im CITEC dreimal geduscht habe und nackig herumgelaufen bin.  
-Ich machte Frau Heidbrede darauf aufmerksam, dass die Formulierung, ich sei nackig herumgelaufen, herabwürdigend ist, weil ich mich schäme, wenn ich nackt bin. Frau Heidbrede sagte, dass das kein Unterschied sei, ob "nackig" oder "entkleidet" gesagt wird. Ich sagte, dass das doch ein Unterschied sei und dass Worte immer auch eine Wirkung haben.
+Ich machte Frau Heidbrede darauf aufmerksam, dass die Formulierung, ich sei nackig herumgelaufen, herabwürdigend ist, weil ich mich schäme, wenn ich nackt bin. Frau Heidbrede sagte, dass das kein Unterschied sei, ob "nackig" oder "entkleidet" gesagt wird. Ich sagte, dass das doch ein Unterschied sei und dass Worte immer auch eine Wirkung haben. 
 Wesentliche Inhalte des Gesprächs:
 1. Frau Heidbrede sagte mir, (a) ich gehöre nicht zum CITEC und (b) ich bin kein Student und (c) die Dusche ist nicht für regelmäßiges Duschen vorgesehen.
 2. Frau Heidbrede zeigte Verständnis für meine Situation, dass ich die Dusche nur deshalb aufgesucht habe, nicht um hier freiwillig zu duschen, sondern weil in der Unterkunft (Otto-Brenner-Straße 77) die Heizung ausgefallen ist und das Wasser kalt ist.
@@ -525,7 +525,7 @@ Wesentliche Inhalte des Gesprächs:
 Am 28.11.2025 um 14:50 Uhr suchte ich erneut das Büro von Frau Adamczyk im CITEC auf. Bereits um ca. 13:00 Uhr hatte ich versucht, mit Frau Adamczyk zu sprechen, um Unklarheiten und Missverständnisse im Zusammenhang mit der angekündigten Löschung meines Zugangs zur Technischen Fakultät zu klären. Der Hintergrund war die E-Mail von Frau Adamczyk vom 28.11.2025 um 09:45 Uhr, in der sie mitteilte, dass mein Zugang und meine E-Mail-Adresse der Technischen Fakultät bis zum 1.12.2025, 08:00 Uhr, zurückgezogen werden sollen.  
 Im Büro von Frau Adamczyk waren bei diesem Gespräch zwei Personen anwesend:
 - Frau Anita Adamczyk (Geschäftsführerin der Technischen Fakultät)
-- Herr Prof. Dr.-Ing. Stefan Kopp (Dekan der Technischen Fakultät)
+- Herr Prof. Dr.-Ing. Stefan Kopp (Dekan der Technischen Fakultät)  
 Inhalt des Gesprächs:
 Frau Adamczyk und Herr Prof. Dr.-Ing. Kopp machten mir unmissverständlich klar, dass ich den Zugang zur Technischen Fakultät nicht mehr behalten könne und dieser wie angekündigt am 1.12.2025 gelöscht werde.
 Ich erläuterte beiden ausführlich meine persönliche und finanzielle Situation:
