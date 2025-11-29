@@ -509,7 +509,7 @@ Am 25.11.2025 um ca. 08:00 Uhr suchte ich die Duschgelegenheit in der 2. Etage d
 
 Am 26.11.2025 um ca. 07:00 Uhr suchte ich die Duschgelegenheit in der 3. Etage des CITEC der Universität Bielefeld auf, da die Heizung und das Wasser in der Dusche meiner Unterkunft (Otto-Brenner-Straße 77) immer noch kalt waren. Während des Duschvorgangs stellte ich fest, dass das Wasser im Duschraum der 3. Etage **ordnungsgemäß** in den Abfluss ablief. Ich habe etwa 21 Minuten durchgehend geduscht, wobei das Wasser die ganze Zeit lief. Ich musste das Duschen deswegen nicht vorzeitig beenden und konnte mich nach dem Duschen auf einem trockenen Bereich im Duscharaum abtrocknen und ankleiden. Zur Dokumentation habe ich Fotos des Duschbodens als Beweis aufgenommen. Die Fotos dazu befinden sich unter doc/CIA/Bielefeld/CITEC/.  
 
-Mit dem von Gemini generierten Python Script unter src/print_HTML.py habe ich die rechtlichen Verfahren im HTML Format ausgeben lassen, die ich in den letzten Monaten seit August 2025 eingeleitet habe. Es wurden 92 Verfahren im HTML Format gefunden. Die Nachweise zu den eingeleiteten rechtlichen Verfahren befinden sich hier: https://drive.google.com/drive/folders/1E9DOPrkGy7BRELKztcxhp547nz9RMaXj?usp=drive_link.
+Mit dem von Gemini generierten Python Script unter src/print_HTML.py habe ich die rechtlichen Verfahren im HTML Format ausgeben lassen, die ich in den letzten Monaten seit August 2025 eingeleitet habe. Es wurden 94 von mir verfasste Dokumente im HTML Format für alle rechtlichen Verfahren gefunden. Die Nachweise zu den eingeleiteten rechtlichen Verfahren befinden sich hier: https://drive.google.com/drive/folders/1E9DOPrkGy7BRELKztcxhp547nz9RMaXj?usp=drive_link.
 <pre>
 --- Starting recursive search in: /home/stephan/GoogleDrive/Geld/Verfolgung/ ---
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Consorsbank/Beschwerde/16.08.2025/Beschwerde.html
@@ -526,6 +526,7 @@ File: /home/stephan/GoogleDrive/Geld/Verfolgung/BMF/Beschwerde/25.09.2025/Aufsic
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/BMF/Beschwerde/16.09.2025/Aufsichtsbeschwerde.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/BMF/Untätigkeitsklage/Untaetigkeitsklage.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/BMF/Untätigkeitsklage/Erwiderung/Erwiderung.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/BMF/Verpflichtungsklage/Hinweis.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/BMF/Verpflichtungsklage/Verpflichtungsklage.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/DHL/04.09.2025/Beschwerde.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/DHL/17.09.2025/Beschwerde.html
@@ -600,6 +601,7 @@ File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Stadtbibliothek/Ablehn
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Stadtbibliothek/Kommunalaufsicht/Beschwerde.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Creditreform/Strafanzeige.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Creditreform/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Stadt/Widerspruch.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/US/CIA/Strafanzeige.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/TK/Beschwerde/27.09.2025/Beschwerde.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/TK/Beschwerde/30.08.2025/Beschwerde.html
