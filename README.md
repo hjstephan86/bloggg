@@ -546,6 +546,8 @@ Ich stellte die Frage, weshalb mir nach den dokumentierten Vorfällen vom 19.11.
 Auf diese konkrete Frage ging Herr Prof. Dr.-Ing. Kopp nicht direkt ein und wich einer inhaltlichen Antwort aus. Es wurde mir keine nachvollziehbare Begründung gegeben, warum die bisherige Regelung nun nicht mehr Bestand haben könne.
 Das Gespräch endete ohne eine Lösung oder einen Kompromiss bezüglich der Fortsetzung meiner Teilnahme an den Übungen.  
 
+Die versendeten E-Mails befinden sich als Nachweise hier: https://drive.google.com/drive/folders/1jstAtFMXHkKveQAQjHYuzzDz69rGbnZT.
+
 Mit dem von Gemini generierten Python Script unter src/print_HTML.py habe ich die rechtlichen Verfahren im HTML Format ausgeben lassen, die ich in den letzten Monaten seit August 2025 eingeleitet habe. Es wurden 94 von mir verfasste Dokumente im HTML Format für alle rechtlichen Verfahren gefunden. Die Nachweise zu den eingeleiteten rechtlichen Verfahren befinden sich hier: https://drive.google.com/drive/folders/1E9DOPrkGy7BRELKztcxhp547nz9RMaXj?usp=drive_link.
 <pre>
 --- Starting recursive search in: /home/stephan/GoogleDrive/Geld/Verfolgung/ ---
