@@ -523,9 +523,11 @@ Wesentliche Inhalte des Gesprächs:
 5. Frau Heidbrede machte auf den Vorfall am 19.11.2025 mit Amelie Robrecht aufmerksam, da Amelie Robrecht sehr aufgebracht war. Daraufhin habe ich Frau Heidbrede die Situation erklärt und deutlich gemacht, dass ich keinen Krieg suche, sondern Frieden. Daraufhin bestätigte Frau Heidbrede, das ist ein gutes Abschlusswort.  
 
 Am 28.11.2025 um 14:50 Uhr suchte ich erneut das Büro von Frau Adamczyk im CITEC auf. Bereits um ca. 13:00 Uhr hatte ich versucht, mit Frau Adamczyk zu sprechen, um Unklarheiten und Missverständnisse im Zusammenhang mit der angekündigten Löschung meines Zugangs zur Technischen Fakultät zu klären. Der Hintergrund war die E-Mail von Frau Adamczyk vom 28.11.2025 um 09:45 Uhr, in der sie mitteilte, dass mein Zugang und meine E-Mail-Adresse der Technischen Fakultät bis zum 1.12.2025, 08:00 Uhr, zurückgezogen werden sollen.  
+
 Im Büro von Frau Adamczyk waren bei diesem Gespräch zwei Personen anwesend:
 - Frau Anita Adamczyk (Geschäftsführerin der Technischen Fakultät)
 - Herr Prof. Dr.-Ing. Stefan Kopp (Dekan der Technischen Fakultät)  
+
 Inhalt des Gesprächs:
 Frau Adamczyk und Herr Prof. Dr.-Ing. Kopp machten mir unmissverständlich klar, dass ich den Zugang zur Technischen Fakultät nicht mehr behalten könne und dieser wie angekündigt am 1.12.2025 gelöscht werde.
 Ich erläuterte beiden ausführlich meine persönliche und finanzielle Situation:
@@ -534,11 +536,13 @@ Ich erläuterte beiden ausführlich meine persönliche und finanzielle Situation
 3. Konsequenzen der Zugangslöschung: Durch die Löschung meines Zugangs zur Technischen Fakultät ist es mir nicht mehr möglich, an den Übungen der beiden Veranstaltungen teilzunehmen:
 - "Entwicklung mikroelektronischer Systeme"
 - "Rekonfigurierbare und parallele Rechnersysteme"  
+
 Herr Jens Hagemeyer hatte mir zuvor die Möglichkeit angeboten, diese Veranstaltungen als Gasthörer zu besuchen. Für die Teilnahme an den Übungen in den Poolräumen des CITEC ist der Zugang zur Domäne der Technischen Fakultät jedoch zwingend erforderlich.
 Ich stellte die Frage, weshalb mir nach den dokumentierten Vorfällen vom 19.11. bis 26.11.2025 nun plötzlich die weitere Teilnahme an den Veranstaltungen nicht mehr ermöglicht werde, obwohl:
 - die Situation vorher offensichtlich kein Problem dargestellt habe
 - mir der Zugang zunächst durch die IT-Abteilung der Technischen Fakultät eingerichtet worden sei
 - die genannten Veranstaltungen ohnehin nicht voll besucht seien und freie Kapazitäten vorhanden seien  
+
 Auf diese konkrete Frage ging Herr Prof. Dr.-Ing. Kopp nicht direkt ein und wich einer inhaltlichen Antwort aus. Es wurde mir keine nachvollziehbare Begründung gegeben, warum die bisherige Regelung nun nicht mehr Bestand haben könne.
 Das Gespräch endete ohne eine Lösung oder einen Kompromiss bezüglich der Fortsetzung meiner Teilnahme an den Übungen.  
 
