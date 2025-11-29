@@ -509,6 +509,39 @@ Am 25.11.2025 um ca. 08:00 Uhr suchte ich die Duschgelegenheit in der 2. Etage d
 
 Am 26.11.2025 um ca. 07:00 Uhr suchte ich die Duschgelegenheit in der 3. Etage des CITEC der Universität Bielefeld auf, da die Heizung und das Wasser in der Dusche meiner Unterkunft (Otto-Brenner-Straße 77) immer noch kalt waren. Während des Duschvorgangs stellte ich fest, dass das Wasser im Duschraum der 3. Etage **ordnungsgemäß** in den Abfluss ablief. Ich habe etwa 21 Minuten durchgehend geduscht, wobei das Wasser die ganze Zeit lief. Ich musste das Duschen deswegen nicht vorzeitig beenden und konnte mich nach dem Duschen auf einem trockenen Bereich im Duscharaum abtrocknen und ankleiden. Zur Dokumentation habe ich Fotos des Duschbodens als Beweis aufgenommen. Die Fotos dazu befinden sich unter doc/CIA/Bielefeld/CITEC/.  
 
+Am 25.11.2025 gegen 15:00 Uhr befand ich mich im CITEC der Universität Bielefeld in der 3. Etage, wo ich an meinem Laptop im offenen Arbeitsbereich arbeitete. Dieser Bereich ist direkt mit dem Bereich der offenen Küche verbunden, der mit gemütlichen Sitzgelegenheiten ausgestattet ist.  
+Zwei Mitarbeiter der Universität Bielefeld im CITEC nahmen in der offenen Küche Platz und führten ein Gespräch, Dr. rer. nat. Thomas Hermann (TH) und sein Mitarbeiter (MA). Im Laufe der Zeit empfand ich die Geräuschkulisse zunehmend als störend für meine Arbeit, weshalb ich begann, mit Kopfhörern Musik zu hören. Gegen 15:30 Uhr suchte ich die Toilette auf und wandte mich anschließend an die beiden Mitarbeiter, die ihr Gespräch in der offenen Küche fortsetzten. Ich bat sie höflich, sich eventuell etwas leiser zu verhalten.  
+TH fragte mich daraufhin, ob ich nicht meine Noise-Cancelling-Kopfhörer verwenden könnte. Ich erwiderte, dass ich diese bereits nutze. TH lehnte meine Bitte jedoch ab und verwies darauf, dass er und sein MA sich in einem offenen sozialen Bereich aufhielten. Ich hinterfragte diese Haltung, woraufhin sich leider ein kurzes Streitgespräch entwickelte. Auf meine Frage, wer er, TH, sei und in welchem Fachgebiet er an der Universität Bielefeld arbeite, antwortete TH, er sei der Leiter dieser Fachgruppe. Der MA, der eine auffällig tiefe Stimme hat, bemerkte schließlich, dass das Gespräch zu diesem Zeitpunkt zu nichts mehr führen würde. Dem stimmte ich zu und verließ den Bereich der offenen Küche.
+
+26.11.2025, 14:50 Uhr, Frau Heidbrede aus dem Sekretariat der Fachgruppe Kognitronik suchte das Gespräch mit mir und fragte, wie es denn sein könne, dass ich hier im CITEC dreimal geduscht habe und nackig herumgelaufen bin.  
+Ich machte Frau Heidbrede darauf aufmerksam, dass die Formulierung, ich sei nackig herumgelaufen, herabwürdigend ist, weil ich mich schäme, wenn ich nackt bin. Frau Heidbrede sagte, dass das kein Unterschied sei, ob "nackig" oder "entkleidet" gesagt wird. Ich sagte, dass das doch ein Unterschied sei und dass Worte immer auch eine Wirkung haben.
+Wesentliche Inhalte des Gesprächs:
+1. Frau Heidbrede sagte mir, (a) ich gehöre nicht zum CITEC und (b) ich bin kein Student und (c) die Dusche ist nicht für regelmäßiges Duschen vorgesehen.
+2. Frau Heidbrede zeigte Verständnis für meine Situation, dass ich die Dusche nur deshalb aufgesucht habe, nicht um hier freiwillig zu duschen, sondern weil in der Unterkunft (Otto-Brenner-Straße 77) die Heizung ausgefallen ist und das Wasser kalt ist.
+3. Frau Heidbrede stellte klar, in der Sporthalle oder Schwimmhalle der Universität kann man auch duschen.
+4. Frau Heidbrede machte darauf aufmerksam, dass über mich geredet wird und ein Hausverbot verhängt werden könnte.
+5. Frau Heidbrede machte auf den Vorfall am 19.11.2025 mit Amelie Robrecht aufmerksam, da Amelie Robrecht sehr aufgebracht war. Daraufhin habe ich Frau Heidbrede die Situation erklärt und deutlich gemacht, dass ich keinen Krieg suche, sondern Frieden. Daraufhin bestätigte Frau Heidbrede, das ist ein gutes Abschlusswort.  
+
+Am 28.11.2025 um 14:50 Uhr suchte ich erneut das Büro von Frau Adamczyk im CITEC auf. Bereits um ca. 13:00 Uhr hatte ich versucht, mit Frau Adamczyk zu sprechen, um Unklarheiten und Missverständnisse im Zusammenhang mit der angekündigten Löschung meines Zugangs zur Technischen Fakultät zu klären. Der Hintergrund war die E-Mail von Frau Adamczyk vom 28.11.2025 um 09:45 Uhr, in der sie mitteilte, dass mein Zugang und meine E-Mail-Adresse der Technischen Fakultät bis zum 1.12.2025, 08:00 Uhr, zurückgezogen werden sollen.  
+Im Büro von Frau Adamczyk waren bei diesem Gespräch zwei Personen anwesend:
+- Frau Anita Adamczyk (Geschäftsführerin der Technischen Fakultät)
+- Herr Prof. Dr.-Ing. Stefan Kopp (Dekan der Technischen Fakultät)
+Inhalt des Gesprächs:
+Frau Adamczyk und Herr Prof. Dr.-Ing. Kopp machten mir unmissverständlich klar, dass ich den Zugang zur Technischen Fakultät nicht mehr behalten könne und dieser wie angekündigt am 1.12.2025 gelöscht werde.
+Ich erläuterte beiden ausführlich meine persönliche und finanzielle Situation:
+1. Finanzielle Situation: Ich beziehe ausschließlich Bürgergeld und verfüge daher nicht über die finanziellen Mittel, um mich regulär als Student an der Universität Bielefeld einzuschreiben. Die Semesterbeiträge und damit verbundenen Kosten kann ich nicht aufbringen.
+2. Situation mit dem Jobcenter: Das Jobcenter genehmigt mir keine Weiterbildungsmaßnahmen. Eine offizielle Förderung oder Kostenübernahme für Bildungsmaßnahmen wurde mir nicht bewilligt.
+3. Konsequenzen der Zugangslöschung: Durch die Löschung meines Zugangs zur Technischen Fakultät ist es mir nicht mehr möglich, an den Übungen der beiden Veranstaltungen teilzunehmen:
+- "Entwicklung mikroelektronischer Systeme"
+- "Rekonfigurierbare und parallele Rechnersysteme"  
+Herr Jens Hagemeyer hatte mir zuvor die Möglichkeit angeboten, diese Veranstaltungen als Gasthörer zu besuchen. Für die Teilnahme an den Übungen in den Poolräumen des CITEC ist der Zugang zur Domäne der Technischen Fakultät jedoch zwingend erforderlich.
+Ich stellte die Frage, weshalb mir nach den dokumentierten Vorfällen vom 19.11. bis 26.11.2025 nun plötzlich die weitere Teilnahme an den Veranstaltungen nicht mehr ermöglicht werde, obwohl:
+- die Situation vorher offensichtlich kein Problem dargestellt habe
+- mir der Zugang zunächst durch die IT-Abteilung der Technischen Fakultät eingerichtet worden sei
+- die genannten Veranstaltungen ohnehin nicht voll besucht seien und freie Kapazitäten vorhanden seien  
+Auf diese konkrete Frage ging Herr Prof. Dr.-Ing. Kopp nicht direkt ein und wich einer inhaltlichen Antwort aus. Es wurde mir keine nachvollziehbare Begründung gegeben, warum die bisherige Regelung nun nicht mehr Bestand haben könne.
+Das Gespräch endete ohne eine Lösung oder einen Kompromiss bezüglich der Fortsetzung meiner Teilnahme an den Übungen.  
+
 Mit dem von Gemini generierten Python Script unter src/print_HTML.py habe ich die rechtlichen Verfahren im HTML Format ausgeben lassen, die ich in den letzten Monaten seit August 2025 eingeleitet habe. Es wurden 94 von mir verfasste Dokumente im HTML Format für alle rechtlichen Verfahren gefunden. Die Nachweise zu den eingeleiteten rechtlichen Verfahren befinden sich hier: https://drive.google.com/drive/folders/1E9DOPrkGy7BRELKztcxhp547nz9RMaXj?usp=drive_link.
 <pre>
 --- Starting recursive search in: /home/stephan/GoogleDrive/Geld/Verfolgung/ ---
