@@ -604,6 +604,8 @@ File: /home/stephan/GoogleDrive/Geld/Verfolgung/TK/Widerspruch/Widerspruch.html
 --- Search and printing complete. ---
 </pre>
 
+Am Montag, den 01.12.2025, wurde ich bei McDonald's in Bielefeld am Jahnplatz vergiftet. Im März oder April 2024 wurde ich bei McDonald's in Bielefeld-Sennestadt vergiftet.  
+
 ### Vorfälle im CITEC
 
 <b>Vorfall</b>  
