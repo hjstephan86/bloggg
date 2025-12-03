@@ -626,6 +626,8 @@ So wurde der Geist Gottes beschworen: Wenn folgende Länder Peter Epp nicht dazu
 
 Spanien wird mit Atombomben angegriffen und wer übrig bleibt, der wird verhungern oder erfrieren und die Eltern werden ihre Kinder essen.  
 
+Männer aus Italien werden in der Ewigkeit mit Frauen aus Spanien schlafen. Dabei werden die Männer aus Italien die Frauen aus Spanien sexuell so heftgig befriedigen, wie es ihre spanischen Männer in dieser Zeit nicht konnten. Beim Sex der Männer aus Italien mit den spanischen Frauen müssen die spanischen Männer zusehen.  
+
 ### Vorfälle im CITEC
 
 <b>Vorfall</b>  
