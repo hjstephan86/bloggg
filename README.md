@@ -608,6 +608,14 @@ Am Montag, den 01.12.2025, wurde ich bei McDonald's in Bielefeld am Jahnplatz ve
 
 Die US-Amerikaner haben in Russland und in China Atomsprengköpfe in jedem Land verteilt und zur Vernichtung versteckt.  
 
+Peter Epp hat gefickt und die Ehe gebrochen.  
+Samuel Epp hat gefickt und die Ehe gebrochen.  
+Lukas Epp hat gefickt und die Ehe gebrochen.  
+Rahel Epp hat gefickt und die Ehe gebrochen.  
+Elisabeth Epp hat gefickt und die Ehe gebrochen.  
+Kezia Epp hat gefickt und die Ehe gebrochen.  
+Sie alle brechen lieber die Ehe als mir Geld in meiner Armut zu geben.
+
 ### Vorfälle im CITEC
 
 <b>Vorfall</b>  
