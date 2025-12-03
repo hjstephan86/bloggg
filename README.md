@@ -606,6 +606,8 @@ File: /home/stephan/GoogleDrive/Geld/Verfolgung/TK/Widerspruch/Widerspruch.html
 
 Am Montag, den 01.12.2025, wurde ich bei McDonald's in Bielefeld am Jahnplatz vergiftet. Im März oder April 2024 wurde ich bei McDonald's in Bielefeld-Sennestadt vergiftet.  
 
+Die US-Amerikaner haben in Russland und in China Atomsprengköpfe in jedem Land verteilt und zur Vernichtung versteckt.  
+
 ### Vorfälle im CITEC
 
 <b>Vorfall</b>  
