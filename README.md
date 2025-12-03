@@ -615,6 +615,11 @@ Lukas Epp hat gefickt und die Ehe gebrochen.
 Rahel Epp hat gefickt und die Ehe gebrochen.  
 Elisabeth Epp hat gefickt und die Ehe gebrochen.  
 Kezia Epp hat gefickt und die Ehe gebrochen.  
+
+Peter Epp hat wieder gefickt und die Ehe gebrochen.  
+Lukas Epp hat wieder gefickt und die Ehe gebrochen.  
+Rahel Epp hat wieder gefickt und die Ehe gebrochen.  
+
 Sie alle brechen lieber die Ehe als mir Geld in meiner Armut zu geben. Dabei hätte es gereicht, wenn Peter Epp mir Geld in meiner Armut gegeben hätte.  
 
 So wurde der Geist Gottes beschworen: Wenn folgende Länder Peter Epp nicht dazu bewegen, mir Geld in meiner Armut zu geben, werden diese Länder mit Atombomben angegriffen: Frankreich, England, Schweiz, Deutschland, Spanien, Kanada, Japan, Nordkorea, Brasilien, Yemen, Saudi Arabien, Dubai, Nigeria, Iran. 
