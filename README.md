@@ -503,7 +503,7 @@ Es wurde heute, den 11.11.2025, etwa gegen 23:30 Uhr aus England eine Rakete ges
 
 Im Rahmen des betreuungsgerichtlichen Verfahrens 2 XVII 991/25 wurde ich von Herrn Köhler für das psychiatrische Fachgutachten am 20.10.2025 um 8 Uhr bei Herrn Köhler im Büro untersucht. Dazu habe ich ein Gesprächsprotokoll erstellt. Dieses Gesprächsprotokoll habe ich Herrn Köhler zusammen mit den Klagen zeitnah nach dem Gespräch am 20.10.2025 per E-Mail zukommen lassen. Herr Köhler hat sich im Gespräch für die Klagen interessiert und darum gebeten, dass ich Herrn Köhler diese Klagen zukommen lasse. Das Gesprächsprotokoll befindet sich unter doc/CIA/Bielefeld/Amtsgericht/.
 
-Mit dem von Gemini generierten Python Script unter src/print_HTML.py habe ich die rechtlichen Verfahren im HTML Format ausgeben lassen, die ich in den letzten Monaten seit August 2025 eingeleitet habe. Es wurden 94 von mir verfasste Dokumente im HTML Format für alle rechtlichen Verfahren gefunden. Die Nachweise zu den eingeleiteten rechtlichen Verfahren befinden sich hier: https://drive.google.com/drive/folders/1E9DOPrkGy7BRELKztcxhp547nz9RMaXj?usp=drive_link.
+Mit dem von Gemini generierten Python Script unter src/print_HTML.py habe ich die rechtlichen Verfahren im HTML Format ausgeben lassen, die ich in den letzten Monaten seit August 2025 eingeleitet habe. Es wurden 95 von mir verfasste Dokumente im HTML Format für alle rechtlichen Verfahren gefunden. Die Nachweise zu den eingeleiteten rechtlichen Verfahren befinden sich hier: https://drive.google.com/drive/folders/1E9DOPrkGy7BRELKztcxhp547nz9RMaXj?usp=drive_link.
 <pre>
 --- Starting recursive search in: /home/stephan/GoogleDrive/Geld/Verfolgung/ ---
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Consorsbank/Beschwerde/16.08.2025/Beschwerde.html
@@ -546,6 +546,7 @@ File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/Telekom/Beschwerde/24.
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/Telekom/Strafanzeige/Strafanzeige.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/RZF/Akteneinsicht-Antwort.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/RZF/Akteneinsicht.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/CITEC/Beschwerde.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Ordnungsamt/Bußgeld-Antrag.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Ordnungsamt/Beschwerde/Aufsichtsbeschwerde.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Ordnungsamt/Mahnung/Einspruch.html
