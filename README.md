@@ -263,7 +263,9 @@ Es gibt gasförmig, fest, flüssig und Haut.
 
 Es sind nicht Mikroorganismen, sondern Organismen.
 
-Die Meere und Ozeane dieser Welt sind unterschiedlich stark mit Mikroplastik belastet. Beim Einkauf von Fisch muss klar ersichtlich sein, mit wie viel Mikroplastik der Meeresbereich, aus dem der Fisch gefangen worden ist, belastet ist.
+Die Meere und Ozeane dieser Welt sind unterschiedlich stark mit Mikroplastik belastet. Beim Einkauf von Fisch muss klar ersichtlich sein, mit wie viel Mikroplastik der Meeresbereich, aus dem der Fisch gefangen worden ist, belastet ist.  
+
+Vorschlag: Alle Länder nutzen dieselbe Uhrzeit ohne Zeitverschiebung.  
 
 In der Wissenschaft spricht man davon, dass Sterne leben. Ich denke, dass Sterne nicht leben wie Menschen oder Tiere.
 
