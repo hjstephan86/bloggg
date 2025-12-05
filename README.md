@@ -628,6 +628,7 @@ Kezia Epp hat gefickt und die Ehe gebrochen.
 Peter Epp hat wieder gefickt und die Ehe gebrochen.  
 Lukas Epp hat wieder gefickt und die Ehe gebrochen.  
 Rahel Epp hat wieder gefickt und die Ehe gebrochen.  
+Elisabeth Epp hat mit Viktor Berg die Ehe gebrochen, der Sex zwischen Viktor und Elisabeth war sehr heftig.  
 
 Sie alle brechen lieber die Ehe als mir Geld in meiner Armut zu geben. Dabei hätte es gereicht, wenn Peter Epp mir Geld in meiner Armut gegeben hätte.  
 
