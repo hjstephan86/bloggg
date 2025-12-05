@@ -696,3 +696,6 @@ Auf diese konkrete Frage ging Herr Prof. Dr.-Ing. Kopp nicht direkt ein und wich
 Das Gespräch endete ohne eine Lösung oder einen Kompromiss bezüglich der Fortsetzung meiner Teilnahme an den Übungen.  
 
 Die versendeten E-Mails befinden sich als Nachweise hier: https://drive.google.com/drive/folders/1jstAtFMXHkKveQAQjHYuzzDz69rGbnZT.
+
+<b>Gasthörer zum WS 25/26</b>  
+Ich habe bei der Universität Bielefeld den Antrag auf Zulassung als Gasthörer*in zum Wintersemester 2025 für das Fach Informatik eingereicht. Dieser Antrag wurde genehmigt und dazu wurde mir die vorläufige Immatrikulation per E-Mail bestätigt. Auf Nachfrage bei Jens Hagemeyer wird mir aber die Teilnahme an den Übungen der Veranstaltungen "Entwicklung mikroelektronischer Systeme" und "Rekonfigurierbare und parallele Rechnersysteme" von der Fakultätsverwaltung der Technischen Fakultät für dieses laufende Semester selbst als Gasthörer untersagt. Wieso wurde mir vor den Vorfällen im CITECa die Teilnahme an den Übungen von "Entwicklung mikroelektronischer Systeme" und "Rekonfigurierbare und parallele Rechnersysteme" gestattet und nach den Vorfällen wird mir sogar als Gasthörer die Teilnahme an den Übungen untersagt? Die Nachweise zu diesem elektronischen Schriftwechsel befinden sich hier: https://drive.google.com/drive/folders/1jY2aYFPEN0hFNxeiBjlS_FBvvQsdXHP4?usp=drive_link.
