@@ -628,9 +628,12 @@ Kezia Epp hat gefickt und die Ehe gebrochen.
 Peter Epp hat wieder gefickt und die Ehe gebrochen.  
 Lukas Epp hat wieder gefickt und die Ehe gebrochen.  
 Rahel Epp hat wieder gefickt und die Ehe gebrochen.  
-Elisabeth Epp hat mit Viktor Berg die Ehe gebrochen, der Sex zwischen Viktor und Elisabeth war sehr heftig.  
 
-Sie alle brechen lieber die Ehe als mir Geld in meiner Armut zu geben. Dabei hätte es gereicht, wenn Peter Epp mir Geld in meiner Armut gegeben hätte.  
+Elisabeth Epp hat mit Viktor Berg die Ehe gebrochen. Der Sex zwischen Viktor und Elisabeth war sehr heftig.  
+Peter Epp hat Brigitte Friesen gefickt und es war sehr heftig. Brigitte Friesen ist die Mutter von Christian und Andreas Friesen.  
+Samuel Epp hat eine Indianerin gefickt in Paraguay.  
+
+Sie alle brechen lieber die Ehe als mir Geld zu geben in meiner Armut. Dabei würde es aufhören und der Geist Gottes sie nicht länger strafen, wenn Peter Epp mir mit Geld behilflich sein würde.   
 
 So wurde der Geist Gottes beschworen: Wenn folgende Länder Peter Epp nicht dazu bewegen, mir Geld in meiner Armut zu geben, werden diese Länder mit Atombomben angegriffen: Frankreich, England, Schweiz, Deutschland, Spanien, Kanada, Japan, Nordkorea, Brasilien, Yemen, Saudi Arabien, Dubai, Nigeria, Iran.  
 
