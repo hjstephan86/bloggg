@@ -552,6 +552,7 @@ File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/Telekom/Beschwerde/24.
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Mobilfunk/Telekom/Strafanzeige/Strafanzeige.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/RZF/Akteneinsicht-Antwort.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/RZF/Akteneinsicht.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/eprimo/Vollmacht.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/CITEC/Beschwerde.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Ordnungsamt/Bußgeld-Antrag.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Ordnungsamt/Beschwerde/Aufsichtsbeschwerde.html
@@ -561,6 +562,8 @@ File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Ordnungsamt/Ratenzahlu
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jugendamt/16.08.2025/Beschwerde/Widerspruch.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jugendamt/16.08.2025/Beschwerde/Aufsichtsbeschwerde.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jugendamt/16.08.2025/Klage/Klage.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jugendamt/04.12.2025/Klage.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jugendamt/04.12.2025/Strafanzeige.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jugendamt/10.09.2025/Dienstaufsichtsbeschwerde.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jugendamt/10.09.2025/07.09.2025/Dienstaufsichtsbeschwerde.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Christin/Gespraechsprotokoll.html
