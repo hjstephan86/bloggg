@@ -586,6 +586,7 @@ File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jobcenter/23.08.2025/B
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Sozialamt/Ergänzung/Ergaenzung.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Sozialamt/Antrag/Anordnung.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Sozialamt/Antrag/Stellungnahme/Stellungnahme.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Sozialamt/Antrag/VWGMI/Stellungnahme.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Einzelhandel/Netto/Beschwerde.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Einzelhandel/Lidl/Widerspruch-Hausverbot.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Einzelhandel/Lidl/Klage/Unterlassungsklage.html
