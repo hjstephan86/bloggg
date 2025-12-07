@@ -635,6 +635,8 @@ Peter Epp hat Brigitte Friesen gefickt und es war sehr heftig. Brigitte Friesen 
 Samuel Epp hat eine Indianerin gefickt in Paraguay.  
 Peter Epp hat Brigitte Friesen noch einmal gefickt und es war schön. Peter Epp hat auch Rahel Friesen gefickt. Rahel Friesen ist seine Tochter.  
 
+Johannes Janssen hat die Ehefrau von Hainer Janssen und die Ehefrau von Hans-Werner Dietze gefickt. Hans-Werner Dietze ist der Vater von Christin Dietze.  
+
 Sie alle brechen lieber die Ehe als mir Geld zu geben in meiner Armut. Dabei würde es aufhören und der Geist Gottes sie nicht länger strafen, wenn Peter Epp mir mit Geld behilflich sein würde.   
 
 ### Strafe durch Gottes Geist
