@@ -637,6 +637,8 @@ Peter Epp hat Brigitte Friesen noch einmal gefickt und es war schön. Peter Epp 
 
 Sie alle brechen lieber die Ehe als mir Geld zu geben in meiner Armut. Dabei würde es aufhören und der Geist Gottes sie nicht länger strafen, wenn Peter Epp mir mit Geld behilflich sein würde.   
 
+### Strafe durch ottes Geist
+
 So wurde der Geist Gottes beschworen: Wenn folgende Länder Peter Epp nicht dazu bewegen, mir Geld in meiner Armut zu geben, werden diese Länder mit Atombomben angegriffen: Frankreich, England, Schweiz, Deutschland, Spanien, Kanada, Japan, Nordkorea, Brasilien, Yemen, Saudi Arabien, Dubai, Nigeria, Iran.  
 
 Spanien wird mit Atombomben angegriffen und wer übrig bleibt, der wird verhungern oder erfrieren und die Eltern werden ihre Kinder essen.  
@@ -644,6 +646,8 @@ Spanien wird mit Atombomben angegriffen und wer übrig bleibt, der wird verhunge
 Männer aus Italien werden in der Ewigkeit mit Frauen aus Spanien schlafen. Dabei werden die Männer aus Italien die Frauen aus Spanien sexuell so heftgig befriedigen, wie es ihre spanischen Männer in dieser Zeit nicht konnten. Beim Sex der Männer aus Italien mit den spanischen Frauen müssen die spanischen Männer zusehen.
 
 Wenn China nicht den nächsten Selbstmordversuch von Wladimir Wladimirowitsch Putin verhindert, wird Russland China mit Atombomben angreifen.  
+
+Der Teufel fickt der Verpflichtung nach viele gutaussehende US-amerikanische Frauen.  
 
 ### Vorfälle im CITEC
 
