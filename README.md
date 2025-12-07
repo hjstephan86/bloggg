@@ -659,6 +659,8 @@ Der Verpflichtung nach muss der Teufel ab heute, den 07.12.2025, jeden Tag dreim
 
 Der Verpflichtung nach müssen Wladimir Wladimirowitsch Putin und seine Ehefrau sich ab dem 07.12.2025 jeden Tag in der USA vom Teufel ficken lassen. Weil Russland das so alleine nicht stehen lassen konnte, müssen der Verpflichtung nach auch Emmanuel Jean-Michel Frédéric Macron und seine Ehefrau und Xi Pinjing und seine Ehefrau sich jeden Tag in der USA vom Teufel ficken lassen.  
 
+Japan hat bei der Veröffentlichung des Artikels zu https://hjstephan86.github.io/web/7-achs-roboter.md heftig geflucht. In diesen letzten Wochen trat Japan sonst sehr in den Hintergrund. Dabei flucht Japan schon seit Wochen sehr heftig.  
+
 ### Vorfälle im CITEC
 
 <b>Vorfall</b>  
