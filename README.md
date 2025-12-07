@@ -653,6 +653,8 @@ Bis heute, den 07.12.2025, hat der Teufel der Verpflichtung nach bereits 423 gut
 
 China hat Xi Pinjing bereits 8 mal das Leben gerettet.  
 
+Wladimir Wladimirowitsch Putin musste seine Ehefrau schon 14 mal die Ehe brechen lassen.  
+
 ### Vorfälle im CITEC
 
 <b>Vorfall</b>  
