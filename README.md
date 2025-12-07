@@ -665,9 +665,9 @@ Japan hat bei der Veröffentlichung des Artikels zu https://hjstephan86.github.i
 
 Wladimir Wladimirowitsch Putin hat sich fest vorgenommen, dass wenn der Teufel getötet wird, dass Deutschland dann auf jeden Fall mit einer Atombombe zerstört wird, weil ich in Deutschland lebe. Dafür wird Russland in der Hölle ewig mit Atombomben gequält.  
 
-### Vorfälle im CITEC
+Weil Japan sehr heftig flucht, werden die folgenden reichen Japaner mit der Ehefrau von Elon Musk die Ehe brechen: Tadashi Yanai, Masayoshi Son, Takemitsu Takizaki, Yasumitsu Shigeta, Takahisa Takahara, Takao Yasuda, Hiroshi Mikitani, Masahiro Miki, Masahiro Noda, Kentaro Ogawa, Akira Mori, Akio Nitori, Yuji Otsuka, Yasuhide Uno, Shigenobu Nagamori, Kagemasa Kozuki, Yoshiko Mori, Katsumi Tada, Masateru Uno, Toshio Motoya.  
 
-<b>Vorfall</b>  
+## Vorfälle im CITECb>Vorfall</b>  
 Am 19.11.2025 befanden sich Fabian Heinrich, Florian Schröder und Amelie Robrecht bereits im Aufzug des CITEC der Universität Bielefeld im Erdgeschoss, als ich hinzustieg. Die drei Personen nahmen eine Position ein, die mir die Sicht auf das Tastenfeld erschwerte, sodass ich nicht erkennen konnte, welche Etage bereits ausgewählt war. Ich sagte "Entschuldigung" und versuchte, die Taste für die erste Etage zu drücken. Daraufhin bemerkte Amelie Robrecht in einem als unfreundlich empfundenen Ton, dass man auch hätte fragen können. Etwa 10 Minuten später sprach ich Amelie Robrecht auf ihre Äußerung im Aufzug an und bat um eine Erklärung für ihre Reaktion. Ich äußerte mein Unverständnis darüber, dass drei Personen offenbar nicht bemerkt hatten, dass eine weitere Person den Aufzug betreten hatte und ebenfalls das Tastenfeld bedienen wollte. Während des Gesprächs kam einer der beiden Männer aus dem Büro von Fabian Heinrich und Florian Schröder hinzu und sprach mich in lauter und direkter Weise an. Dieses Verhalten empfand ich als unangemessen und respektlos, da eine verständnisvolle Klärung der Situation dadurch nicht mehr möglich war. Fotos der Namensschilder befinden sich im Verzeichnis doc/CIA/Bielefeld/CITEC/.  
 
 <b>Vorfall</b>  
