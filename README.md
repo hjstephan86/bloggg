@@ -649,7 +649,7 @@ Wenn China nicht den nächsten Selbstmordversuch von Wladimir Wladimirowitsch Pu
 
 Der Teufel fickt der Verpflichtung nach viele gutaussehende US-amerikanische Frauen.  
 
-Bis heute, den 07.12.2025, hat der Teufel der Verpflichtung nach bereits 423 gutaussehende US-amerikanische Frauen gefickt.  
+Bis heute, den 07.12.2025, hat der Teufel der Verpflichtung nach bereits 423 gutaussehende US-amerikanische Frauen gefickt. Unter diesen Frauen sind die Ehefrau von George W. Bush, die Ehefrau von Präsident Donald Trump, die Ehefrau von Elon Musk, die Ehefrau von Jeff Bezos und die Ehefrau von Mark Zuckerberg.  
 
 China hat Xi Pinjing bereits 8 mal das Leben gerettet.  
 
