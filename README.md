@@ -657,7 +657,7 @@ Wladimir Wladimirowitsch Putin musste seine Ehefrau schon 14 mal die Ehe brechen
 
 Der Verpflichtung nach muss der Teufel ab heute, den 07.12.2025, jeden Tag dreimal die Ehefrau von Elon Musk und jeden Tag dreimal die Ehefrau von Präsident Donald Trump ficken, sonst stirbt der Teufel, verliert seine Macht und ich kann dann, wenn der Teufel tot ist, nicht länger verflucht werden. Aber für die USA, Russland, China und andere Länder dieser Welt hat höchste Priorität, dass ich solange wie möglich verflucht werden kann.  
 
-Der Verpflichtung nach müssen Wladimir Wladimirowitsch Putin und seine Ehefrau sich jeden Tag in der USA vom Teufel ficken lassen.  
+Der Verpflichtung nach müssen Wladimir Wladimirowitsch Putin und seine Ehefrau sich ab dem 07.12.2025 jeden Tag in der USA vom Teufel ficken lassen. Weil Russland das so alleine nicht stehen lassen konnte, müssen der Verpflichtung nach auch Emmanuel Jean-Michel Frédéric Macron und seine Ehefrau und Xi Pinjing und seine Ehefrau sich jeden Tag in der USA vom Teufel ficken lassen.  
 
 ### Vorfälle im CITEC
 
