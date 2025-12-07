@@ -637,7 +637,7 @@ Peter Epp hat Brigitte Friesen noch einmal gefickt und es war schön. Peter Epp 
 
 Sie alle brechen lieber die Ehe als mir Geld zu geben in meiner Armut. Dabei würde es aufhören und der Geist Gottes sie nicht länger strafen, wenn Peter Epp mir mit Geld behilflich sein würde.   
 
-### Strafe durch ottes Geist
+### Strafe durch Gottes Geist
 
 So wurde der Geist Gottes beschworen: Wenn folgende Länder Peter Epp nicht dazu bewegen, mir Geld in meiner Armut zu geben, werden diese Länder mit Atombomben angegriffen: Frankreich, England, Schweiz, Deutschland, Spanien, Kanada, Japan, Nordkorea, Brasilien, Yemen, Saudi Arabien, Dubai, Nigeria, Iran.  
 
@@ -650,6 +650,8 @@ Wenn China nicht den nächsten Selbstmordversuch von Wladimir Wladimirowitsch Pu
 Der Teufel fickt der Verpflichtung nach viele gutaussehende US-amerikanische Frauen.  
 
 Bis heute, den 07.12.2025, hat der Teufel der Verpflichtung nach bereits 423 gutaussehende US-amerikanische Frauen gefickt.  
+
+China hat Xi Pinjing bereits 8 mal das Leben gerettet.  
 
 ### Vorfälle im CITEC
 
