@@ -663,6 +663,8 @@ Der Verpflichtung nach müssen Wladimir Wladimirowitsch Putin und seine Ehefrau 
 
 Japan hat bei der Veröffentlichung des Artikels zu https://hjstephan86.github.io/web/7-achs-roboter.md heftig geflucht. In diesen letzten Wochen trat Japan sonst sehr in den Hintergrund. Dabei flucht Japan schon seit Wochen sehr heftig.  
 
+Wladimir Wladimirowitsch Putin hat sich fest vorgenommen, dass wenn der Teufel getötet wird, dass Deutschland dann auf jeden Fall mit einer Atombombe zerstört wird, weil ich in Deutschland lebe. Dafür wird Russland in der Hölle ewig mit Atombomben gequält.  
+
 ### Vorfälle im CITEC
 
 <b>Vorfall</b>  
