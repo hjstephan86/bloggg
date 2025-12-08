@@ -674,6 +674,8 @@ Wladimir Wladimirowitsch Putins Ehefrau soll der Verpflichtung nach ab heute, de
 
 Es wird für Russland in der Hölle für alle Ewigkeit nie die Möglichkeit zur Rache geben.  
 
+In der Hölle werden für immer und ewig nur die russischen Männer mit den Frauen der US-Amerikaner schlafen. Die US-amerikansichen Männer dürfen das nicht tun.  
+
 In der Hölle werden alle russischen Bürger mit allen Flüchen für alle Ewigkeit geplagt, mit denen ich in dieser Zeit geplagt worden bin.  
 
 In der Hölle werden alle Japaner für alle Ewigkeit mit beidseitigem Fersensporn geplagt. Weil Japan das so alleine nicht stehen lassen konnte, werden alle Chinesen für alle Ewigkeit mit beidseitigem Fersensporn geplagt.  
