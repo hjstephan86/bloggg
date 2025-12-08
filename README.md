@@ -583,6 +583,7 @@ File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jobcenter/Gutachten/Wi
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jobcenter/26.09.2025/Stellungnahme.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jobcenter/26.09.2025/Untaetigkeitsklage.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jobcenter/23.08.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Sozialamt/Beschwerde/Beschwerde.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Sozialamt/Ergänzung/Ergaenzung.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Sozialamt/Antrag/Anordnung.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Sozialamt/Antrag/Stellungnahme/Stellungnahme.html
