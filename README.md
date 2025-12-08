@@ -668,6 +668,8 @@ Japan hat bei der Veröffentlichung des Artikels zu https://hjstephan86.github.i
 
 Wladimir Wladimirowitsch Putin hat sich fest vorgenommen, dass wenn der Teufel getötet wird, dass Deutschland dann auf jeden Fall mit einer Atombombe zerstört wird, weil ich in Deutschland lebe. Dafür wird Russland in der Hölle ewig mit Atombomben gequält. Wer von Russland nach einem Atombombenangriff in der Hölle übrig bleibt, der wird erfrieren oder verhungern und die Eltern werden ihre Kinder für das Essen zubereiten. Dabei steht die Regelmäßgikeit, in der Russland in der Hölle mit Atombomben gequält wird, noch nicht fest.  
 
+Auf dem Flug von Russland in die USA hat Wladimir Wladimirowitsch Putin seine Ehefrau sehr heftig geschlagen, weil sie ihm im Flugzeug den Vorwurf gemacht hat, dass er immer noch an diesem Vorhaben festhält.  
+
 Es wird für Russland in der Hölle für alle Ewigkeit nie die Möglichkeit zur Rache geben.  
 
 In der Hölle werden alle russischen Bürger mit allen Flüchen für alle Ewigkeit geplagt, mit denen ich in dieser Zeit geplagt worden bin.  
