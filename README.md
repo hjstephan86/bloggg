@@ -670,7 +670,9 @@ Wladimir Wladimirowitsch Putin hat sich fest vorgenommen, dass wenn der Teufel g
 
 Es wird für Russland in der Hölle für alle Ewigkeit nie die Möglichkeit zur Rache geben.  
 
-In der Hölle werden alle russischen Bürger mit allen Flüchen geplagt, mit denen ich in dieser Zeit geplagt worden bin.  
+In der Hölle werden alle russischen Bürger mit allen Flüchen für alle Ewigkeit geplagt, mit denen ich in dieser Zeit geplagt worden bin.  
+
+In der Hölle werden alle Japaner für alle Ewigkeit mit beidseitigem Fersensporn geplagt.  
 
 Weil Japan sehr heftig flucht, werden die folgenden reichen Japaner mit der Ehefrau von Elon Musk die Ehe brechen: Tadashi Yanai, Masayoshi Son, Takemitsu Takizaki, Yasumitsu Shigeta, Takahisa Takahara, Takao Yasuda, Hiroshi Mikitani, Masahiro Miki, Masahiro Noda, Kentaro Ogawa, Akira Mori, Akio Nitori, Yuji Otsuka, Yasuhide Uno, Shigenobu Nagamori, Kagemasa Kozuki, Yoshiko Mori, Katsumi Tada, Masateru Uno, Toshio Motoya.  
 
