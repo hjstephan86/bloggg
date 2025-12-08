@@ -337,7 +337,7 @@ It is not always clear whether a Verilog behavior is a sequential or combination
 
 To describe a sequence of statements in Verilog do not use "always @(posedge CLK) begin", since it does not necessarily require all following statements to be executed in a sequence. To describe a sequence of statements use the keyword "seq". If the keyword "seq" is not used, the following statements are executed in parallel.  
 
-FPGA constraints files have to have a standardardized format for all FPGA vendors like Xilinx, Intel, Lattice.
+FPGA constraints files have to have a standardized format for all FPGA vendors like Xilinx, Intel, Lattice.
 
 The Universal Verification Methodology (UVM) is a RTL verification network in the IC industry. It allows engineers to reuse testbench components across testbenches and provides a standardized testbench structure. IEEE defined the UVM in the IEEE Standard for Universal Verification Methodology Language Reference Manual. The official GitHub repository is here: https://github.com/pyuvm/pyuvm.
 
@@ -356,7 +356,7 @@ Die Verilog-Komponente aoi_2_2.v und die VHDL-Komponente aoi_2_2.vhd wurden mit 
 ### Sa, 22.11., 14:15 Uhr –  Entwurf mikroelektronischer Systeme, Ü
 - Nutze LiteX für die Erstellung von virtuellen SoCs für FPGAs anstelle von Verilog oder VHDL
 - Das LiteX-Framework bietet eine Infrastruktur zur Erstellung von FPGA-Kernen/SoCs: https://github.com/enjoy-digital/litex
-- Nach dem Erstellen der .bit-Datei und dem Download kann `minicom` für die Verbindung genutz werden
+- Nach dem Erstellen der .bit-Datei und dem Download kann `minicom` für die Verbindung genutzt werden
 - Nutze MicroPython als Laufzeitumgebung für Python auf Mikrocontrollern
 - MicroPython implementiert die ganze Python 3.4 Syntax: https://github.com/micropython/micropython
 
@@ -505,7 +505,7 @@ Idee zur Alternative von Vivado Design Suite:
 
 ## Verfolgung
 
-Es wurde heute, den 11.11.2025, etwa gegen 23:30 Uhr aus England eine Rakete gestartet, die das Haus an der Otto-Brenner-Straße 77 in 33607 Bielefeld zerstören sollte. Diese Rakete hat ihr Ziel nicht erreicht. Sie hätte gegen 23:34 Uhr das Ziel erreichen sollen, ist aber statt dessen über Belgien explodiert.
+Es wurde heute, den 11.11.2025, etwa gegen 23:30 Uhr aus England eine Rakete gestartet, die das Haus an der Otto-Brenner-Straße 77 in 33607 Bielefeld zerstören sollte. Diese Rakete hat ihr Ziel nicht erreicht. Sie hätte gegen 23:34 Uhr das Ziel erreichen sollen, ist aber stattdessen über Belgien explodiert.
 
 Im Rahmen des betreuungsgerichtlichen Verfahrens 2 XVII 991/25 wurde ich von Herrn Köhler für das psychiatrische Fachgutachten am 20.10.2025 um 8 Uhr bei Herrn Köhler im Büro untersucht. Dazu habe ich ein Gesprächsprotokoll erstellt. Dieses Gesprächsprotokoll habe ich Herrn Köhler zusammen mit den Klagen zeitnah nach dem Gespräch am 20.10.2025 per E-Mail zukommen lassen. Herr Köhler hat sich im Gespräch für die Klagen interessiert und darum gebeten, dass ich Herrn Köhler diese Klagen zukommen lasse. Das Gesprächsprotokoll befindet sich unter doc/CIA/Bielefeld/Amtsgericht/.
 
@@ -646,7 +646,7 @@ So wurde der Geist Gottes beschworen: Wenn folgende Länder Peter Epp nicht dazu
 
 Spanien wird mit Atombomben angegriffen und wer übrig bleibt, der wird verhungern oder erfrieren und die Eltern werden ihre Kinder essen.  
 
-Männer aus Italien werden in der Ewigkeit mit Frauen aus Spanien schlafen. Dabei werden die Männer aus Italien die Frauen aus Spanien sexuell so heftgig befriedigen, wie es ihre spanischen Männer in dieser Zeit nicht konnten. Beim Sex der Männer aus Italien mit den spanischen Frauen müssen die spanischen Männer zusehen.
+Männer aus Italien werden in der Ewigkeit mit Frauen aus Spanien schlafen. Dabei werden die Männer aus Italien die Frauen aus Spanien sexuell so heftig befriedigen, wie es ihre spanischen Männer in dieser Zeit nicht konnten. Beim Sex der Männer aus Italien mit den spanischen Frauen müssen die spanischen Männer zusehen.
 
 Wenn China nicht den nächsten Selbstmordversuch von Wladimir Wladimirowitsch Putin verhindert, wird Russland China mit Atombomben angreifen.  
 
@@ -666,7 +666,7 @@ Der Verpflichtung nach müssen Wladimir Wladimirowitsch Putin und seine Ehefrau 
 
 Japan hat bei der Veröffentlichung des Artikels zu https://hjstephan86.github.io/web/7-achs-roboter.md heftig geflucht. In diesen letzten Wochen trat Japan sonst sehr in den Hintergrund. Dabei flucht Japan schon seit Wochen sehr heftig.  
 
-Wladimir Wladimirowitsch Putin hat sich fest vorgenommen, dass wenn der Teufel getötet wird, dass Deutschland dann auf jeden Fall mit einer Atombombe zerstört wird, weil ich in Deutschland lebe. Dafür wird Russland in der Hölle ewig mit Atombomben gequält. Wer von Russland nach einem Atombombenangriff in der Hölle übrig bleibt, der wird erfrieren oder verhungern und die Eltern werden ihre Kinder für das Essen zubereiten. Dabei steht die Regelmäßgikeit, in der Russland in der Hölle mit Atombomben gequält wird, noch nicht fest.  
+Wladimir Wladimirowitsch Putin hat sich fest vorgenommen, dass wenn der Teufel getötet wird, dass Deutschland dann auf jeden Fall mit einer Atombombe zerstört wird, weil ich in Deutschland lebe. Dafür wird Russland in der Hölle ewig mit Atombomben gequält. Wer von Russland nach einem Atombombenangriff in der Hölle übrig bleibt, der wird erfrieren oder verhungern und die Eltern werden ihre Kinder für das Essen zubereiten. Dabei steht die Regelmäßigkeit, in der Russland in der Hölle mit Atombomben gequält wird, noch nicht fest.  
 
 Auf dem Flug von Russland in die USA hat Wladimir Wladimirowitsch Putin seine Ehefrau sehr heftig geschlagen, weil sie ihm im Flugzeug den Vorwurf gemacht hat, dass er immer noch an diesem Vorhaben festhält.  
 
@@ -674,7 +674,7 @@ Wladimir Wladimirowitsch Putins Ehefrau soll der Verpflichtung nach ab heute, de
 
 Es wird für Russland in der Hölle für alle Ewigkeit nie die Möglichkeit zur Rache geben.  
 
-In der Hölle werden für immer und ewig nur die russischen Männer mit den Frauen der US-Amerikaner schlafen. Die US-amerikansichen Männer dürfen das nicht tun.  
+In der Hölle werden für immer und ewig nur die russischen Männer mit den Frauen der US-Amerikaner schlafen. Die US-amerikanischen Männer dürfen für immer und ewig nicht mit ihren Frauen schlafen. Die Chinesen halten US-amerikanische Männer zurück, wenn russische Männer mit den Frauen der US-amerikanischen Männer schlafen. Die US-amerikanischen Männer halten die russischen Männer zurück, wenn Chinesen für immer und ewig russische Frauen vergewaltigen. 
 
 In der Hölle werden alle russischen Bürger mit allen Flüchen für alle Ewigkeit geplagt, mit denen ich in dieser Zeit geplagt worden bin.  
 
@@ -694,7 +694,7 @@ Am 19.11.2025 befanden sich Fabian Heinrich, Florian Schröder und Amelie Robrec
 Am 24.11.2025 um ca. 05:20 Uhr bis 06:00 Uhr ereignete sich im CITEC der Universität Bielefeld, 1. Etage, folgendes Geschehen: Gegen etwa 05:20 Uhr suchte ich die Duschgelegenheit in der 1. Etage des CITEC auf, da die Heizung und das Wasser in der Dusche meiner Unterkunft (Otto-Brenner-Straße 77) kalt waren. Während des Duschvorgangs stellte ich fest, dass das Wasser im Duschraum der 1. Etage **nicht ordnungsgemäß** in den Abfluss ablief. Das Wasser staute sich und verteilte sich anschließend über die Fliesen bis unter die Tür auf den Teppichboden des Flurs. Aufgrund der massiven Wasseransammlung auf dem Badezimmerboden war es mir unmöglich, mich im Duschraum anzuziehen. Ich musste den Duschraum Uhr verlassen, um mich auf einem trockenen Bereich (vor einem Sofa im Flurbereich) abzutrocknen und anzukleiden. Zur Dokumentation habe ich Fotos des nassen Teppichs und des Duschbodens um 09:29 Uhr als Beweis aufgenommen. Der Zustand des Abflusses deutet auf einen Mangel bei der Einrichtung der Bäder hin. Gegen etwa 06:00 Uhr wurde ich von einem Mitarbeiter des Sicherheitsdienstes (SD-MA) im CITEC angesprochen. Der SD-MA erklärte, es hätte jemand den Sicherheitsdienst angerufen. Der SD-MA fragte mich wörtlich, ob ich es sei, der sich "nackig" im CITEC aufgehalten hätte. Der SD-MA sagte, dass sich in diesem Gebäude auch Frauen aufhalten und dass mein Verhalten deshalb nicht akzeptabel sei. Ich wies den SD-MA darauf hin, dass ich, als ich die Dusche verlassen hatte und mich zügig umzog, keine Frauen gesehen hatte, die mich im entkleideten Zustand sehen hätten können. Auf Aufforderung habe ich dem SD-MA meinen Personalausweis und den elektronische Zutrittsschlüssel (ausgestellt von Herrn Jens Hagemeyer für den Besuch des CITEC am Wochenende) vorgezeigt. Zusätzlich weise ich auf einen bestehenden Mangel in der der Dusche gegenüberliegenden Herrentoilette hin: Diese Toilette ist seit mindestens vier bis fünf Wochen gesperrt. Ein Pissoir in dieser Toilette ist defekt und schon nicht mehr nutzbar. Beweisfotos dieser gesperrten Herrentoilette liegen ebenfalls vor unter doc/CIA/Bielefeld/CITEC/.  
 
 <b>Vorfall</b>  
-Am 25.11.2025 um ca. 08:00 Uhr suchte ich die Duschgelegenheit in der 2. Etage des CITEC der Universität Bielefeld auf, da die Heizung und das Wasser in der Dusche meiner Unterkunft (Otto-Brenner-Straße 77) immer noch kalt waren. Während des Duschvorgangs stellte ich fest, dass auch das Wasser im Duschraum der 2. Etage **nicht ordnungsgemäß** in den Abfluss ablief. Ich musste das Duschen deswegen beenden und den Duschraum verlassen, um mich auf einem trockenen Bereich im Duscharaum abzutrocknen und anzukleiden. Zur Dokumentation habe ich Fotos des nassen Duschbodens als Beweis aufgenommen. Der Zustand des Abflusses deutet stark auf einen Mangel bei der Einrichtung der Bäder im CITEC hin. Die Fotos dazu befinden sich unter doc/CIA/Bielefeld/CITEC/. 
+Am 25.11.2025 um ca. 08:00 Uhr suchte ich die Duschgelegenheit in der 2. Etage des CITEC der Universität Bielefeld auf, da die Heizung und das Wasser in der Dusche meiner Unterkunft (Otto-Brenner-Straße 77) immer noch kalt waren. Während des Duschvorgangs stellte ich fest, dass auch das Wasser im Duschraum der 2. Etage **nicht ordnungsgemäß** in den Abfluss ablief. Ich musste das Duschen deswegen beenden und den Duschraum verlassen, um mich auf einem trockenen Bereich im Duschraum abzutrocknen und anzukleiden. Zur Dokumentation habe ich Fotos des nassen Duschbodens als Beweis aufgenommen. Der Zustand des Abflusses deutet stark auf einen Mangel bei der Einrichtung der Bäder im CITEC hin. Die Fotos dazu befinden sich unter doc/CIA/Bielefeld/CITEC/. 
 
 <b>Vorfall</b>  
 Am 25.11.2025 gegen 15:00 Uhr befand ich mich im CITEC der Universität Bielefeld in der 3. Etage, wo ich an meinem Laptop im offenen Arbeitsbereich arbeitete. Dieser Bereich ist direkt mit dem Bereich der offenen Küche verbunden, der mit gemütlichen Sitzgelegenheiten ausgestattet ist.  
@@ -702,7 +702,7 @@ Zwei Mitarbeiter der Universität Bielefeld im CITEC nahmen in der offenen Küch
 TH fragte mich daraufhin, ob ich nicht meine Noise-Cancelling-Kopfhörer verwenden könnte. Ich erwiderte, dass ich diese bereits nutze. TH lehnte meine Bitte jedoch ab und verwies darauf, dass er und sein MA sich in einem offenen sozialen Bereich aufhielten. Ich hinterfragte diese Haltung, woraufhin sich leider ein kurzes Streitgespräch entwickelte. Auf meine Frage, wer er, TH, sei und in welchem Fachgebiet er an der Universität Bielefeld arbeite, antwortete TH, er sei der Leiter dieser Fachgruppe. Der MA, der eine auffällig tiefe Stimme hat, bemerkte schließlich, dass das Gespräch zu diesem Zeitpunkt zu nichts mehr führen würde. Dem stimmte ich zu und verließ den Bereich der offenen Küche.
 
 <b>Vorfall</b>  
-Am 26.11.2025 um ca. 07:00 Uhr suchte ich die Duschgelegenheit in der 3. Etage des CITEC der Universität Bielefeld auf, da die Heizung und das Wasser in der Dusche meiner Unterkunft (Otto-Brenner-Straße 77) immer noch kalt waren. Während des Duschvorgangs stellte ich fest, dass das Wasser im Duschraum der 3. Etage **ordnungsgemäß** in den Abfluss ablief. Ich habe etwa 21 Minuten durchgehend geduscht, wobei das Wasser die ganze Zeit lief. Ich musste das Duschen deswegen nicht vorzeitig beenden und konnte mich nach dem Duschen auf einem trockenen Bereich im Duscharaum abtrocknen und ankleiden. Zur Dokumentation habe ich Fotos des Duschbodens als Beweis aufgenommen. Die Fotos dazu befinden sich unter doc/CIA/Bielefeld/CITEC/.  
+Am 26.11.2025 um ca. 07:00 Uhr suchte ich die Duschgelegenheit in der 3. Etage des CITEC der Universität Bielefeld auf, da die Heizung und das Wasser in der Dusche meiner Unterkunft (Otto-Brenner-Straße 77) immer noch kalt waren. Während des Duschvorgangs stellte ich fest, dass das Wasser im Duschraum der 3. Etage **ordnungsgemäß** in den Abfluss ablief. Ich habe etwa 21 Minuten durchgehend geduscht, wobei das Wasser die ganze Zeit lief. Ich musste das Duschen deswegen nicht vorzeitig beenden und konnte mich nach dem Duschen auf einem trockenen Bereich im Duschraum abtrocknen und ankleiden. Zur Dokumentation habe ich Fotos des Duschbodens als Beweis aufgenommen. Die Fotos dazu befinden sich unter doc/CIA/Bielefeld/CITEC/.  
 
 <b>Vorfall</b>  
 26.11.2025, 14:50 Uhr, Frau Heidbrede aus dem Sekretariat der Fachgruppe Kognitronik suchte das Gespräch mit mir und fragte, wie es denn sein könne, dass ich hier im CITEC dreimal geduscht habe und nackig herumgelaufen bin.  
