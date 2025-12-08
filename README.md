@@ -682,6 +682,8 @@ In der Hölle werden alle russischen Bürger mit allen Flüchen für alle Ewigke
 
 In der Hölle werden alle Japaner für alle Ewigkeit mit beidseitigem Fersensporn geplagt. Weil Japan das so alleine nicht stehen lassen konnte, werden alle Chinesen für alle Ewigkeit mit beidseitigem Fersensporn geplagt.  
 
+In der Hölle werden chinesische Frauen für immer und ewig immer wieder von den Engeln Gottes gefickt und die chinesischen Männer dürfen es für immer und ewig nicht und müssen dabei zusehen. Die Chinesen werden für immer und ewig den Russen immer wieder die Haut abziehen.  
+
 Weil Japan sehr heftig flucht, werden die folgenden reichen Japaner mit der Ehefrau von Elon Musk die Ehe brechen: Tadashi Yanai, Masayoshi Son, Takemitsu Takizaki, Yasumitsu Shigeta, Takahisa Takahara, Takao Yasuda, Hiroshi Mikitani, Masahiro Miki, Masahiro Noda, Kentaro Ogawa, Akira Mori, Akio Nitori, Yuji Otsuka, Yasuhide Uno, Shigenobu Nagamori, Kagemasa Kozuki, Yoshiko Mori, Katsumi Tada, Masateru Uno, Toshio Motoya.  
 
 Bis heute, den 08.12.2025, ist es weder der USA, noch Russland, noch China, noch irgendeinem anderen Land gelungen, das entwendete US-Gold mit den Daten der gesamten Akte der CIA auf einem externen Datenträger zu beschädigen oder wieder zu entwenden. Der Geist Gottes hat dieses US-Gold und diese Akte bewahrt und wird sie auch in Zukunft bewahren. Wenn Wladimir Wladimirowitsch Putin dieses US-Gold und die Daten der Akte der CIA aus der USA dieses Jahr nicht entwendet und zur Verfügung gestellt hätte, wäre Wladimir Wladimirowitsch Putin gestorben.  
