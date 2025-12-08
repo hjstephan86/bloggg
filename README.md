@@ -666,7 +666,7 @@ Der Verpflichtung nach müssen Wladimir Wladimirowitsch Putin und seine Ehefrau 
 
 Japan hat bei der Veröffentlichung des Artikels zu https://hjstephan86.github.io/web/7-achs-roboter.md heftig geflucht. In diesen letzten Wochen trat Japan sonst sehr in den Hintergrund. Dabei flucht Japan schon seit Wochen sehr heftig.  
 
-Wladimir Wladimirowitsch Putin hat sich fest vorgenommen, dass wenn der Teufel getötet wird, dass Deutschland dann auf jeden Fall mit einer Atombombe zerstört wird, weil ich in Deutschland lebe. Dafür wird Russland in der Hölle ewig mit Atombomben gequält. Wer von Russland nach einem Atombombenangriff in der Hölle übrig bleibt, der wird erfrieren oder verhungern und die Eltern werden ihre Kinder für das Essen zubereiten.  
+Wladimir Wladimirowitsch Putin hat sich fest vorgenommen, dass wenn der Teufel getötet wird, dass Deutschland dann auf jeden Fall mit einer Atombombe zerstört wird, weil ich in Deutschland lebe. Dafür wird Russland in der Hölle ewig mit Atombomben gequält. Wer von Russland nach einem Atombombenangriff in der Hölle übrig bleibt, der wird erfrieren oder verhungern und die Eltern werden ihre Kinder für das Essen zubereiten. Dabei steht die Regelmäßgikeit, in der Russland in der Hölle mit Atombomben gequält wird, noch nicht fest.  
 
 Weil Japan sehr heftig flucht, werden die folgenden reichen Japaner mit der Ehefrau von Elon Musk die Ehe brechen: Tadashi Yanai, Masayoshi Son, Takemitsu Takizaki, Yasumitsu Shigeta, Takahisa Takahara, Takao Yasuda, Hiroshi Mikitani, Masahiro Miki, Masahiro Noda, Kentaro Ogawa, Akira Mori, Akio Nitori, Yuji Otsuka, Yasuhide Uno, Shigenobu Nagamori, Kagemasa Kozuki, Yoshiko Mori, Katsumi Tada, Masateru Uno, Toshio Motoya.  
 
