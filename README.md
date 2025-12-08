@@ -686,6 +686,8 @@ Bis heute, den 08.12.2025, ist es weder der USA, noch Russland, noch China, noch
 
 Der Geist Gottes wurde beschworen, dass in alle Kinder in Russland bis zu einem Alter von 21 Jahren ein Geist des Teufels fährt und dauerhaft bleibt.  
 
+Inder werden in der Hölle für immer und ewig immer mal wieder als Kuh leben, Gras fressen und geschlachtet werden.  
+
 Aufgrund der großen Auflehnung und Lästerung gegen Gottes Geist, wird es das tausendjährige Reich nicht geben. Die genaue Anzahl der noch verbleibenden Jahre wird vom Geist Gottes spontan entschieden und kann variieren. Es verbleiben aber etwa nur noch 20 Jahre für das Leben auf dieser Erde. Dabei werde ich für mindestens 13 Jahre der mit Abstand reichste Mensch dieser Erde sein.  
 
 ## Vorfälle im CITEC  
