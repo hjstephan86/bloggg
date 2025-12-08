@@ -633,8 +633,8 @@ Rahel Epp hat wieder gefickt und die Ehe gebrochen.
 
 Elisabeth Epp hat mit Viktor Berg die Ehe gebrochen. Der Sex zwischen Viktor und Elisabeth war sehr heftig.  
 Peter Epp hat Brigitte Friesen gefickt und es war sehr heftig. Brigitte Friesen ist die Mutter von Christian und Andreas Friesen.  
-Samuel Epp hat eine Indianerin gefickt in Paraguay.  
-Peter Epp hat Brigitte Friesen noch einmal gefickt und es war schön. Peter Epp hat auch Rahel Friesen gefickt. Rahel Friesen ist seine Tochter.  
+
+Samuel Epp hat eine Indianerin gefickt in Paraguay. Peter Epp hat Brigitte Friesen noch einmal gefickt und es war schön. Peter Epp hat auch Rahel Friesen gefickt. Rahel Friesen ist seine Tochter.  
 
 Johannes Janssen hat die Ehefrau von Hainer Janssen und die Ehefrau von Hans-Werner Dietze gefickt. Hans-Werner Dietze ist der Vater von Christin Dietze.  
 
@@ -686,7 +686,7 @@ Weil Japan sehr heftig flucht, werden die folgenden reichen Japaner mit der Ehef
 
 Bis heute, den 08.12.2025, ist es weder der USA, noch Russland, noch China, noch irgendeinem anderen Land gelungen, das entwendete US-Gold mit den Daten der gesamten Akte der CIA auf einem externen Datenträger zu beschädigen oder wieder zu entwenden. Der Geist Gottes hat dieses US-Gold und diese Akte bewahrt und wird sie auch in Zukunft bewahren. Wenn Wladimir Wladimirowitsch Putin dieses US-Gold und die Daten der Akte der CIA aus der USA dieses Jahr nicht entwendet und zur Verfügung gestellt hätte, wäre Wladimir Wladimirowitsch Putin gestorben.  
 
-Wenn die Reichen, die von den großen Häusern in Dubai profitieren, sich nicht dafür einsetzen, dass Peter Epp mir heute, den 08.12.2025, mindestens 11.111 EUR per Echtzeitüberweisung auf mein Girokonto überweist, werden diese Reichen für immer und ewig immer wieder in der Hölle zerhackt und in den Selbstmord geführt.  
+Wenn die Reichen, die von den großen Häusern in Dubai profitieren, sich nicht dafür einsetzen, dass Peter Epp mir heute, den 08.12.2025, mindestens 11.111 EUR per Echtzeitüberweisung auf mein Girokonto überweist, werden diese Reichen für immer und ewig immer wieder in der Hölle zerhackt und in den Selbstmord geführt und Peter Epp wird dazu verpflichtet, bis zum 14.12.2025 die Ehefrau von Elon Musk zu ficken. Seldon Lycurgus, der Sohn von Elon Musk, muss dabei zusehen. Bis zum 14.12.2025 muss Peter Epp sich außerdem vom Teufel von hinten in den Arsch ficken lassen.  
 
 Der Geist Gottes wurde beschworen, dass in alle Kinder in Russland bis zu einem Alter von 21 Jahren ein Geist des Teufels fährt und dauerhaft bleibt.  
 
