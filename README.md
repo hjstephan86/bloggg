@@ -670,6 +670,8 @@ Wladimir Wladimirowitsch Putin hat sich fest vorgenommen, dass wenn der Teufel g
 
 Auf dem Flug von Russland in die USA hat Wladimir Wladimirowitsch Putin seine Ehefrau sehr heftig geschlagen, weil sie ihm im Flugzeug den Vorwurf gemacht hat, dass er immer noch an diesem Vorhaben festhält.  
 
+Wladimir Wladimirowitsch Putins Ehefrau soll der Verpflichtung nach ab heute, den 08.12.2025, jeden Tag von Präsident Donald Trump gefickt werden und Wladimir Wladimirowitsch Putin soll dabei die ganze Zeit zusehen. Wird Wladimir Wladimirowitsch Putins Ehefrau getötet, werden andere hochrangige russische Politiker in die USA fliegen müssen und ihre Frauen werden dann von Präsident Donald Trump gefickt werden müssen und die russischen Politiker dabei zusehen. Der erste hochrangige russische Politiker, der mit seiner Ehefrau nachrücken muss, ist Dmitri Anatoljewitsch Medwedew.  
+
 Es wird für Russland in der Hölle für alle Ewigkeit nie die Möglichkeit zur Rache geben.  
 
 In der Hölle werden alle russischen Bürger mit allen Flüchen für alle Ewigkeit geplagt, mit denen ich in dieser Zeit geplagt worden bin.  
