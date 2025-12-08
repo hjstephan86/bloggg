@@ -686,6 +686,8 @@ Weil Japan sehr heftig flucht, werden die folgenden reichen Japaner mit der Ehef
 
 Bis heute, den 08.12.2025, ist es weder der USA, noch Russland, noch China, noch irgendeinem anderen Land gelungen, das entwendete US-Gold mit den Daten der gesamten Akte der CIA auf einem externen Datenträger zu beschädigen oder wieder zu entwenden. Der Geist Gottes hat dieses US-Gold und diese Akte bewahrt und wird sie auch in Zukunft bewahren. Wenn Wladimir Wladimirowitsch Putin dieses US-Gold und die Daten der Akte der CIA aus der USA dieses Jahr nicht entwendet und zur Verfügung gestellt hätte, wäre Wladimir Wladimirowitsch Putin gestorben.  
 
+Wenn die Reichen, die von den großen Häusern in Dubai profitieren, sich nicht dafür einsetzen, dass Peter Epp mir heute, den 08.12.2025, mindestens 11.111 EUR per Echtzeitüberweisung auf mein Girokonto überweist, werden diese Reichen für immer und ewig immer wieder in der Hölle zerhackt und in den Selbstmord geführt.  
+
 Der Geist Gottes wurde beschworen, dass in alle Kinder in Russland bis zu einem Alter von 21 Jahren ein Geist des Teufels fährt und dauerhaft bleibt.  
 
 Inder werden in der Hölle für immer und ewig immer mal wieder als Kuh leben, Gras fressen und geschlachtet werden.  
