@@ -707,6 +707,8 @@ Aufgrund der hohen Verschuldung der USA an mir, wird die USA mit der Begleichung
 
 Aufgrund der großen Auflehnung, Lästerung und Verfolgung gegen mich werden alle Russen, US-Amerikaner und Chinesen in der Hölle für immer und ewig sehr depressiv sein. Dies gilt für alle Bürger dieser Länder, die es jemals seit der Gründung dieser Länder gegeben hat. Das müssen dann die Bürger dieser Länder den Mitbürgern ihrer Länder, die nicht zu meiner Zeit gelebt haben, in der Hölle erklären.  
 
+Weil die US-Amerikaner mich so verflucht haben, dass ich nicht schön, sondern eher hässlich sein soll, werden alle Bürger der USA die hässlichsten Menschen für immer und ewig in der Hölle sein.  
+
 Aufgrund der großen Auflehnung und Lästerung gegen Gottes Geist, wird es das tausendjährige Reich nicht geben. Die genaue Anzahl der noch verbleibenden Jahre wird vom Geist Gottes spontan entschieden und kann variieren. Es verbleiben aber etwa nur noch 20 Jahre für das Leben auf dieser Erde. Dabei werde ich für mindestens 13 Jahre der mit Abstand reichste Mensch dieser Erde sein.  
 
 ## Vorfälle im CITEC  
