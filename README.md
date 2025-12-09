@@ -566,7 +566,7 @@ File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jugendamt/04.12.2025/K
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jugendamt/04.12.2025/Strafanzeige.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jugendamt/10.09.2025/Dienstaufsichtsbeschwerde.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Jugendamt/10.09.2025/07.09.2025/Dienstaufsichtsbeschwerde.html
-File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Christin/Gespraechsprotokoll.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Christin/Strafanzeigen/Gespraechsprotokoll.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Christin/Zivilklagen/Zivilklage-Besitzherausgabe.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Christin/Zivilklagen/Zivilklage-Schadensersatz.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/moBiel/Klage.html
@@ -600,6 +600,7 @@ File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Johanniter/Strafanzeig
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/BGW/Beschwerde.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Polizei/22.08.2025/Strafanzeige-Polizei.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Polizei/22.08.2025/Beschwerde.html
+File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Polizei/09.12.2025/Beschwerde.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Polizei/21.09.2025/Strafanzeige.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Polizei/25.09.2025/Strafanzeige.html
 File: /home/stephan/GoogleDrive/Geld/Verfolgung/Bielefeld/Stadtbibliothek/Ablehnung/Klage.html
