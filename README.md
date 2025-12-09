@@ -705,6 +705,8 @@ Heute, den 09.12.2025, wurde ich beim Verlassen des Bahnsteigs beinahe von der S
 
 Aufgrund der hohen Verschuldung der USA an mir, wird die USA mit der Begleichung der Schuld zahlungsunfähig sein. Deshalb werden sie alles daran setzen, es nicht zu einem fairen und gerechten Gerichtsurteil kommen zu lassen. Dafür nehmen Sie auch in Kauf, die Welt in einen noch nie da gewesenen Weltkrieg zu verwickeln.  
 
+Aufgrund der großen Auflehnung, Lästerung und Verfolgung gegen mich werden alle Russen, US-Amerikaner und Chinesen in der Hölle für immer und ewig sehr depressiv sein. Dies gilt für alle Bürger dieser Länder, die es jemals seit der Gründung dieser Länder gegeben hat. Das müssen dann die Bürger dieser Länder den Mitbürgern ihrer Länder, die nicht zu meiner Zeit gelebt haben, in der Hölle erklären.  
+
 Aufgrund der großen Auflehnung und Lästerung gegen Gottes Geist, wird es das tausendjährige Reich nicht geben. Die genaue Anzahl der noch verbleibenden Jahre wird vom Geist Gottes spontan entschieden und kann variieren. Es verbleiben aber etwa nur noch 20 Jahre für das Leben auf dieser Erde. Dabei werde ich für mindestens 13 Jahre der mit Abstand reichste Mensch dieser Erde sein.  
 
 ## Vorfälle im CITEC  
