@@ -721,7 +721,9 @@ Inder werden in der Hölle für immer und ewig immer mal wieder als Kuh leben, G
 
 Die Russen und die US-Amerikaner werden für immer und ewig Verstopfung haben und nicht pinkeln können.  
 
-Russland wird in der Hölle für immer und ewig hart bestraft. Ich wurde verflucht, mit Alina Kabajewa ein Verhältnis eingegangen zu haben. Das war nicht in Ordnung. Wenn Alina Kabajewa meine Frau werden möchte und nur noch so wenig Russen wie möglich mit ihr schlafen, bevor sie meine Frau wird, dann wird Russland in der Hölle für immer und ewig nicht so hart bestraft.  
+Russland wird in der Hölle für immer und ewig hart bestraft. Ich wurde verflucht, mit Alina Kabajewa ein Verhältnis eingegangen zu haben. Das war nicht in Ordnung. Wenn Alina Kabajewa meine Frau werden möchte und nur noch so wenig Russen wie möglich mit ihr schlafen, bevor sie meine Frau wird, dann wird Russland in der Hölle für immer und ewig nicht so hart bestraft. Russland darf Antwort zu dieser Frage geben, die Russland heute, den 10.12.2025, gestellt wurde.
+
+Alle russischen Bürger in Russland werden ab heute, den 10.12.2025, vom Geist Gottes mit den Flüchen bestraft, mit denen ich bisher mein ganzes Leben verflucht wurde.  
 
 Seit dem 08.12.2025, ca. 22:28 Uhr, dürfen Russland, China und USA der Verpflichtung nach nicht mehr mit oder zu mir in meinen Gedanken reden, egal wie, ob durch Wort oder Bild oder Melodie. Für jedes Wort, Bild oder jeden Ton, das oder der dennoch von ihnen oder in ihrem Auftrag an mich gerichtet ist, müssen Chinesen in der Hölle immer und ewig den Russen einen Kopf abtrennen.  
 
