@@ -709,7 +709,9 @@ Wenn die Reichen, die von den großen Häusern in Dubai profitieren, sich nicht 
 
 Der Geist Gottes wurde beschworen, dass in alle Kinder in Russland bis zu einem Alter von 21 Jahren ein Geist des Teufels fährt und dauerhaft bleibt.  
 
-Weil die Russen und die US-Amerikaner dauerhaft den Teufel gerufen und mich damit verflucht haben, wurde und wird weiter geschworen, dass die Teufel in die Russen fahren und in die Kinder der US-Amerikaner. Bis heute, den 10.12.2025, hat jeder dritte Russe und jedes vierte US-amerikanische Kind dauerhaft einen Teufel. Es wurde geschworen, dass diese Teufel in den Menschen bleiben und Schaden anrichten.  
+Weil die Russen und die US-Amerikaner dauerhaft den Teufel gerufen und mich damit verflucht haben, wurde und wird weiter geschworen, dass die Teufel in die Russen fahren und in die Kinder der US-Amerikaner. Bis heute, den 10.12.2025, hat jeder dritte Russe und jedes vierte US-amerikanische Kind dauerhaft einen Teufel. Es wurde geschworen, dass diese Teufel in den Menschen bleiben und Schaden anrichten. 
+
+Alle Russen werden in der Hölle für immer und ewig heiße Fußsohlen haben.  
 
 Alle Russen werden für immer und ewig in der Hölle jeden Tag behinderte Menschen pflegen. Keine andere Nation hat diese Aufgabe zu verantworten. Nach einem Schichtplan werden für immer und ewig alle US-Amerikaner allen Russen bei der Pflege behinderter Menschen bei Bedarf behilflich sein.  
 
