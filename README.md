@@ -697,6 +697,8 @@ Wenn die Reichen, die von den großen Häusern in Dubai profitieren, sich nicht 
 
 Der Geist Gottes wurde beschworen, dass in alle Kinder in Russland bis zu einem Alter von 21 Jahren ein Geist des Teufels fährt und dauerhaft bleibt.  
 
+Weil die Russen und die US-Amerikaner dauerhaft den Teufel gerufen und mich damit verflucht haben, wurde und wird weiter geschworen, dass die Teufel in die Russen fahren und in die Kinder der US-Amerikaner. Bis heute, den 10.12.2025, hat jeder dritte Russe und jedes vierte US-amerikanische Kind dauerhaft einen Teufel. Es wurde geschworen, dass diese Teufel in den Menschen bleiben und Schaden anrichten.  
+
 Inder werden in der Hölle für immer und ewig immer mal wieder als Kuh leben, Gras fressen und geschlachtet werden.  
 
 Seit dem 08.12.2025, ca. 22:28 Uhr, dürfen Russland, China und USA der Verpflichtung nach nicht mehr mit oder zu mir in meinen Gedanken reden, egal wie, ob durch Wort oder Bild oder Melodie. Für jedes Wort, Bild oder jeden Ton, das oder der dennoch von ihnen oder in ihrem Auftrag an mich gerichtet ist, müssen Chinesen in der Hölle immer und ewig den Russen einen Kopf abtrennen.  
