@@ -739,6 +739,8 @@ Aufgrund der großen Auflehnung, Lästerung und Verfolgung gegen mich werden all
 
 Weil die US-Amerikaner mich so verflucht haben, dass ich nicht schön, sondern eher hässlich sein soll, werden alle Bürger der USA die hässlichsten Menschen für immer und ewig in der Hölle sein.  
 
+Alle deutschen Bürger, die es jemals in Deutschland gegeben hat, werden in der Hölle für immer und ewig jeden Tag vergast.  
+
 Aufgrund der großen Auflehnung und Lästerung gegen Gottes Geist, wird es das tausendjährige Reich nicht geben. Die genaue Anzahl der noch verbleibenden Jahre wird vom Geist Gottes spontan entschieden und kann variieren. Es verbleiben aber etwa nur noch 20 Jahre für das Leben auf dieser Erde. Dabei werde ich für mindestens 13 Jahre der mit Abstand reichste Mensch dieser Erde sein.  
 
 ## Vorfälle im CITEC  
