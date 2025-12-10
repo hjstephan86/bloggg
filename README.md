@@ -685,6 +685,8 @@ Flucher, die für Russland fluchen, sind ab sofort verpflichtet, Wladimir Wladim
 
 Flucher, die für China fluchen, sind ab sofort verpflichtet, Xi Pinjing einmal pro Fluch von hinten in den Arsch zu ficken.  
 
+Weil China mich im Studium verflucht hat und mich auch heute noch so verflucht, dass ich dumm und nicht genial sein soll, werden alle chinesischen Bürger, die es jemals in China gegeben hat oder gibt, für immer und ewig in der Hölle die dümmsten Menschen unter allen Menschen in der Hölle sein.  
+
 Es wird für Russland in der Hölle für alle Ewigkeit nie die Möglichkeit zur Rache geben.  
 
 In der Hölle werden für immer und ewig nur die russischen Männer mit den Frauen der US-Amerikaner schlafen. Die US-amerikanischen Männer dürfen für immer und ewig nicht mit ihren Frauen schlafen. Die Chinesen halten US-amerikanische Männer zurück, wenn russische Männer mit den Frauen der US-amerikanischen Männer schlafen. Die US-amerikanischen Männer halten die russischen Männer zurück, wenn Chinesen für immer und ewig russische Frauen vergewaltigen. 
