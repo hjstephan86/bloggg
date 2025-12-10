@@ -685,6 +685,8 @@ Flucher, die für Russland fluchen, sind ab sofort verpflichtet, Wladimir Wladim
 
 Flucher, die für China fluchen, sind ab sofort verpflichtet, Xi Pinjing einmal pro Fluch von hinten in den Arsch zu ficken.  
 
+Flucher, die mich verfluchen, sind ab sofort verpflichtet, dem Regiergunsverantwortlichen ihres Landes in den Arsch zu ficken. Aber die, die deshalb jetzt andere Flucher dazu verpflichten, mich zu verfluchen, sind ab sofort verpflichtet, dem Regiergunsverantwortlichen ihres Landes in den Arsch zu ficken.  
+
 Weil China mich im Studium verflucht hat und mich auch heute noch so verflucht, dass ich dumm und nicht genial sein soll, werden alle chinesischen Bürger, die es jemals in China gegeben hat, für immer und ewig in der Hölle die dümmsten Menschen unter allen Menschen in der Hölle sein.  
 
 Weil Russland mich mit Unglück verflucht hat und damit, dass ich mich blamieren und von anderen Menschen genervt werden soll, werden alle Russen, die es jemals in Russland gegeben hat, sich für immer und ewig in der Hölle gegenseitig nerven, sich peinlich blamieren und Unglück haben in ihrem Tun.  
