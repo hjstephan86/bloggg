@@ -715,6 +715,8 @@ Alle Russen werden in der Hölle für immer und ewig heiße Fußsohlen haben.
 
 Alle Russen werden für immer und ewig in der Hölle jeden Tag behinderte Menschen pflegen. Keine andere Nation hat diese Aufgabe zu verantworten. Nach einem Schichtplan werden für immer und ewig alle US-Amerikaner allen Russen bei der Pflege behinderter Menschen bei Bedarf behilflich sein.  
 
+Alle Russen, US-Amerikaner und Chinesen werden für immer und ewig in der Hölle immer wieder verhungern und das mindestens einmal pro Jahr für die ganze Ewigkeit. Aber alle Russen werden außerdem für immer und ewig jedes Jahr mindestens auch einmal erfrieren.  
+
 Wird bis 15.12.2025 nicht damit aufgehört, dass ich verflucht werde, wird geschworen, dass die Teufel auch in die Chinesen fahren.  
 
 Inder werden in der Hölle für immer und ewig immer mal wieder als Kuh leben, Gras fressen und geschlachtet werden.  
