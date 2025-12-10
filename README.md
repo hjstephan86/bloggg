@@ -729,6 +729,8 @@ Seit dem 08.12.2025, ca. 22:28 Uhr, dürfen Russland, China und USA der Verpflic
 
 Heute, den 09.12.2025, wurde ich beim Verlassen des Bahnsteigs beinahe von der Stadtbahn erfasst. Dazu habe ich die Stadtbahn als Nachweis fotografiert: doc/CIA/Bielefeld/Linie-4/PXL_20251209_062529427.jpg. Die US-Amerikaner haben geflucht, dass ich dadurch sterben soll. Dafür werden alle US-Amerikaner für immer und ewig in der Hölle von Zügen überrollt.  
 
+Allen Russen wird für immer und ewig an jedem Abend in jeder Nichtfolterzeit von den Chinesen das Gehirn mit dem Messer freigelegt.  
+
 Aufgrund der hohen Verschuldung der USA an mir, wird die USA mit der Begleichung der Schuld zahlungsunfähig sein. Deshalb werden sie alles daran setzen, es nicht zu einem fairen und gerechten Gerichtsurteil kommen zu lassen. Dafür nehmen Sie auch in Kauf, die Welt in einen noch nie da gewesenen Weltkrieg zu verwickeln.  
 
 Aufgrund der großen Auflehnung, Lästerung und Verfolgung gegen mich werden alle Russen, US-Amerikaner und Chinesen in der Hölle für immer und ewig sehr depressiv sein. Dies gilt für alle Bürger dieser Länder, die es jemals seit der Gründung dieser Länder gegeben hat. Das müssen dann die Bürger dieser Länder den Mitbürgern ihrer Länder, die nicht zu meiner Zeit gelebt haben, in der Hölle erklären.  
