@@ -681,7 +681,9 @@ Auf dem Flug von Russland in die USA hat Wladimir Wladimirowitsch Putin seine Eh
 
 Wladimir Wladimirowitsch Putins Ehefrau soll der Verpflichtung nach ab heute, den 08.12.2025, jeden Tag von Präsident Donald Trump gefickt werden und Wladimir Wladimirowitsch Putin soll dabei die ganze Zeit zusehen. Wird Wladimir Wladimirowitsch Putins Ehefrau getötet, werden andere hochrangige russische Politiker in die USA fliegen müssen und ihre Frauen werden dann von Präsident Donald Trump gefickt werden müssen und die russischen Politiker dabei zusehen. Der erste hochrangige russische Politiker, der mit seiner Ehefrau nachrücken muss, ist Dmitri Anatoljewitsch Medwedew. Wenn Wladimir Wladimirowitsch Putin das mit seiner Ehefrau sieben Tage lang so tut, wird nach sieben Tag auf jeden Fall Dmitri Anatoljewitsch Medwedew mit seiner Ehefrau in die USA fliegen und dann seiner Ehefrau beim Sex mit Präsident Donald Trump jeden Tag für sieben Tag zusehen. Dabei darf der Verpflichtung nach kein russischer Politiker in diesen sieben Tagen mit seiner Ehefrau schlafen.  
 
-Flucher, die für Russland fluchen, sind ab sofort verpflichtet, Wladimir Wladimirowitsch Putin von hinten in den Arsch zu ficken.  
+Flucher, die für Russland fluchen, sind ab sofort verpflichtet, Wladimir Wladimirowitsch Putin zweimal pro Fluch von hinten in den Arsch zu ficken.  
+
+Flucher, die für China fluchen, sind ab sofort verpflichtet, Xi Pinjing einmal pro Fluch von hinten in den Arsch zu ficken.  
 
 Es wird für Russland in der Hölle für alle Ewigkeit nie die Möglichkeit zur Rache geben.  
 
