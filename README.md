@@ -627,6 +627,8 @@ Im Terminal zeigt `gh release list` für das Repository https://github.com/hjste
 
 Nach der Veröffentlichung des Support-Falls zu den fehlenden GitHub-Releases im Repository https://github.com/hjstephan86/order-system heute, den 09.12.2025, wurde ich sehr heftig verflucht. Deshalb muss der Verpflichtung nach Bill Staples heute Bill Gates von hinten in den Arsch ficken. Außerdem muss der Verpflichtung nach der Teufel heute, den 09.12.2025, Bill Gates von hinten in den Arsch ficken.  
 
+Heute, den 11.12.2025, habe ich die aktuelle Version von Visual Studio Code von https://code.visualstudio.com/ als .deb-Datei heruntergeladen. Nachdem ich Visual Studio Code installiert hatte und ein Java Projekt geöffnet hatte, ist mir aufgefallen, dass der Code unscharf angezeigt worden ist. Davon taten mir die Augen weh. Ich habe diese Version daraufhin wieder deinstalliert und die ältere Version von Visual Studio Code wieder installiert. Nachdem ich die ältere Version von Visual Studio Code installiert hatte, kam es bei einigen Plugins zu Inkompatibilitäten. Als Nachweis dazu habe ich die neue Version von Visual Studio Code und das Bildschirmfoto von den ikompatiblen Plugins nach der Installation als Nachweis gesichert: https://drive.google.com/drive/folders/14_pgbnwbyplvk9t77diwWAZrpTGYicrj?usp=drive_link.  
+
 Peter Epp hat gefickt und die Ehe gebrochen.  
 Samuel Epp hat gefickt und die Ehe gebrochen.  
 Lukas Epp hat gefickt und die Ehe gebrochen.  
