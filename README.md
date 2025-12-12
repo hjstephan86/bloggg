@@ -507,6 +507,8 @@ Idee zur Alternative von Vivado Design Suite:
 
 ## Verfolgung
 
+Mittlerweile hören mindestens 10 Mio Menschen weltweit meine Gedanken in Echtzeit. Das ist erstaunlich, dass die Nachfrage an meinen Gedanken so hoch ist, wo doch allen Hörern klar ist, dass ich immer noch verflucht werde und ich getötet werden soll. Warum ist das Interesse an meinen Gedanken trotzdem so groß?  
+
 Es wurde heute, den 11.11.2025, etwa gegen 23:30 Uhr aus England eine Rakete gestartet, die das Haus an der Otto-Brenner-Straße 77 in 33607 Bielefeld zerstören sollte. Diese Rakete hat ihr Ziel nicht erreicht. Sie hätte gegen 23:34 Uhr das Ziel erreichen sollen, ist aber stattdessen über Belgien explodiert.
 
 Im Rahmen des betreuungsgerichtlichen Verfahrens 2 XVII 991/25 wurde ich von Herrn Köhler für das psychiatrische Fachgutachten am 20.10.2025 um 8 Uhr bei Herrn Köhler im Büro untersucht. Dazu habe ich ein Gesprächsprotokoll erstellt. Dieses Gesprächsprotokoll habe ich Herrn Köhler zusammen mit den Klagen zeitnah nach dem Gespräch am 20.10.2025 per E-Mail zukommen lassen. Herr Köhler hat sich im Gespräch für die Klagen interessiert und darum gebeten, dass ich Herrn Köhler diese Klagen zukommen lasse. Das Gesprächsprotokoll befindet sich unter doc/CIA/Bielefeld/Amtsgericht/.
@@ -718,8 +720,6 @@ Alle Russen werden in der Hölle für immer und ewig heiße Fußsohlen haben.
 Alle Russen werden für immer und ewig in der Hölle jeden Tag behinderte Menschen pflegen. Keine andere Nation hat diese Aufgabe zu verantworten. Nach einem Schichtplan werden für immer und ewig alle US-Amerikaner allen Russen bei der Pflege behinderter Menschen bei Bedarf behilflich sein.  
 
 Alle Russen, US-Amerikaner und Chinesen werden für immer und ewig in der Hölle immer wieder verhungern und das mindestens einmal pro Jahr für die ganze Ewigkeit. Aber alle Russen werden außerdem für immer und ewig jedes Jahr mindestens auch einmal erfrieren.  
-
-Wird bis 15.12.2025 nicht damit aufgehört, dass ich verflucht werde, wird geschworen, dass die Teufel auch in die Chinesen fahren.  
 
 Inder werden in der Hölle für immer und ewig immer mal wieder als Kuh leben, Gras fressen und geschlachtet werden.  
 
