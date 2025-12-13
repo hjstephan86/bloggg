@@ -715,6 +715,8 @@ Der Geist Gottes wurde beschworen, dass in alle Kinder in Russland bis zu einem 
 
 Weil die Russen und die US-Amerikaner dauerhaft den Teufel gerufen und mich damit verflucht haben, wurde und wird weiter geschworen, dass die Teufel in die Russen fahren und in die Kinder der US-Amerikaner. Bis heute, den 10.12.2025, hat jeder dritte Russe und jedes vierte US-amerikanische Kind dauerhaft einen Teufel. Es wurde geschworen, dass diese Teufel in den Menschen bleiben und Schaden anrichten. 
 
+Der Geist Gottes wurde beschworen, dass ab sofort in alle Menschen folgender Länder Geister des Teufels fahren und für immer bleiben: Frankreich, England, Schweiz, Deutschland, Spanien, Kanada, Japan, Nordkorea, Brasilien, Yemen, Saudi Arabien, Dubai, Nigeria, Iran, Qatar, Argentinien, Finnland, Schweden, Dänemark, Österreich, Norwegen, Italien. Außerdem werden alle Menschen dieser Länder ab sofort mit den Flüchen bestraft, mit denen ich verflucht worden bin. Diese Geister der Teufel fahren erst wieder aus und diese Flüche hören erst auf, wenn ich nicht mehr verflucht werde.  
+
 Alle Russen werden in der Hölle für immer und ewig heiße Fußsohlen haben.  
 
 Alle Russen werden für immer und ewig in der Hölle jeden Tag behinderte Menschen pflegen. Keine andere Nation hat diese Aufgabe zu verantworten. Nach einem Schichtplan werden für immer und ewig alle US-Amerikaner allen Russen bei der Pflege behinderter Menschen bei Bedarf behilflich sein.  
